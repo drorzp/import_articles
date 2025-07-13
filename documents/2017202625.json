@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "document_number": "2017202625",
+    "title": "2017202625 4 MAI 2017. - Arrêté du Gouvernement wallon fixant pour l'exercice 2017 les priorités d'octroi du budget d'assistance personnelle conformément à l'article 804 du Code réglementaire wallon de l'Action sociale et de la Santé",
+    "publication_date": "2017-05-19",
+    "source": "Service public de Wallonie",
+    "page_number": 58497,
+    "dossier_number": "2017-05-04/08",
+    "effective_date": "2017-05-19",
+    "language": "fr",
+    "document_type": "arrete",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/arrete/2017/05/04/2017202625/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2017/05/19_2.pdf#Page561",
+    "consolidated_pdf_url": ""
+  },
+  "document_hierarchy": [
+    {
+      "type": "article",
+      "label": "Art. 1er",
+      "metadata": {
+        "article_range": "1er",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "1er",
+        "anchor_id": "art_1er",
+        "content": {
+          "main_text": ". Le présent arrêté règle, en vertu de l'article 138 de la Constitution, une matière visée à l'article 128, § 1er, de celle-ci.",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Art. 2",
+      "metadata": {
+        "article_range": "2",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "2",
+        "anchor_id": "art_2",
+        "content": {
+          "main_text": "Dans la limite des crédits disponibles, pour l'exercice 2017, les budgets d'assistance personnelle sont accordés exclusivement aux personnes handicapées présentant une maladie évolutive figurant dans la liste ci-dessous :  \n  a) sclérose latérale amyotrophique (SLA);  \n  b) sclérose latérale primitive (SLP);  \n  c) atrophie spino musculaire progressive;  \n  d) dégénérescence cortico-basale;  \n  e) atrophie multisystème (MSA);  \n  f) paralysie supranucléaire progressive (PSP).  \n  \n**ARTICLE**[Art.] 3\\. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge. \n\n[11A] ## Signatures [11B]\n\n   Namur, le 4 mai 2017.  \nLe Ministre-Président,  \nP. MAGNETTE  \nLe Ministre des Travaux publics, de la Santé, de l'Action sociale et du Patrimoine,  \nM. PREVOT \n\n[9A] ## Préambule [9B]\n\n   Vu le Code wallon de l'Action sociale et de la Santé, Deuxième partie, Livre 4;   \n   Vu le Code réglementaire wallon de l'Action sociale et de la Santé, article 804;   \n   Vu l'avis de l'Inspecteur des Finances, donné le 30 janvier 2017;   \n   Vu l'accord du Ministre du Budget, donné le 4 mai 2017;   \n   Sur la proposition du Ministre de la Santé et de l'Action sociale;   \n   Après délibération,   \n   Arrête : \n\n[5A] [6A] ## Lien [6B]s [5B]\n\n<https://www.ejustice.just.fgov.be/eli/arrete/2017/05/04/2017202625/justel> Copier le lien [Image de la publication officielle](https://www.ejustice.just.fgov.be/mopdf/2017/05/19_2.pdf#Page561)\n\n[6A] ## Lien [6B] externe\n\n[Conseil d'Etat](http://reflex.raadvst-consetat.be/reflex/?page=chrono&c=detail_get&d=detail&docid=136073&tab=chrono&lang=fr) Informations générales\n\n  * [Conditions d'utilisation](https://www.ejustice.just.fgov.be/img_2024/pdf/GebruiksvoorwaardenFR.pdf)\n\nLiens utiles\n\n  * [SPF Justice](https://justitie.belgium.be/fr)\n  * [Ministère Public](https://www.om-mp.be/fr)\n  * [Cours & tribunaux](https://www.rechtbanken-tribunaux.be/fr)\n  * [Cours de cassation](https://justice.belgium.be/fr/ordre_judiciaire/cours_et_tribunaux/cour_de_cassation)\n\nCopyright © 2024 Service Public Fédéral Belge",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": []
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-07-12T13:12:32.767786",
+    "source_file": "2017202625.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false
+    }
+  }
+}

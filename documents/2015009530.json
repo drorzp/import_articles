@@ -1,0 +1,2399 @@
+{
+  "document_metadata": {
+    "document_number": "2015009530",
+    "title": "2015009530 19 OCTOBRE 2015. - Loi modifiant le droit de la procédure civile et portant des dispositions diverses en matière de justice(NOTE : Consultation des versions antérieures à partir du 22-10-2015 et mise à jour au 30-05-2018)",
+    "publication_date": "2015-10-22",
+    "source": "Justice",
+    "page_number": 65084,
+    "dossier_number": "2015-10-19/01",
+    "effective_date": "2015-11-01",
+    "language": "fr",
+    "document_type": "loi",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 3,
+      "archived_versions_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arch=003&lg_txt=f&type=&sort=&numac_search=2015009530&cn_search=2015101901&caller=eli&&view_numac=2015101901fx2015101901nl",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/loi/2015/10/19/2015009530/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2015/10/22_1.pdf#Page2",
+    "consolidated_pdf_url": "https://www.ejustice.just.fgov.be/img_l/pdf/2015/10/19/2015009530_F.pdf"
+  },
+  "document_hierarchy": [
+    {
+      "type": "titre",
+      "label": "TITRE 1er. Disposition générale",
+      "metadata": {
+        "title_type": "TITRE 1er.",
+        "title_content": "Disposition générale",
+        "rank": 1
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 1er",
+          "metadata": {
+            "article_range": "1er",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1er",
+            "anchor_id": "art_1er",
+            "content": {
+              "main_text": ". La présente loi règle une matière visée à l'article 74 de la Constitution.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "TITRE 2. Modifications du droit de la procédure civile",
+      "metadata": {
+        "title_type": "TITRE 2.",
+        "title_content": "Modifications du droit de la procédure civile",
+        "rank": 1
+      },
+      "children": [
+        {
+          "type": "chapitre",
+          "label": "CHAPITRE 1er. Modifications du Code judiciaire",
+          "metadata": {
+            "title_type": "CHAPITRE 1er.",
+            "title_content": "Modifications du Code judiciaire",
+            "rank": 2
+          },
+          "children": [
+            {
+              "type": "section",
+              "label": "Section 1re. Dispositions modificatives",
+              "metadata": {
+                "title_type": "Section 1re.",
+                "title_content": "Dispositions modificatives",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 2",
+                  "metadata": {
+                    "article_range": "2",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "2",
+                    "anchor_id": "art_2",
+                    "content": {
+                      "main_text": "Dans l'article 23 du Code judiciaire, les mots \"que la demande soit fondée sur la même cause;\" sont remplacés par les mots \"que la demande repose sur la même cause, quel que soit le fondement juridique invoqué;\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 3",
+                  "metadata": {
+                    "article_range": "3",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "3",
+                    "anchor_id": "art_3",
+                    "content": {
+                      "main_text": "Dans le même Code, il est inséré un article 32ter rédigé comme suit:  \n  \"Art. 32ter. Toute notification ou toute communication à ou tout dépôt auprès des cours ou tribunaux, du ministère public ou des services qui dépendent du pouvoir judiciaire en ce compris les greffes et les secrétariats de parquet, ou toute notification ou toute communication à un avocat, un huissier de justice ou un notaire par les cours ou tribunaux, le ministère public ou des services qui dépendent du pouvoir judiciaire en ce compris les greffes et les secrétariats de parquet, ou par un avocat, un huissier de justice ou un notaire, peut se faire au moyen du système informatique de la Justice désigné par le Roi.  \n  Le Roi fixe les modalités de ce système informatique, la confidentialité et l'effectivité de la communication étant garanties.  \n  Le recours au système informatique précité peut être imposé par le Roi aux instances, services ou acteurs mentionnés à l'alinéa 1er ou à certains d'entre eux.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 4",
+                  "metadata": {
+                    "article_range": "4",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "4",
+                    "anchor_id": "art_4",
+                    "content": {
+                      "main_text": "L'article 38, § 2, alinéa 1er, du même Code, remplacé par la loi du 24 mai 1985, est complété par la phrase suivante:  \n  \"La signification au procureur du Roi peut être faite par la remise de la copie de l'acte à un secrétaire ou à un juriste de parquet.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 5",
+                  "metadata": {
+                    "article_range": "5",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "5",
+                    "anchor_id": "art_5",
+                    "content": {
+                      "main_text": "L'article 40, alinéa 2, du même Code est complété par la phrase suivante:  \n  \"La signification au procureur du Roi peut être faite par la remise de la copie de l'acte à un secrétaire ou à un juriste de parquet.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 6",
+                  "metadata": {
+                    "article_range": "6",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "6",
+                    "anchor_id": "art_6",
+                    "content": {
+                      "main_text": "Dans l'article 42, alinéa unique, du même Code, le 7° est complété par la phrase suivante:  \n  \"La signification au procureur du Roi peut être faite par la remise de la copie de l'acte à un secrétaire ou à un juriste de parquet.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 7",
+                  "metadata": {
+                    "article_range": "7",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "7",
+                    "anchor_id": "art_7",
+                    "content": {
+                      "main_text": "Dans le même Code, il est inséré un article 46/1 rédigé comme suit:  \n  \"Art. 46/1. La notification par simple lettre à une partie pour laquelle un avocat agit conformément aux articles 728, 729 ou 729/1 et qui n'a pas informé le greffe conformément à l'article 729/1 qu'il cessait d'agir pour cette partie se fait par simple lettre à cet avocat.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 8",
+                  "metadata": {
+                    "article_range": "8",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "8",
+                    "anchor_id": "art_8",
+                    "content": {
+                      "main_text": "L'article 57, alinéa 2, du même Code est complété par la phrase suivante:  \n  \"La remise d'une copie de l'exploit au procureur du Roi peut être faite à un secrétaire ou à un juriste de parquet.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 9",
+                  "metadata": {
+                    "article_range": "9",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "9",
+                    "anchor_id": "art_9",
+                    "content": {
+                      "main_text": "Dans l'article 519, § 1er, alinéa 2, du même Code, remplacé par la loi du 7 janvier 2014, il est inséré un 1° bis rédigé comme suit:  \n  \"1° bis. Le recouvrement des dettes d'argent non contestées conformément au chapitre Iquinquies du titre 1er de la cinquième partie;\"",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 10",
+                  "metadata": {
+                    "article_range": "10",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "10",
+                    "anchor_id": "art_10",
+                    "content": {
+                      "main_text": "Dans le texte néerlandais de l'article 702, 3°, du même Code, le mot \"onderwerp\" est remplacé par le mot \"voorwerp\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 11",
+                  "metadata": {
+                    "article_range": "11",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "11",
+                    "anchor_id": "art_11",
+                    "content": {
+                      "main_text": "Dans le même Code, il est inséré un article 729/1 rédigé comme suit:  \n  \"Art. 729/1. L'avocat qui agit pour une partie qui auparavant n'avait pas d'avocat, l'avocat qui succède à un autre avocat et l'avocat qui cesse d'agir pour une partie sans que lui succède un autre avocat en informent sans délai le greffe par simple lettre.  \n  Cette notification prend effet dès sa réception.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 12",
+                  "metadata": {
+                    "article_range": "12",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "12",
+                    "anchor_id": "art_12",
+                    "content": {
+                      "main_text": "A l'article 744 du même Code, modifié par la loi du 26 avril 2007, les modifications suivantes sont apportées:  \n  1° l'alinéa 1er est abrogé;  \n  2° la première phrase de l'alinéa 2 devient l'alinéa 1er et est remplacée par la phrase suivante:  \n  \"Les conclusions contiennent également, successivement et expressément:  \n  1° l'exposé des faits pertinents pour la solution du litige;  \n  2° les prétentions du concluant;  \n  3° les moyens invoqués à l'appui de la demande ou de la défense, le cas échéant en numérotant les différents moyens et en indiquant leur caractère principal ou subsidiaire;  \n  4° la demande quant au dispositif du jugement, le cas échéant en indiquant le caractère principal ou subsidiaire de ses différentes branches.\";  \n  3° la deuxième phrase de l'alinéa 2 devient l'alinéa 2.",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "l'alinéa 1er est abrogé;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "la première phrase de l'alinéa 2 devient l'alinéa 1er et est remplacée par la phrase suivante:",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "1°",
+                          "text": "l'exposé des faits pertinents pour la solution du litige;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "les prétentions du concluant;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "3°",
+                          "text": "les moyens invoqués à l'appui de la demande ou de la défense, le cas échéant en numérotant les différents moyens et en indiquant leur caractère principal ou subsidiaire;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "4°",
+                          "text": "la demande quant au dispositif du jugement, le cas échéant en indiquant le caractère principal ou subsidiaire de ses différentes branches.\";",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "3°",
+                          "text": "la deuxième phrase de l'alinéa 2 devient l'alinéa 2.",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 13",
+                  "metadata": {
+                    "article_range": "13",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "13",
+                    "anchor_id": "art_13",
+                    "content": {
+                      "main_text": "Dans l'article 748bis du même Code, inséré par la loi du 26 avril 2007, la première phrase commençant par les mots \"sans préjudice\" et finissant par les mots \"conclusions de synthèse\" est remplacée par la phrase suivante:  \n  \"Sauf dans les cas où des conclusions peuvent être prises en-dehors des délais visés à l'article 747, les dernières conclusions d'une partie prennent la forme de conclusions de synthèse.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 14",
+                  "metadata": {
+                    "article_range": "14",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "14",
+                    "anchor_id": "art_14",
+                    "content": {
+                      "main_text": "A l'article 764 du même Code, remplacé par la loi du 3 août 1992 et modifié en dernier lieu par la loi du 12 mai 2014, les modifications suivantes sont apportées:  \n  1° l'alinéa 2 est remplacé par ce qui suit:  \n  \"Le ministère public peut se faire communiquer toutes les autres causes lorsqu'il le juge convenable. Le tribunal ou la cour peut également ordonner d'office la communication, à l'exception de l'action visée à l'article 138bis, § 2, alinéa 1er.\"  \n  2° l'article est complété par trois alinéas rédigés comme suit:  \n  \"Le ministère public émet son avis dans la forme la plus appropriée lorsqu'il le juge convenable.  \n  Par dérogation à l'alinéa 3, le ministère public émet toujours, dans les cas visés à l'alinéa 1er, 10°, un avis lorsque le tribunal le demande.  \n  Le collège des procureurs généraux arrête des directives précisant dans quelles affaires visées à l'alinéa 1er un avis sera rendu. Ces directives sont contraignantes pour tous les membres du ministère public. Les procureurs généraux près les cours d'appel veillent à l'exécution de ces directives au sein de leur ressort.\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "l'alinéa 2 est remplacé par ce qui suit:",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "l'article est complété par trois alinéas rédigés comme suit:",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 15",
+                  "metadata": {
+                    "article_range": "15",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "15",
+                    "anchor_id": "art_15",
+                    "content": {
+                      "main_text": "L'article 765/1 du même Code, inséré par la loi du 12 mai 2014, est remplacé par ce qui suit:  \n  \"Art. 765/1. A peine de nullité, le tribunal de la famille et les chambres de la famille de la cour d'appel ne statuent, pour les affaires concernant des mineurs d'âge, qu'après avoir communiqué la cause au ministère public et qu'après avoir pris connaissance de son éventuel avis.  \n  Le ministère public a pour mission de communiquer de la façon la plus appropriée et dans le respect du contradictoire toutes les informations pertinentes au tribunal.  \n  Les alinéas 4 et 5 de l'article 764 s'appliquent par analogie.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 16",
+                  "metadata": {
+                    "article_range": "16",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "16",
+                    "anchor_id": "art_16",
+                    "content": {
+                      "main_text": "L'article 766 du même Code, remplacé par la loi du 14 novembre 2000 et modifié en dernier lieu par la loi du 25 avril 2014, est remplacé par ce qui suit:  \n  \"Art. 766. § 1er. Si une cause est communicable en vertu de la loi ou si le ministère public en demande communication, le greffe informe le ministère public de la date de l'audience ainsi que de l'identité des parties et, le cas échéant, des mineurs concernés.  \n  Si le ministère public estime convenable d'émettre un avis oral, celui-ci est émis à l'audience. Il en est fait mention sur la feuille d'audience.  \n  Si le ministère public estime convenable d'émettre un avis écrit avant l'audience, celui-ci est déposé au greffe au plus tard la veille de l'audience et communiqué à l'avocat des parties ou, si elles n'ont pas d'avocat, aux parties elles-mêmes.  \n  Si le ministère public estime convenable d'émettre un avis écrit après les plaidoiries, il en informe le juge avant la clôture des débats. Cet avis est déposé au greffe et communiqué à l'avocat des parties ou, si elles n'ont pas d'avocat, aux parties elles-mêmes au plus tard à une date déterminée par le juge qui fixe également la date jusqu'à laquelle les parties peuvent déposer au greffe leurs conclusions pour répliquer à l'avis du ministère public.  \n  Si le ministère public estime convenable de n'émettre aucun avis, il en avise le greffe au plus tard la veille de l'audience.  \n  § 2. Pour les autres causes, le juge qui le souhaite communique la cause au ministère public au plus tard au moment où il prononce la clôture des débats. Il en est fait mention sur la feuille d'audience. Le juge fixe la date de l'audience à laquelle le ministère public émettra son éventuel avis oral et à laquelle les parties pourront répliquer à l'éventuel avis oral ou écrit du ministère public. Une copie de la feuille d'audience est transmise au ministère public avec les pièces de la procédure dans les quarante-huit heures de l'audience.  \n  Dans les huit jours qui précèdent l'audience visée à l'alinéa 1er, le ministère public informe le greffe quant à son intention d'émettre ou non un avis et quant à la forme de celui-ci. Si l'avis est donné par écrit, il est déposé dans le même délai au greffe et communiqué à l'avocat des parties ou, si elles n'ont pas d'avocat, aux parties elles-mêmes.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 17",
+                  "metadata": {
+                    "article_range": "17",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "17",
+                    "anchor_id": "art_17",
+                    "content": {
+                      "main_text": "L'article 767 du même Code, remplacé par la loi du 14 novembre 2000 et modifié en dernier lieu par la loi du 25 avril 2014, est remplacé par ce qui suit:  \n  \"Art. 767. § 1er. Si l'avis éventuel du ministère public est émis oralement, les parties qui comparaissent sont entendues immédiatement en leurs observations sur cet avis.  \n  Si l'avis éventuel est émis par écrit et déposé au greffe préalablement à l'audience, les parties peuvent y répliquer oralement à l'audience ou à une audience ultérieure fixée par le juge.  \n  Le juge peut toutefois autoriser la partie qui le demande, à répliquer par écrit par conclusions déposées au greffe dans le délai qu'il fixe. La décision du juge n'est susceptible d'aucun recours.  \n  § 2. Les répliques des parties sur l'avis du ministère public ne sont prises en considération que dans la mesure où elles répondent à l'avis du ministère public.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 18",
+                  "metadata": {
+                    "article_range": "18",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "18",
+                    "anchor_id": "art_18",
+                    "content": {
+                      "main_text": "Dans l'article 770, § 1er, du même Code, modifié en dernier lieu par la loi du 25 avril 2004, l'alinéa 1er est remplacé par ce qui suit:  \n  \"Lorsque le juge tient la cause en délibéré pour prononcer le jugement, il fixe le jour de cette prononciation, qui doit avoir lieu dans le mois, à partir de la clôture des débats. Ce délai est prolongé d'un mois lorsque les débats ont été clos au cours du mois avant les vacances judiciaires visées à l'article 334.\"",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 19",
+                  "metadata": {
+                    "article_range": "19",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "19",
+                    "anchor_id": "art_19",
+                    "content": {
+                      "main_text": "Dans l'article 780, alinéa 1er, du même Code, le 3° est remplacé par ce qui suit:  \n  \"3° l'objet de la demande et la réponse aux moyens des parties exposés conformément à l'article 744, alinéa 1er;\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 20",
+                  "metadata": {
+                    "article_range": "20",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "20",
+                    "anchor_id": "art_20",
+                    "content": {
+                      "main_text": "L'article 806 du même Code est remplacé par ce qui suit:  \n  \"Art. 806. Dans le jugement par défaut, le juge fait droit aux demandes ou moyens de défense de la partie comparante, sauf dans la mesure où la procédure, ces demandes ou moyens sont contraires à l'ordre public.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 21",
+                  "metadata": {
+                    "article_range": "21",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "21",
+                    "anchor_id": "art_21",
+                    "content": {
+                      "main_text": "Dans le texte néerlandais de l'article 825, alinéa 1er, du même Code, le mot \"onderwerp\" est remplacé par le mot \"voorwerp\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 22",
+                  "metadata": {
+                    "article_range": "22",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "22",
+                    "anchor_id": "art_22",
+                    "content": {
+                      "main_text": "Dans l'article 860 du même Code, l'alinéa 1er, est remplacé par ce qui suit:  \n  \"Quelle que soit la formalité omise ou irrégulièrement accomplie, aucun acte de procédure ne peut être déclaré nul, aucune violation d'un délai prescrit à peine de nullité ne peut être sanctionnée, si la sanction n'est pas formellement prononcée par la loi.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 23",
+                  "metadata": {
+                    "article_range": "23",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "23",
+                    "anchor_id": "art_23",
+                    "content": {
+                      "main_text": "L'article 861 du même Code est remplacé par ce qui suit:  \n  \"Art. 861. Le juge ne peut déclarer nul un acte de procédure ou sanctionner le non-respect d'un délai prescrit à peine de nullité que si l'omission ou l'irrégularité dénoncée nuit aux intérêts de la partie qui invoque l'exception.\"",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 24",
+                  "metadata": {
+                    "article_range": "24",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "24",
+                    "anchor_id": "art_24",
+                    "content": {
+                      "main_text": "L'article 862 du même Code, remplacé par la loi du 3 août 1992, est abrogé.",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 25",
+                  "metadata": {
+                    "article_range": "25",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "25",
+                    "anchor_id": "art_25",
+                    "content": {
+                      "main_text": "L'article 864 du même Code, remplacé par la loi du 3 août 1992, est remplacé par ce qui suit:  \n  \"Art. 864. La nullité qui entacherait un acte de procédure ou le non-respect d'un délai prescrit à peine de nullité sont couverts s'ils ne sont pas proposés simultanément et avant tout autre moyen.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 26",
+                  "metadata": {
+                    "article_range": "26",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "26",
+                    "anchor_id": "art_26",
+                    "content": {
+                      "main_text": "Dans l'article 865 du même Code, remplacé par la loi du 26 avril 2007, le chiffre \"867\" est remplacé par le chiffre \"861\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 27",
+                  "metadata": {
+                    "article_range": "27",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "27",
+                    "anchor_id": "art_27",
+                    "content": {
+                      "main_text": "L'article 867 du même Code, remplacé par la loi du 26 avril 2007, est abrogé.",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 28",
+                  "metadata": {
+                    "article_range": "28",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "28",
+                    "anchor_id": "art_28",
+                    "content": {
+                      "main_text": "L'article 875bis du même Code, inséré par la loi du 15 mai 2007, est remplacé par ce qui suit:  \n  \"Art. 875bis. Sauf lorsque la mesure a trait au respect d'une condition de recevabilité, le juge ne peut ordonner une mesure d'instruction qu'après que l'action concernée a été déclarée recevable.  \n  Le juge limite le choix de la mesure d'instruction et le contenu de cette mesure à ce qui est suffisant pour la solution du litige, à la lumière de la proportionnalité entre les coûts attendus de la mesure et l'enjeu du litige et en privilégiant la mesure la plus simple, la plus rapide et la moins onéreuse.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 29",
+                  "metadata": {
+                    "article_range": "29",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "29",
+                    "anchor_id": "art_29",
+                    "content": {
+                      "main_text": "Dans le texte néerlandais de l'article 1026, alinéa unique, 3°, du même Code, le mot \"onderwerp\" est remplacé par le mot \"voorwerp\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 30",
+                  "metadata": {
+                    "article_range": "30",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "30",
+                    "anchor_id": "art_30",
+                    "content": {
+                      "main_text": "Dans le texte néerlandais de l'article 1034ter, alinéa unique, 4°, du même Code, inséré par la loi du 3 août 1992, le mot \"onderwerp\" est remplacé par le mot \"voorwerp\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 31",
+                  "metadata": {
+                    "article_range": "31",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "31",
+                    "anchor_id": "art_31",
+                    "content": {
+                      "main_text": "L'article 1050 du même Code, modifié par la loi du 3 août 1992, est remplacé par ce qui suit:  \n  \"Art. 1050. En toutes matières, l'appel peut être formé dès la prononciation du jugement, même si celui-ci a été rendu par défaut.  \n  Contre une décision rendue sur la compétence ou, sauf si le juge en décide autrement, une décision avant dire droit, un appel ne peut être formé qu'avec l'appel contre le jugement définitif.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 32",
+                  "metadata": {
+                    "article_range": "32",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "32",
+                    "anchor_id": "art_32",
+                    "content": {
+                      "main_text": "Dans la cinquième partie, titre I, du même Code, il est inséré un chapitre Iquinquies, intitulé \"Du recouvrement de dettes d'argent non contestées\" et comportant les articles 1394/20 à 1394/27.",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 33",
+                  "metadata": {
+                    "article_range": "33",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "33",
+                    "anchor_id": "art_33",
+                    "content": {
+                      "main_text": "Dans le chapitre Iquinquies inséré par l'article 32, il est inséré un article 1394/20 rédigé comme suit:  \n  \"Art. 1394/20. Toute dette non contestée qui a pour objet une somme d'argent et qui est certaine et exigible à la date de la sommation visée à l'article 1394/21 peut, quel qu'en soit le montant, augmenté des majorations prévues par la loi et des frais du recouvrement ainsi que, le cas échéant et à concurrence de 10 % au maximum du montant principal de la créance, de tous les intérêts et clauses pénales, être recouvrée au nom et pour compte du créancier, à la demande de l'avocat du créancier, par un huissier de justice, à l'exception de dettes concernant:  \n  1° des autorités publiques visées à l'article 1412bis, § 1;  \n  2° des créanciers ou débiteurs qui ne sont pas inscrits dans la Banque Carrefour des Entreprises;  \n  3° des opérations qui ne sont pas exécutées dans le cadre des activités de l'entreprise;  \n  4° une faillite, une réorganisation judiciaire, un règlement collectif de dettes et d'autres formes de concours légal;  \n  5° des obligations non contractuelles, sauf si  \n  a) elles font l'objet d'un accord entre les parties ou s'il y a une reconnaissance de dette,  \n  ou  \n  b) elles ont trait à des dettes découlant de la propriété commune de biens.\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "des autorités publiques visées à l'article 1412bis, § 1;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "des créanciers ou débiteurs qui ne sont pas inscrits dans la Banque Carrefour des Entreprises;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "3°",
+                          "text": "des opérations qui ne sont pas exécutées dans le cadre des activités de l'entreprise;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "4°",
+                          "text": "une faillite, une réorganisation judiciaire, un règlement collectif de dettes et d'autres formes de concours légal;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "5°",
+                          "text": "des obligations non contractuelles, sauf si",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 34",
+                  "metadata": {
+                    "article_range": "34",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "34",
+                    "anchor_id": "art_34",
+                    "content": {
+                      "main_text": "Dans le même chapitre Iquinquies, il est inséré un article 1394/21 rédigé comme suit:  \n  \"Art. 1394/21. Avant de procéder au recouvrement, l'huissier de justice signifie au débiteur une sommation de payer.  \n  La sommation contient, à peine de nullité, outre les mentions prévues à l'article 43:  \n  1° une description claire de l'obligation dont découle la dette;  \n  2° une description et une justification claires de tous les montants réclamés au débiteur, y compris les frais de la sommation et, le cas échéant, les majorations légales, les intérêts et les clauses pénales;  \n  3° la sommation de payer dans le mois et la manière dont le paiement peut être fait;  \n  4° les possibilités dont dispose le débiteur pour réagir à la sommation, conformément à l'article 1394/22;  \n  5° l'inscription du créancier et du débiteur à la Banque-Carrefour des Entreprises.  \n  A l'acte de sommation, sont annexés:  \n  1° une copie des pièces probantes dont dispose le créancier;  \n  2° le formulaire de réponse visé à l'article 1394/22.\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "une description claire de l'obligation dont découle la dette;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "une description et une justification claires de tous les montants réclamés au débiteur, y compris les frais de la sommation et, le cas échéant, les majorations légales, les intérêts et les clauses pénales;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "3°",
+                          "text": "la sommation de payer dans le mois et la manière dont le paiement peut être fait;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "4°",
+                          "text": "les possibilités dont dispose le débiteur pour réagir à la sommation, conformément à l'article 1394/22;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "5°",
+                          "text": "l'inscription du créancier et du débiteur à la Banque-Carrefour des Entreprises.",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "1°",
+                          "text": "une copie des pièces probantes dont dispose le créancier;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "le formulaire de réponse visé à l'article 1394/22.\".",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 35",
+                  "metadata": {
+                    "article_range": "35",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "35",
+                    "anchor_id": "art_35",
+                    "content": {
+                      "main_text": "Dans le même chapitre Iquinquies, il est inséré un article 1394/22 rédigé comme suit:  \n  \"Art. 1394/22. Le débiteur qui ne paie pas les montants qui sont recouvrés peut, dans le délai visé à l'article 1394/21, alinéa 2, 3°, demander des facilités de paiement ou faire connaître les raisons pour lesquelles il conteste la dette, au moyen du formulaire de réponse qui est joint à l'acte de sommation.  \n  Le formulaire de réponse est, contre accusé de réception, envoyé à l'huissier de justice instrumentant, lui est remis à son étude ou lui est transmis d'une autre manière qui est déterminée par le Roi. L'huissier de justice en donne connaissance sans délai au créancier ainsi que, le cas échéant, du paiement de la dette.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 36",
+                  "metadata": {
+                    "article_range": "36",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "36",
+                    "anchor_id": "art_36",
+                    "content": {
+                      "main_text": "Dans le même chapitre Iquinquies, il est inséré un article 1394/23 rédigé comme suit:  \n  \"Art. 1394/23. Dans le cas où le débiteur paie la dette ou fait connaître les raisons pour lesquelles il conteste la dette, le recouvrement prend fin, sans préjudice du droit du créancier, en cas de contestation de la dette, d'exercer son action par voie judiciaire.  \n  Dans le cas où le créancier et le débiteur conviennent de facilités de paiement, le recouvrement est suspendu.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 37",
+                  "metadata": {
+                    "article_range": "37",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "37",
+                    "anchor_id": "art_37",
+                    "content": {
+                      "main_text": "Dans le même chapitre Iquinquies, il est inséré un article 1394/24 rédigé comme suit:  \n  \"Art. 1394/24. § 1er. Au plus tôt huit jours après l'expiration du délai visé à l'article 1394/21, alinéa 2, 3°, l'huissier de justice instrumentant établit, à la demande du créancier, un procès-verbal de non-contestation dans lequel il est constaté, selon le cas:  \n  1° soit que le débiteur n'a pas payé tout ou partie de la dette, ni n'a demandé ou obtenu des facilités de paiement, ni n'a fait connaître les raisons pour lesquelles il conteste la dette;  \n  2° soit que le créancier et le débiteur ont convenu de facilités de paiement qui n'ont cependant pas été respectées.  \n  Dans le procès-verbal sont également repris les indications de l'acte de sommation et le décompte actualisé de la dette en principal, de la clause pénale, des intérêts et des frais.  \n  § 2. Le procès-verbal est rendu exécutoire sur requête de l'huissier de justice par un magistrat du Comité de gestion et de surveillance près du fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt visé à l'article 1389bis/8.  \n  Il est revêtu de la formule exécutoire et constitue, le cas échéant au prorata du solde de la dette, un titre qui, conformément à la cinquième partie du présent Code, peut être mis à exécution.  \n  § 3. Sans préjudice de la compétence du juge des saisies en cas de difficultés d'exécution, l'exécution du procès-verbal de non-contestation n'est suspendue que par une action en justice, qui est introduite par requête contradictoire. Le titre Vbis du livre II de la quatrième partie s'applique, à l'exception de l'article 1034quater. Sous peine de nullité, chaque exemplaire de la requête est accompagné d'une copie du procès-verbal de non-contestation.  \n  § 4. Un recouvrement entièrement exécuté vaut transaction pour la dette intégrale en ce compris tous les majorations légales, intérêts et clauses pénales éventuels.\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "soit que le débiteur n'a pas payé tout ou partie de la dette, ni n'a demandé ou obtenu des facilités de paiement, ni n'a fait connaître les raisons pour lesquelles il conteste la dette;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "soit que le créancier et le débiteur ont convenu de facilités de paiement qui n'ont cependant pas été respectées.",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 38",
+                  "metadata": {
+                    "article_range": "38",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "38",
+                    "anchor_id": "art_38",
+                    "content": {
+                      "main_text": "Dans le même chapitre Iquinquies, il est inséré un article 1394/25 rédigé comme suit:  \n  \"Art. 1394/25. Le Roi fixe le modèle du formulaire de réponse visé à l'article 1394/22, le modèle du procès-verbal de non-contestation, la manière dont ce procès-verbal est déclaré exécutoire et la formule exécutoire visée à l'article 1394/24, § 2.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 39",
+                  "metadata": {
+                    "article_range": "39",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "39",
+                    "anchor_id": "art_39",
+                    "content": {
+                      "main_text": "Dans le même chapitre Iquinquies, il est inséré un article 1394/26 rédigé comme suit:  \n  \"Art. 1394/26. L'article 38 de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire s'applique par analogie.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 40",
+                  "metadata": {
+                    "article_range": "40",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "40",
+                    "anchor_id": "art_40",
+                    "content": {
+                      "main_text": "Dans le même chapitre Iquinquies, il est inséré un article 1394/27 rédigé comme suit:  \n  \"Art. 1394/27. § 1er. Il est institué, à la Chambre nationale des huissiers de justice visée à l'article 555, un \"Registre central pour le recouvrement de dettes d'argent non contestées\", ci-après dénommé \"Registre central\". Le Registre central est une base de données informatisée organisée et gerée par la Chambre nationale des huissiers de justice dans laquelle sont collectées les données nécessaires pour contrôler le déroulement correct des procédures de recouvrement de dettes d'argent non contestées et pour rendre exécutoire le procès-verbal de non-contestation.  \n  A cette fin, sans préjudice d'autres communications ou avis, l'huissier de justice instrumentant envoie au Registre central, dans les trois jours ouvrables une copie de tous les exploits, citations, notifications, communications, facilités de paiement ou procès-verbaux et, le cas échéant, de leurs annexes, visés au présent chapitre.  \n  § 2. La Chambre nationale des huissiers de justice est considérée, pour ce qui concerne le Registre central, comme le responsable du traitement, au sens de l'article 1er, § 4 de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.  \n  Les données contenues dans le Registre central sont conservées pendant dix ans.  \n  § 3. Les huissiers de justice peuvent enregistrer directement et consulter les données du Registre central par partie sommée ou, le cas échéant, par créancier. Ces huissiers de justice sont désignés nommément dans un registre informatisé qui est en permanence mis à jour par la Chambre nationale des huissiers de justice.  \n  Dès lors qu'un procès-verbal de non-contestation a été déclaré exécutoire en vertu de l'article 1394/24, les informations contenues dans le Registre central qui s'y rapportent ne peuvent plus être consultées que par la Chambre nationale des huissiers de justice dans le but visé au paragraphe 6.  \n  § 4. Celui qui, à quelque titre que ce soit, participe à la collecte ou à l'enregistrement de données dans le Registre central ou au traitement ou à la communication des données qui y sont enregistrées ou a connaissance de telles données, est tenu d'en respecter le caractère confidentiel. L'article 458 du Code pénal s'applique.  \n  § 5. Pour vérifier l'exactitude des données introduites dans le Registre central et pouvoir mettre à jour en permanence le Registre central, la Chambre nationale des huissiers de justice a accès aux données d'information visées à l'article 3, alinéa 1er, 1°, 2°, 5° et 7° de la loi du 8 août 1983 organisant un Registre national des personnes physiques et elle peut utiliser le numéro d'identification de ce registre. Elle ne peut toutefois divulguer le numéro à des tiers, sous quelque forme que ce soit.  \n  Le Roi fixe la manière dont les données d'information du Registre national sont transmises à la Chambre nationale des huissiers de justice. Il peut également fixer des modalités concernant l'utilisation du numéro d'identification du Registre national par la Chambre nationale des huissiers de justice.  \n  § 6. La Chambre nationale des huissiers de justice est chargée de contrôler le fonctionnement et l'utilisation du Registre central. Le cas échéant, le chapitre VII du livre IV de la partie II du présent Code s'applique.  \n  § 7. Le Roi détermine les modalités de création et de fonctionnement du Registre central.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 41",
+                  "metadata": {
+                    "article_range": "41",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "41",
+                    "anchor_id": "art_41",
+                    "content": {
+                      "main_text": "L'article 1397 du même Code est remplacé par ce qui suit:  \n  \"Art. 1397. Sauf les exceptions prévues par la loi ou sauf si le juge en décide autrement moyennant une décision spécialement motivée et sans préjudice de l'article 1414, l'opposition formée contre les jugements définitifs en suspend l'exécution.  \n  Sauf les exceptions prévues par la loi ou sauf si le juge en décide autrement moyennant une décision spécialement motivée, sans préjudice de l'article 1414, les jugements définitifs sont exécutoires par provision nonobstant appel et sans garantie si le juge n'a pas ordonné qu'il en soit constitué une.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 42",
+                  "metadata": {
+                    "article_range": "42",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "42",
+                    "anchor_id": "art_42",
+                    "content": {
+                      "main_text": "L'article 1398 du même Code est remplacé par ce qui suit:  \n  \"Art. 1398. L'exécution provisoire du jugement n'a lieu qu'aux risques et périls de la partie qui la poursuit.  \n  Elle se poursuit sans garantie si le juge ne l'a pas ordonnée et sans préjudice des règles du cantonnement.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 43",
+                  "metadata": {
+                    "article_range": "43",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "43",
+                    "anchor_id": "art_43",
+                    "content": {
+                      "main_text": "L'article 1398/1 du même Code, inséré par la loi du 30 juillet 2013, est remplacé par ce qui suit:  \n  \"Art. 1398/1. Par dérogation à l'article 1397, alinéa 1er, et sauf dispositions spéciales, l'opposition contre le jugement définitif rendu par le juge du tribunal de la famille n'en suspend pas l'exécution.  \n  Le juge siégeant au tribunal de la famille peut, moyennant une décision spécialement motivée, refuser l'exécution provisoire si une des parties le lui demande.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 44",
+                  "metadata": {
+                    "article_range": "44",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "44",
+                    "anchor_id": "art_44",
+                    "content": {
+                      "main_text": "L'article 1398/2 du même Code, inséré par la loi du 30 juillet 2013, est abrogé.",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 45",
+                  "metadata": {
+                    "article_range": "45",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "45",
+                    "anchor_id": "art_45",
+                    "content": {
+                      "main_text": "L'article 1399 du même Code, modifié par la loi du 19 février 2008, est remplacé par ce qui suit:  \n  \"Art. 1399. L'opposition et l'appel suspendent l'exécution:  \n  1° des jugements définitifs concernant l'état des personnes;  \n  2° des jugements rendus par le juge du tribunal de la famille, siégeant dans le cadre de l'urgence réputée ou invoquée au sens de l'article 1253ter/4, et qui concernent des litiges relatifs aux formalités relatives à la célébration du mariage, à la levée de la prohibition du mariage de mineurs et son autorisation.  \n  L'exécution provisoire de ces jugements ne peut être autorisée.\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "des jugements définitifs concernant l'état des personnes;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "des jugements rendus par le juge du tribunal de la famille, siégeant dans le cadre de l'urgence réputée ou invoquée au sens de l'article 1253ter/4, et qui concernent des litiges relatifs aux formalités relatives à la célébration du mariage, à la levée de la prohibition du mariage de mineurs et son autorisation.",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 46",
+                  "metadata": {
+                    "article_range": "46",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "46",
+                    "anchor_id": "art_46",
+                    "content": {
+                      "main_text": "Dans l'article 1400 du même Code, le paragraphe 1er est remplacé par ce qui suit:  \n  \" § 1er. Le juge peut subordonner l'exécution provisoire à la constitution d'une garantie qu'il détermine et dont il fixe, s'il y a lieu, les modalités.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 47",
+                  "metadata": {
+                    "article_range": "47",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "47",
+                    "anchor_id": "art_47",
+                    "content": {
+                      "main_text": "L'article 1401 du même Code est remplacé par ce qui suit:  \n  \"Art. 1401. Si les premiers juges ont écarté l'exécution provisoire, celle-ci peut toujours être demandée lors de l'appel.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 48",
+                  "metadata": {
+                    "article_range": "48",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "48",
+                    "anchor_id": "art_48",
+                    "content": {
+                      "main_text": "Dans l'article 1495, alinéa 2, du même Code, les mots \"encore susceptible de recours ordinaires\" sont remplacés par les mots \"encore susceptible d'opposition\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 49",
+                  "metadata": {
+                    "article_range": "49",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "49",
+                    "anchor_id": "art_49",
+                    "content": {
+                      "main_text": "Dans l'article 1734, § 2, du même Code, inséré par la loi du 21 février 2005, le mot \"trois\" est remplacé par le mot \"six\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "label": "Section 2. Disposition transitoire",
+              "metadata": {
+                "title_type": "Section 2.",
+                "title_content": "Disposition transitoire",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 50",
+                  "metadata": {
+                    "article_range": "50",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "50",
+                    "anchor_id": "art_50",
+                    "content": {
+                      "main_text": "Les articles 14 à 17 s'appliquent aux affaires dont la juridiction est saisie, ou qui, en application de l'article 1253ter/7, § 1er, sont ramenées devant le tribunal à partir du 1er janvier 2016.  \n  Les articles 41 à 48 s'appliquent aux affaires introduites à partir de la date d'entrée en vigueur de la présente loi.",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [
+                    {
+                      "footnote_number": "1",
+                      "footnote_content": "(1)<L [2015-12-18/39](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2015121839), art. 2, 002; En vigueur : 01-01-2016>",
+                      "law_reference": {
+                        "law_type": "L",
+                        "date_reference": "2015-12-18/39",
+                        "article_number": "art. 2",
+                        "sequence_number": "002",
+                        "full_reference": "L [2015-12-18/39]"
+                      },
+                      "effective_date": "01-01-2016",
+                      "modification_type": "modification",
+                      "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2015121839",
+                      "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2015121839#Art.50"
+                    }
+                  ],
+                  "footnote_references": [
+                    {
+                      "reference_number": "1",
+                      "text_position": 0,
+                      "referenced_text": "Les articles 14 à 17 s'appliquent aux affaires dont la juridiction est saisie, ou qui, en application de l'article 1253ter/7, § 1er, sont ramenées devant le tribunal à partir du 1er janvier 2016.",
+                      "embedded_law_references": [],
+                      "bracket_pattern": "[1 Les articles 14 à 17 s'appliquent aux affaires dont la juridiction est saisie, ou qui, en application de l'article 1253ter/7, § 1er, sont ramenées devant le tribunal à partir du 1er janvier 2016.]1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "label": "Section 3. Entrée en vigueur",
+              "metadata": {
+                "title_type": "Section 3.",
+                "title_content": "Entrée en vigueur",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 51",
+                  "metadata": {
+                    "article_range": "51",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "51",
+                    "anchor_id": "art_51",
+                    "content": {
+                      "main_text": "Les articles 9 et 32 à 40 entrent en vigueur à une date à déterminer par le Roi et au plus tard le 1er septembre 2017.  \n  L'article 3 entre en vigueur à une date à déterminer par le Roi et au plus tard le 1er janvier 2016.  \n  \n  (NOTE : Entrée en vigueur de l'article 9; 32 à 40 fixée au 02-07-2016 par AR[2016-06-16/04](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2016061604), art. 8)",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapitre",
+          "label": "CHAPITRE 2. Simplifications en vue de l'informatisation",
+          "metadata": {
+            "title_type": "CHAPITRE 2.",
+            "title_content": "Simplifications en vue de l'informatisation",
+            "rank": 2
+          },
+          "children": [
+            {
+              "type": "section",
+              "label": "Section 1re. Modification de la loi du 8 août 1997 sur les faillites",
+              "metadata": {
+                "title_type": "Section 1re.",
+                "title_content": "Modification de la loi du 8 août 1997 sur les faillites",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 52",
+                  "metadata": {
+                    "article_range": "52",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "52",
+                    "anchor_id": "art_52",
+                    "content": {
+                      "main_text": "A l'article 68, alinéa 2, de la loi du 8 août 1997 sur les faillites, remplacé par la loi du 6 décembre 2005, les modifications suivantes sont apportées:  \n  1° les mots \"Tous les quatre mois\" sont remplacés par les mots \"Chaque année\";  \n  2° les mots \"les seize mois\" sont remplacés par les mots \"deux ans\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "les mots \"Tous les quatre mois\" sont remplacés par les mots \"Chaque année\";",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "les mots \"les seize mois\" sont remplacés par les mots \"deux ans\".",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "label": "Section 2. Modification du Code des sociétés",
+              "metadata": {
+                "title_type": "Section 2.",
+                "title_content": "Modification du Code des sociétés",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 53",
+                  "metadata": {
+                    "article_range": "53",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "53",
+                    "anchor_id": "art_53",
+                    "content": {
+                      "main_text": "Dans l'article 103, alinéa 1er, du Code des sociétés, modifié par la loi du 23 janvier 2001, les mots \"et les greffes des tribunaux de commerce sont chargés\" sont remplacés par les mots \"est chargée\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "TITRE 3. Dispositions diverses",
+      "metadata": {
+        "title_type": "TITRE 3.",
+        "title_content": "Dispositions diverses",
+        "rank": 1
+      },
+      "children": [
+        {
+          "type": "chapitre",
+          "label": "CHAPITRE 1er. Modification du Titre préliminaire du Code de procédure pénale",
+          "metadata": {
+            "title_type": "CHAPITRE 1er.",
+            "title_content": "Modification du Titre préliminaire du Code de procédure pénale",
+            "rank": 2
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Art. 54",
+              "metadata": {
+                "article_range": "54",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "54",
+                "anchor_id": "art_54",
+                "content": {
+                  "main_text": "Dans l'article 21 de la loi du 17 avril 1878 contenant le Titre préliminaire du Code de procédure pénale, inséré par la loi du 30 mai 1961 et modifié par les lois des 21 décembre 2009, 30 novembre 2011 et 10 avril 2014, l'alinéa 2 est remplacé par ce qui suit:  \n  \"Le délai sera cependant de vingt ans si cette infraction est un crime punissable de la réclusion à perpétuité ou un autre crime commis sur une personne âgée de moins de dix-huit ans et qui ne peut être correctionnalisé en application de l'article 2 de la loi du 4 octobre 1867 sur les circonstances atténuantes. Le délai sera de quinze ans si cette infraction est un autre crime qui ne peut être correctionnalisé en application de l'article 2 de la loi du 4 octobre 1867 sur les circonstances atténuantes. Ces délais ne sont pas affectés par la réduction ou la modification de la peine en raison de circonstances atténuantes.\".",
+                  "numbered_provisions": []
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "chapitre",
+          "label": "CHAPITRE 2. Organisation judiciaire",
+          "metadata": {
+            "title_type": "CHAPITRE 2.",
+            "title_content": "Organisation judiciaire",
+            "rank": 2
+          },
+          "children": [
+            {
+              "type": "section",
+              "label": "Section 1re. Modifications du Code judiciaire",
+              "metadata": {
+                "title_type": "Section 1re.",
+                "title_content": "Modifications du Code judiciaire",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 55",
+                  "metadata": {
+                    "article_range": "55",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "55",
+                    "anchor_id": "art_55",
+                    "content": {
+                      "main_text": "A l'article 72 du Code judiciaire, modifié par les lois des 19 juillet 2012, 1er décembre 2013 et 8 mai 2014, les modifications suivantes sont apportées:  \n  1° dans l'alinéa 1er, le mot \"Si\" est remplacé par les mots \"Dans le respect de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire, en raison de nécessités du service ou si\";  \n  2° l'alinéa 2 est remplacé par ce qui suit:  \n  \"Le siège du tribunal de police ou d'une division du tribunal de police peut dans les mêmes conditions être transféré temporairement dans une autre commune de l'arrondissement.\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "dans l'alinéa 1er, le mot \"Si\" est remplacé par les mots \"Dans le respect de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire, en raison de nécessités du service ou si\";",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "l'alinéa 2 est remplacé par ce qui suit:",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 56",
+                  "metadata": {
+                    "article_range": "56",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "56",
+                    "anchor_id": "art_56",
+                    "content": {
+                      "main_text": "A l'article 78 du même Code, modifié par les lois des 17 mai 2006, 13 juin 2006, 3 décembre 2006, 17 mars 2013, 30 juillet 2013 et 10 avril 2014, les modifications suivantes sont apportées:  \n  1° l'alinéa 3 est abrogé;  \n  2° l'alinéa 4, devenant l'alinéa 3, est remplacé par ce qui suit:  \n  \"Le juge unique de la chambre correctionnelle spécialisée visée à l'article 76, § 2, alinéa 2, reçoit une formation spécialisée organisée par l'Institut de formation judiciaire.\";  \n  3° l'alinéa 5 est abrogé.",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "l'alinéa 3 est abrogé;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "l'alinéa 4, devenant l'alinéa 3, est remplacé par ce qui suit:",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "3°",
+                          "text": "l'alinéa 5 est abrogé.",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 57",
+                  "metadata": {
+                    "article_range": "57",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "57",
+                    "anchor_id": "art_57",
+                    "content": {
+                      "main_text": "A l'article 91 du même Code, remplacé par la loi du 3 août 1992 et modifié par les lois des 11 juillet 1994, 28 mars 2000, 17 mai 2006, 21 avril 2007, 11 février 2014 et 25 avril 2014, les modifications suivantes sont apportées:  \n  1° les alinéas 2 à 8 sont abrogés;  \n  2° dans l'alinéa 10, les deuxième et troisième phrases sont abrogées.",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "les alinéas 2 à 8 sont abrogés;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "dans l'alinéa 10, les deuxième et troisième phrases sont abrogées.",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 58",
+                  "metadata": {
+                    "article_range": "58",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "58",
+                    "anchor_id": "art_58",
+                    "content": {
+                      "main_text": "Dans l'article 92 du même Code, remplacé par la loi du 3 août 1992 et modifié par les lois des 28 novembre 2000, 17 mai 2006, 13 juin 2006, 21 avril 2007, 21 décembre 2009, 22 avril 2010, 2 juin 2010 et 25 avril 2014, les modifications suivantes sont apportées:  \n  1° l'alinéa 1er du paragraphe 1er est remplacé par ce qui suit:  \n  \"Les affaires en matière répressive relatives aux crimes punissables d'une peine de réclusion de plus de vingt ans et les appels des jugements rendus en matière pénale par le tribunal de police, sont attribués à une chambre composée de trois juges.\";  \n  2° il est inséré un paragraphe 1/1, rédigé comme suit:  \n  \" § 1/1. Par dérogation à l'article 91, le président du tribunal de première instance peut, lorsque la complexité ou l'intérêt de l'affaire ou des circonstances spécifiques et objectives le requièrent, attribuer d'autorité, au cas par cas, des affaires à une chambre à trois juges.\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "l'alinéa 1er du paragraphe 1er est remplacé par ce qui suit:",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "il est inséré un paragraphe 1/1, rédigé comme suit:",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 59",
+                  "metadata": {
+                    "article_range": "59",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "59",
+                    "anchor_id": "art_59",
+                    "content": {
+                      "main_text": "Dans l'article 92bis du même Code, inséré par la loi du 17 mars 2013, les mots \"article 78, alinéa 6\" sont remplacés par les mots \"article 78, alinéa 4\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 60",
+                  "metadata": {
+                    "article_range": "60",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "60",
+                    "anchor_id": "art_60",
+                    "content": {
+                      "main_text": "L'article 99bis du même Code, inséré par la loi du 3 décembre 2006 et modifié par la loi du 30 juillet 2013, est abrogé.",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 61",
+                  "metadata": {
+                    "article_range": "61",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "61",
+                    "anchor_id": "art_61",
+                    "content": {
+                      "main_text": "Dans l'article 100, § 4, alinéas 3 à 5, du même Code, remplacé par la loi du 1er décembre 2013 modifiée par la loi du 8 mai 2014, les mots \"de Nivelles\" sont chaque fois remplacés par les mots \"du Brabant Wallon\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 62",
+                  "metadata": {
+                    "article_range": "62",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "62",
+                    "anchor_id": "art_62",
+                    "content": {
+                      "main_text": "Dans l'article 104, alinéa 7, du même Code, modifié par la loi du 30 juin 1971, les mots \"sont composées de deux conseillers à la cour du travail et d'un conseiller social nommé au titre de travailleur indépendant\" sont remplacés par les mots \"sont composées, outre le président, de deux conseillers sociaux nommés au titre de travailleurs indépendants\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 63",
+                  "metadata": {
+                    "article_range": "63",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "63",
+                    "anchor_id": "art_63",
+                    "content": {
+                      "main_text": "A l'article 109bis du même Code, inséré par la loi du 19 juillet 1985 et modifié par les lois des 3 août 1992, 9 juillet 1997, 22 avril 2010, 30 juillet 2013, 25 avril 2014 et 8 mai 2014, les modifications suivantes sont apportées:  \n  1° le paragraphe 1er est remplacé par ce qui suit:  \n  \" § 1er. Sauf s'il porte exclusivement sur des actions civiles ou s'il ne porte plus que sur pareilles actions, l'appel des décisions en matière pénale est attribué à une chambre à trois conseillers, le cas échéant, à la chambre spécifique visée à l'article 101, § 1er, alinéa 3.\";  \n  2° le paragraphe 2 est abrogé;  \n  3° le paragraphe 3 est remplacé par ce qui suit:  \n  \" § 3. Les autres causes sont attribuées à des chambres à un conseiller à la cour. Lorsque la complexité ou l'intérêt de l'affaire ou des circonstances spécifiques et objectives le requièrent, le premier président peut attribuer, d'autorité, au cas par cas, les affaires à une chambre à trois conseillers.\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "le paragraphe 1er est remplacé par ce qui suit:",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "le paragraphe 2 est abrogé;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "3°",
+                          "text": "le paragraphe 3 est remplacé par ce qui suit:",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 64",
+                  "metadata": {
+                    "article_range": "64",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "64",
+                    "anchor_id": "art_64",
+                    "content": {
+                      "main_text": "Dans l'article 138bis du même Code, inséré par la loi du 3 décembre 2006 et modifié par les lois des 6 juin 2010, 19 juillet 2012 et 30 juillet 2013, les modifications suivantes sont apportées:  \n  1° dans le paragraphe 1er, la première phrase est remplacée par ce qui suit:  \n  \"Dans les matières civiles, le ministère public intervient par voie d'action, de réquisition ou, lorsqu'il le juge convenable, par voie d'avis.\";  \n  2° le paragraphe 1er/1 est remplacé par ce qui suit:  \n  \" § 1er/1. Le tribunal de la famille statue après avoir communiqué la cause au ministère public en vue de ses éventuels avis ou réquisitions sur:  \n  1° toutes les demandes relatives à des mineurs;  \n  2° toutes les matières où la loi requiert son intervention.\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "dans le paragraphe 1er, la première phrase est remplacée par ce qui suit:",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "le paragraphe 1er/1 est remplacé par ce qui suit:",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "1°",
+                          "text": "toutes les demandes relatives à des mineurs;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "toutes les matières où la loi requiert son intervention.\".",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 65",
+                  "metadata": {
+                    "article_range": "65",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "65",
+                    "anchor_id": "art_65",
+                    "content": {
+                      "main_text": "Dans l'article 156bis, alinéa 1er, du même Code, inséré par la loi du 17 juillet 1984 et modifié par les lois des 10 février 1998, 22 décembre 1998, 21 juin 2001 et 7 mai 2010, les mots \"et des magistrats qui à leur propre demande sont admis à la retraite avant l'âge légal et qui en outre ont été autorisés à porter le titre honorifique de leur fonction\" sont insérés entre les mots \"article 383, § 1er\" et les mots \"; ils n'ont pas de fonctions habituelles\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 66",
+                  "metadata": {
+                    "article_range": "66",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "66",
+                    "anchor_id": "art_66",
+                    "content": {
+                      "main_text": "L'article 183, § 2, alinéa 3 du même Code, rétabli par la loi du 18 février 2014, est complété par les phrases suivantes:  \n  \"A sa demande et sur proposition du président du Collège des cours et tribunaux, un magistrat admis à la retraite en raison de son âge conformément à l'article 383, § 1er, ou qui à sa propre demande est admis à la retraite avant l'âge légal et qui, en outre, a été autorisé à porter le titre honorifique de ses fonctions peut être autorisé par le Roi à exercer une mission non rémunérée au sein du service d'appui. L'accord du chef de corps est, en outre, demandé lorsque le magistrat proposé est un magistrat suppléant visé à l'article 383, § 2.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 67",
+                  "metadata": {
+                    "article_range": "67",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "67",
+                    "anchor_id": "art_67",
+                    "content": {
+                      "main_text": "L'article 185, § 2, alinéa 3, du même Code, rétabli par la loi du 18 février 2014, est complété par les phrases suivantes:  \n  \"A sa demande et sur proposition du président du Collège du ministère public, un magistrat admis à la retraite en raison de son âge conformément à l'article 383, § 1er, ou qui à sa propre demande est admis à la retraite avant l'âge légal et qui, en outre, a été autorisé à porter le titre honorifique de ses fonctions peut être autorisé par le Roi à exercer une mission non rémunérée au sein du service d'appui. L'accord du chef de corps est, en outre, demandé lorsque le magistrat proposé est un magistrat suppléant visé à l'article 383, § 2.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 68",
+                  "metadata": {
+                    "article_range": "68",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "68",
+                    "anchor_id": "art_68",
+                    "content": {
+                      "main_text": "A l'article 195 du même Code, modifié par les lois des 21 janvier 1997 et 13 avril 2005, les modifications suivantes sont apportées:  \n  1° dans l'alinéa 1er, les mots \"de trois ans\" sont remplacés par les mots \"d'un an\" et les mots \"du ministère public,\" sont remplacés par les mots \"du ministère public et les magistrats suppléants visés à l'article 156bis,\";  \n  2° dans l'alinéa 4, les mots \", ou par un magistrat suppléant visé à l'article 156bis\" sont abrogés.",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "dans l'alinéa 1er, les mots \"de trois ans\" sont remplacés par les mots \"d'un an\" et les mots \"du ministère public,\" sont remplacés par les mots \"du ministère public et les magistrats suppléants visés à l'article 156bis,\";",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "dans l'alinéa 4, les mots \", ou par un magistrat suppléant visé à l'article 156bis\" sont abrogés.",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 69",
+                  "metadata": {
+                    "article_range": "69",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "69",
+                    "anchor_id": "art_69",
+                    "content": {
+                      "main_text": "Dans l'article 207bis, § 2, du même Code, inséré par la loi du 9 juillet 1997, les mots \", sous réserve des exceptions reprises dans l'article 383, § 3\" sont abrogés.",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 70",
+                  "metadata": {
+                    "article_range": "70",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "70",
+                    "anchor_id": "art_70",
+                    "content": {
+                      "main_text": "Dans l'article 210 du même Code l'alinéa 1er, remplacé par la loi du 22 décembre 1998, est remplacé par ce qui suit:  \n  \"Le président et les conseillers siégeant seuls dans les cas visés à l'article 109bis, § 3, sont choisis par le premier président de la cour d'appel, sur l'avis écrit et motivé du procureur général, parmi les conseillers qui sont nommés depuis un an au moins.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 71",
+                  "metadata": {
+                    "article_range": "71",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "71",
+                    "anchor_id": "art_71",
+                    "content": {
+                      "main_text": "Dans l'article 294bis du même Code, inséré par la loi du 31 décembre 2012, les mots \"l'ancien magistrat qui s'est vu accorder démission\" sont remplacés par les mots \"le magistrat qui à sa propre demande est admis à la retraite avant l'âge légal\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 72",
+                  "metadata": {
+                    "article_range": "72",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "72",
+                    "anchor_id": "art_72",
+                    "content": {
+                      "main_text": "Dans l'article 378, alinéa 2, du même Code, remplacé par la loi du 3 mai 2003, les mots \"magistrat suppléant\" sont remplacés par les mots \"juge suppléant, le juge suppléant à une justice de paix ou le juge suppléant à un tribunal de police\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 73",
+                  "metadata": {
+                    "article_range": "73",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "73",
+                    "anchor_id": "art_73",
+                    "content": {
+                      "main_text": "Dans l'article 379 du même Code, les mots \"magistrat suppléant\" sont chaque fois remplacés par les mots \"juge suppléant, le juge suppléant à une justice de paix ou le juge suppléant à un tribunal de police\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 74",
+                  "metadata": {
+                    "article_range": "74",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "74",
+                    "anchor_id": "art_74",
+                    "content": {
+                      "main_text": "Dans l'article 379bis, alinéa 1er, du même Code, inséré par la loi du 17 juillet 1984, les mots \"à siéger\" sont remplacés par les mots \"à exercer sa fonction\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 75",
+                  "metadata": {
+                    "article_range": "75",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "75",
+                    "anchor_id": "art_75",
+                    "content": {
+                      "main_text": "A l'article 383 du même Code, remplacé par la loi du 17 juillet 1984, et modifié par les lois des 22 décembre 1998, 3 mai 2003, 7 mai 2010 et du 8 mai 2014, les modifications suivantes sont apportées:  \n  1° le paragraphe 1er est complété par un alinéa rédigé comme suit:  \n  \"Les magistrats qui à leur propre demande sont admis à la retraite avant l'âge légal et qui, en outre, ont été autorisés à porter le titre honorifique de leur fonction conservent leur statut de magistrat à moins qu'il n'y renoncent explicitement, le cas échéant à une date ultérieure à celle de leur admission à la retraite.\";  \n  2° dans le paragraphe 2, alinéa 1er, les mots \"et des magistrats qui à leur propre demande sont admis à la retraite avant l'âge légal et qui, en outre, ont été autorisés à porter le titre honorifique de leur fonction\" sont insérés entre les mots \"comme visé au § 1er,\" et les mots \"peuvent être désignés\";  \n  3° le paragraphe 3 est abrogé.",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "le paragraphe 1er est complété par un alinéa rédigé comme suit:",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "dans le paragraphe 2, alinéa 1er, les mots \"et des magistrats qui à leur propre demande sont admis à la retraite avant l'âge légal et qui, en outre, ont été autorisés à porter le titre honorifique de leur fonction\" sont insérés entre les mots \"comme visé au § 1er,\" et les mots \"peuvent être désignés\";",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "3°",
+                          "text": "le paragraphe 3 est abrogé.",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 76",
+                  "metadata": {
+                    "article_range": "76",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "76",
+                    "anchor_id": "art_76",
+                    "content": {
+                      "main_text": "A l'article 383bis du même Code, inséré par la loi du 17 juillet 1984 et modifié par les lois des 31 janvier 1986, 22 décembre 1998 et 19 juillet 2012, les modifications suivantes sont apportées:  \n  1° dans le paragraphe 1er, alinéa 1er, la phrase suivante est insérée entre la première et la deuxième phrase:  \n  \"Les juges de paix peuvent également être autorisés aux mêmes conditions à continuer à exercer leurs fonctions dans un autre canton de l'arrondissement judiciaire.\";  \n  2° dans le paragraphe 1er, alinéa 1er, la phrase \"L'autorisation ne peut excéder le terme de six mois et n'est pas renouvelable.\" est remplacée par la phrase \"L'autorisation vaut pour une période de six mois maximum renouvelable une fois.\";  \n  3° dans le paragraphe 1er, alinéa 2, les mots \"le président des juges de paix et des juges au tribunal de police et dans les arrondissements de Bruxelles et d'Eupen par\" sont insérés entre les mots \"faite par\" et les mots \"le président du tribunal de première instance\";  \n  4° dans le paragraphe 2, les mots \"au président des juges de paix et des juges au tribunal de police,\" sont insérés entre les mots \"aux présidents des tribunaux,\" et les mots \"aux procureurs du Roi\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "dans le paragraphe 1er, alinéa 1er, la phrase suivante est insérée entre la première et la deuxième phrase:",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "dans le paragraphe 1er, alinéa 1er, la phrase \"L'autorisation ne peut excéder le terme de six mois et n'est pas renouvelable.\" est remplacée par la phrase \"L'autorisation vaut pour une période de six mois maximum renouvelable une fois.\";",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "3°",
+                          "text": "dans le paragraphe 1er, alinéa 2, les mots \"le président des juges de paix et des juges au tribunal de police et dans les arrondissements de Bruxelles et d'Eupen par\" sont insérés entre les mots \"faite par\" et les mots \"le président du tribunal de première instance\";",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "4°",
+                          "text": "dans le paragraphe 2, les mots \"au président des juges de paix et des juges au tribunal de police,\" sont insérés entre les mots \"aux présidents des tribunaux,\" et les mots \"aux procureurs du Roi\".",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 77",
+                  "metadata": {
+                    "article_range": "77",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "77",
+                    "anchor_id": "art_77",
+                    "content": {
+                      "main_text": "Dans le même Code, il est inséré un article 383ter rédigé comme suit:  \n  \"Art. 383ter. § 1er. Par dérogation à l'article 383, § 1er, à leur demande et sur avis motivé de leur chef de corps, les magistrats de l'ordre judiciaire peuvent être autorisés par le Roi à continuer d'exercer leurs fonctions jusqu'à ce qu'ils aient atteint l'âge de septante ans ou de septante-trois ans à la Cour de cassation.  \n  L'autorisation est valable pour un an et est renouvelable.  \n  Les chefs de corps ne sont pas autorisés à continuer à exercer leur mandat sur la base de la présente disposition.  \n  Les magistrats titulaires d'un mandat adjoint ou d'un mandat spécifique continuent à exercer ce mandat aux conditions prévues respectivement aux articles 259quinquies ou 259sexies.  \n  § 2. Le magistrat qui souhaite être maintenu en service après avoir atteint l'âge de soixante-sept ans ou le magistrat à la Cour de cassation qui souhaite être maintenu en service après avoir atteint l'âge de septante ans, introduit à cet effet, au plus tôt dix-huit mois avant cette date et au plus tard neuf mois avant la date de cet anniversaire, une demande, au moyen du formulaire établi par le Roi, auprès de son chef de corps.  \n  Le magistrat qui souhaite introduire une demande de renouvellement après avoir atteint l'âge de soixante-sept ans ou de septante ans à la Cour de cassation, le fait au plus tard six mois avant l'échéance de la prolongation précédente.  \n  Le magistrat communique simultanément une copie de sa demande, ou le cas échéant de sa demande de renouvellement, au ministre de la Justice.  \n  Le chef de corps communique la demande ainsi que son avis motivé, au ministre de la Justice, dans un délai d'un mois.  \n  L'avis motivé porte à la fois sur l'opportunité pour la juridiction ou le parquet du maintien en service ainsi que sur la durée la plus opportune pour ce maintien.  \n  En cas d'absence d'avis dans le délai prévu, la procédure est poursuivie à l'initiative du ministre de la Justice.  \n  Les présidents des tribunaux de première instance et des tribunaux de commerce et les présidents des juges de paix et des juges au tribunal de police adressent la demande visée au § 2, alinéa 1er, au premier président de la cour d'appel. Les présidents des tribunaux du travail adressent cette demande au premier président de la cour du travail. Selon le cas, le premier président de la cour d'appel ou de la cour du travail adresse cette demande et son avis au ministre de la Justice.  \n  Les procureurs du Roi et les auditeurs du travail adressent cette demande au procureur général près la cour d'appel qui adresse cette demande et son avis au ministre de la Justice.  \n  Le premier président de la Cour de cassation, le procureur-général près la Cour de cassation, les premiers présidents des cours d'appel et des cours du travail, les procureurs généraux près les cours d'appel et le procureur fédéral adressent cette demande au ministre de la Justice qui émet un avis sur cette demande.  \n  Les magistrats visés aux alinéas 7 à 9 adressent leur demande de renouvellement au chef de corps de la juridiction ou du parquet dans lequel ils exercent leur fonction.  \n  Le Roi prend une décision dans les trois mois de la réception de la demande.  \n  § 3. Les magistrats qui continuent à exercer leurs fonctions sur la base du paragraphe 1er continuent à percevoir leur traitement conformément aux dispositions prévues au titre III du Livre II, et conservent leur rang.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 78",
+                  "metadata": {
+                    "article_range": "78",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "78",
+                    "anchor_id": "art_78",
+                    "content": {
+                      "main_text": "L'article 397bis du même Code, inséré par la loi du 6 mai 1997 et modifié par la loi du 24 mars 1999, est remplacé par ce qui suit:  \n  \"Art. 397bis. Les référendaires près la Cour de cassation ainsi que les référendaires et les juristes de parquet près les cours et tribunaux cessent d'exercer leurs fonctions et sont admis à la retraite lorsqu'ils ont atteint l'âge de soixante-cinq ans ou lorsqu'une infirmité grave et permanente ne leur permet plus de remplir convenablement leurs fonctions.  \n  La loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques s'applique aux référendaires et juristes de parquet mis à la retraite.  \n  Le maintien en activité peut être autorisé jusqu'à l'âge de septante ans par le ministre de la Justice sur demande du membre du personnel. La période du maintien en activité est fixée pour une durée maximale d'une année. Elle est renouvelable.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "label": "Section 2. Modification de la loi du 17 juillet 1984 portant certaines mesures de nature à réduire l'arriéré judiciaire",
+              "metadata": {
+                "title_type": "Section 2.",
+                "title_content": "Modification de la loi du 17 juillet 1984 portant certaines mesures de nature à réduire l'arriéré judiciaire",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 79",
+                  "metadata": {
+                    "article_range": "79",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "79",
+                    "anchor_id": "art_79",
+                    "content": {
+                      "main_text": "Dans l'article 14 de la loi du 17 juillet 1984 portant certaines mesures de nature à réduire l'arriéré judiciaire, modifié par la loi du 10 avril 2014, les modifications suivantes sont apportées:  \n  1° dans l'alinéa 1er, les mots \"les membres du personnel des greffes et des parquets\" sont remplacés par les mots \"les membres du personnel des greffes, des secrétariats de parquets et des services d'appui\";  \n  2° dans l'alinéa 2, la première phrase est remplacée par la phrase suivante: \"Le maintien en activité peut être autorisé jusqu'à l'âge de septante ans par le ministre de la Justice sur demande du membre du personnel.\".",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "dans l'alinéa 1er, les mots \"les membres du personnel des greffes et des parquets\" sont remplacés par les mots \"les membres du personnel des greffes, des secrétariats de parquets et des services d'appui\";",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "dans l'alinéa 2, la première phrase est remplacée par la phrase suivante: \"Le maintien en activité peut être autorisé jusqu'à l'âge de septante ans par le ministre de la Justice sur demande du membre du personnel.\".",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "label": "Section 3. Modification de la loi du 7 juillet 1969 déterminant le cadre du personnel des cours et tribunaux du travail",
+              "metadata": {
+                "title_type": "Section 3.",
+                "title_content": "Modification de la loi du 7 juillet 1969 déterminant le cadre du personnel des cours et tribunaux du travail",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 80",
+                  "metadata": {
+                    "article_range": "80",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "80",
+                    "anchor_id": "art_80",
+                    "content": {
+                      "main_text": "Dans le tableau \"Tribunaux du travail\" figurant à l'article 1er de la loi du 7 juillet 1969 déterminant le cadre du personnel des cours et tribunaux du travail, remplacé par la loi 6 janvier 2014, le mot \"Siège\" est remplacé par le mot \"Tribunal\", le mot \"Nivelles\" est remplacé par les mots \"Brabant wallon\" et les mots \"Mons-Charleroi\" sont remplacés par le mot \"Hainaut\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "label": "Section 4. Modification de la loi du 15 juillet 1970 déterminant le cadre du personnel des tribunaux de commerce et modifiant la loi du 10 octobre 1967 contenant le Code judiciaire",
+              "metadata": {
+                "title_type": "Section 4.",
+                "title_content": "Modification de la loi du 15 juillet 1970 déterminant le cadre du personnel des tribunaux de commerce et modifiant la loi du 10 octobre 1967 contenant le Code judiciaire",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 81",
+                  "metadata": {
+                    "article_range": "81",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "81",
+                    "anchor_id": "art_81",
+                    "content": {
+                      "main_text": "Dans le tableau figurant à l'article 1er de la loi du 15 juillet 1970 déterminant le cadre du personnel des tribunaux de commerce et modifiant la loi du 10 octobre 1967 contenant le Code judiciaire, remplacé par la loi du 6 janvier 2014, le mot \"Siège\" est remplacé par le mot \"Tribunal\", le mot \"Nivelles\" est remplacé par les mots \"Brabant wallon\" et les mots \"Mons-Charleroi\" sont remplacés par le mot \"Hainaut\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "label": "Section 5. Modification de la loi du 14 décembre 1970 déterminant le cadre des juges suppléants dans les tribunaux du travail et les tribunaux de commerce",
+              "metadata": {
+                "title_type": "Section 5.",
+                "title_content": "Modification de la loi du 14 décembre 1970 déterminant le cadre des juges suppléants dans les tribunaux du travail et les tribunaux de commerce",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 82",
+                  "metadata": {
+                    "article_range": "82",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "82",
+                    "anchor_id": "art_82",
+                    "content": {
+                      "main_text": "Dans le tableau figurant dans l'article unique de la loi du 14 décembre 1970 déterminant le cadre des juges suppléants dans les tribunaux du travail et les tribunaux de commerce, remplacé par la loi du 6 janvier 2014 et modifié par la loi du 25 avril 2014, le mot \"Siège\" est remplacé par le mot \"Tribunal\", le mot \"Nivelles\" est remplacé par les mots \"Brabant wallon\" et les mots \"Mons-Charleroi\" sont remplacés par le mot \"Hainaut\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "label": "Section 6. Modification de la loi générale sur les pensions civiles et ecclésiastiques du 21 juillet 1844",
+              "metadata": {
+                "title_type": "Section 6.",
+                "title_content": "Modification de la loi générale sur les pensions civiles et ecclésiastiques du 21 juillet 1844",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 83",
+                  "metadata": {
+                    "article_range": "83",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "83",
+                    "anchor_id": "art_83",
+                    "content": {
+                      "main_text": "L'article 7 de la loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques, modifié par la loi du 23 décembre 1974 et dont la version néerlandaise a été établie par la loi du 11 avril 2005, est complété par un alinéa rédigé comme suit:  \n  \"L'ancien chef de corps peut être autorisé à porter le titre honorifique de son mandat de premier président, de président, de président des juges de paix et des juges au tribunal de police, de procureur général, de procureur fédéral, de procureur du Roi et d'auditeur du travail.\".",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "label": "Section 7. Dispositions transitoires",
+              "metadata": {
+                "title_type": "Section 7.",
+                "title_content": "Dispositions transitoires",
+                "rank": 3
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "label": "Art. 84",
+                  "metadata": {
+                    "article_range": "84",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "84",
+                    "anchor_id": "art_84",
+                    "content": {
+                      "main_text": "Les articles 56 à 60, 62 et 63 s'appliquent aux affaires pendantes au moment de leur entrée en vigueur, sauf lorsque:  \n  1° l'affaire a déjà fait l'objet, au même degré de juridiction, d'une audience à trois juges ou conseillers, autre que l'audience d'introduction;  \n  2° au 1er septembre 2015, l'affaire avait été renvoyée vers une chambre à trois juges ou conseillers à la demande d'une ou plusieurs parties ou;  \n  3° le président du tribunal de première instance ou le premier président de la cour d'appel, selon le cas, confirme le renvoi de l'affaire ou des affaires devant une chambre à trois juges ou conseillers.",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "l'affaire a déjà fait l'objet, au même degré de juridiction, d'une audience à trois juges ou conseillers, autre que l'audience d'introduction;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "au 1er septembre 2015, l'affaire avait été renvoyée vers une chambre à trois juges ou conseillers à la demande d'une ou plusieurs parties ou;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "3°",
+                          "text": "le président du tribunal de première instance ou le premier président de la cour d'appel, selon le cas, confirme le renvoi de l'affaire ou des affaires devant une chambre à trois juges ou conseillers.",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [],
+                  "footnote_references": []
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 85",
+                  "metadata": {
+                    "article_range": "85",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "85",
+                    "anchor_id": "art_85",
+                    "content": {
+                      "main_text": "§ 1er. Les magistrats qui ont été admis à la retraite sur la base de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions dans les cinq ans qui précèdent l'entrée en vigueur de la présente loi peuvent ... adresser au ministre de la Justice une demande afin d'être désignés en tant que magistrat suppléant.  \n  Le ministre de la Justice demande, dans un délai de trente jours après réception de la demande l'avis écrit motivé:  \n  1° du chef de corps de la juridiction ou du ministère public près la juridiction à l'égard de laquelle la demande a trait;  \n  2° du chef de corps de la juridiction ou du ministère public près la juridiction où le demandeur a exercé sa dernière fonction.  \n  § 2. Les avis sont transmis au ministre de la Justice dans un délai de trente jours à compter de la demande d'avis visée au paragraphe 1er et communiqués dans le même délai au demandeur.  \n  § 3. Le ministre de la Justice transmet dans les septante jours le dossier à la commission de nomination et de désignation compétente, visée à l'article 259bis-8 du Code judiciaire.  \n  La présentation par la commission de nomination et de désignation prend la forme d'une décision motivée d'acceptation ou de refus de la demande de désignation. La présentation est transmise par la commission de nomination et de désignation dans un délai de quarante jours à compter de la demande de présentation.  \n  § 4. Le Roi dispose d'un délai de soixante jours à partir de la réception des avis pour prendre une décision et pour communiquer celle-ci au demandeur et au chef de corps de la juridiction ou du ministère public près la juridiction où aura lieu la désignation, ainsi qu'au procureur général du lieu où le serment doit être prêté.",
+                      "numbered_provisions": [
+                        {
+                          "number": "1°",
+                          "text": "du chef de corps de la juridiction ou du ministère public près la juridiction à l'égard de laquelle la demande a trait;",
+                          "sub_items": []
+                        },
+                        {
+                          "number": "2°",
+                          "text": "du chef de corps de la juridiction ou du ministère public près la juridiction où le demandeur a exercé sa dernière fonction.",
+                          "sub_items": []
+                        }
+                      ]
+                    }
+                  },
+                  "footnotes": [
+                    {
+                      "footnote_number": "1",
+                      "footnote_content": "(1)<L [2018-05-25/02](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018052502), art. 73, 003; En vigueur : 09-06-2018>",
+                      "law_reference": {
+                        "law_type": "L",
+                        "date_reference": "2018-05-25/02",
+                        "article_number": "art. 73",
+                        "sequence_number": "003",
+                        "full_reference": "L [2018-05-25/02]"
+                      },
+                      "effective_date": "09-06-2018",
+                      "modification_type": "modification",
+                      "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018052502",
+                      "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018052502#Art.85"
+                    }
+                  ],
+                  "footnote_references": [
+                    {
+                      "reference_number": "1",
+                      "text_position": 231,
+                      "referenced_text": "...",
+                      "embedded_law_references": [],
+                      "bracket_pattern": "[1 ...]1"
+                    }
+                  ]
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 86",
+                  "metadata": {
+                    "article_range": "86",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "86",
+                    "anchor_id": "art_86",
+                    "content": {
+                      "main_text": "Les magistrats qui, au jour de l'entrée en vigueur de la présente loi, ont été nommés au tribunal du travail, au tribunal de l'entreprise ou à l'auditorat du travail de Nivelles, sont d'office censés avoir été nommés respectivement au tribunal du travail, au tribunal de l'entreprise ou à l'auditorat du travail du Brabant Wallon.  \n  Les magistrats qui au jour de l'entrée en vigueur de la présente loi, ont été nommés au tribunal du travail, au tribunal de l'entreprise ou à l'auditorat du travail de Mons-Charleroi, sont d'office censés avoir été nommés respectivement au tribunal du travail, au tribunal de l'entreprise ou à l'auditorat du travail du Hainaut.",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [
+                    {
+                      "footnote_number": "1",
+                      "footnote_content": "(1)<L [2018-04-15/14](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018041514), art. 252, 004; En vigueur : 01-11-2018>",
+                      "law_reference": {
+                        "law_type": "L",
+                        "date_reference": "2018-04-15/14",
+                        "article_number": "art. 252",
+                        "sequence_number": "004",
+                        "full_reference": "L [2018-04-15/14]"
+                      },
+                      "effective_date": "01-11-2018",
+                      "modification_type": "modification",
+                      "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018041514",
+                      "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018041514#Art.86"
+                    }
+                  ],
+                  "footnote_references": [
+                    {
+                      "reference_number": "1",
+                      "text_position": 113,
+                      "referenced_text": "tribunal de l'entreprise",
+                      "embedded_law_references": [],
+                      "bracket_pattern": "[1 tribunal de l'entreprise]1"
+                    },
+                    {
+                      "reference_number": "1",
+                      "text_position": 264,
+                      "referenced_text": "tribunal de l'entreprise",
+                      "embedded_law_references": [],
+                      "bracket_pattern": "[1 tribunal de l'entreprise]1"
+                    },
+                    {
+                      "reference_number": "1",
+                      "text_position": 457,
+                      "referenced_text": "tribunal de l'entreprise",
+                      "embedded_law_references": [],
+                      "bracket_pattern": "[1 tribunal de l'entreprise]1"
+                    },
+                    {
+                      "reference_number": "1",
+                      "text_position": 614,
+                      "referenced_text": "tribunal de l'entreprise",
+                      "embedded_law_references": [],
+                      "bracket_pattern": "[1 tribunal de l'entreprise]1"
+                    }
+                  ]
+                },
+                {
+                  "type": "article",
+                  "label": "Art. 87",
+                  "metadata": {
+                    "article_range": "87",
+                    "rank": 5
+                  },
+                  "article_content": {
+                    "article_number": "87",
+                    "anchor_id": "art_87",
+                    "content": {
+                      "main_text": "Les greffiers, secrétaires et autres membres du personnel du niveau A, B, C ou D qui, au jour de l'entrée en vigueur de la présente loi, ont été nommés au greffe ou au secrétariat de parquet du tribunal du travail, du tribunal de l'entreprise ou de l'auditorat du travail de Nivelles, sont d'office censés avoir été nommés au greffe ou au secrétariat de parquet respectivement du tribunal du travail, du tribunal de l'entreprise ou de l'auditorat du travail du Brabant wallon.  \n  Les greffiers, secrétaires et autres membres du personnel du niveau A, B, C ou D qui, au jour de l'entrée en vigueur de la présente loi, ont été nommés au greffe ou au secrétariat de parquet du tribunal du travail, du tribunal de l'entreprise ou de l'auditorat du travail de Mons-Charleroi, sont d'office censés avoir été nommés au greffe ou au secrétariat de parquet respectivement du tribunal du travail, du tribunal de l'entreprise ou de l'auditorat du travail du Hainaut.  \n  Les membres du personnel judiciaire qui sont engagés dans le cadre d'un contrat de travail restent attachés au lieu de travail indiqué dans leur contrat de travail. La dénomination du lieu de travail est adaptée moyennant un avenant au contrat de travail.",
+                      "numbered_provisions": []
+                    }
+                  },
+                  "footnotes": [
+                    {
+                      "footnote_number": "1",
+                      "footnote_content": "(1)<L [2018-04-15/14](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018041514), art. 252, 004; En vigueur : 01-11-2018>",
+                      "law_reference": {
+                        "law_type": "L",
+                        "date_reference": "2018-04-15/14",
+                        "article_number": "art. 252",
+                        "sequence_number": "004",
+                        "full_reference": "L [2018-04-15/14]"
+                      },
+                      "effective_date": "01-11-2018",
+                      "modification_type": "modification",
+                      "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018041514",
+                      "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018041514#Art.87"
+                    }
+                  ],
+                  "footnote_references": [
+                    {
+                      "reference_number": "1",
+                      "text_position": 218,
+                      "referenced_text": "tribunal de l'entreprise",
+                      "embedded_law_references": [],
+                      "bracket_pattern": "[1 tribunal de l'entreprise]1"
+                    },
+                    {
+                      "reference_number": "1",
+                      "text_position": 409,
+                      "referenced_text": "tribunal de l'entreprise",
+                      "embedded_law_references": [],
+                      "bracket_pattern": "[1 tribunal de l'entreprise]1"
+                    },
+                    {
+                      "reference_number": "1",
+                      "text_position": 709,
+                      "referenced_text": "tribunal de l'entreprise",
+                      "embedded_law_references": [],
+                      "bracket_pattern": "[1 tribunal de l'entreprise]1"
+                    },
+                    {
+                      "reference_number": "1",
+                      "text_position": 906,
+                      "referenced_text": "tribunal de l'entreprise",
+                      "embedded_law_references": [],
+                      "bracket_pattern": "[1 tribunal de l'entreprise]1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapitre",
+          "label": "CHAPITRE 3. Modification de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait",
+          "metadata": {
+            "title_type": "CHAPITRE 3.",
+            "title_content": "Modification de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait",
+            "rank": 2
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Art. 88",
+              "metadata": {
+                "article_range": "88",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "88",
+                "anchor_id": "art_88",
+                "content": {
+                  "main_text": "L'article 8 de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait, remplacé par la loi du 30 juillet 2013, est complété par un alinéa rédigé comme suit:  \n  \"Toutefois, si la cause porte uniquement sur le montant des intérêts civils, l'avis du ministère public n'est pas requis.\".",
+                  "numbered_provisions": []
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Art. 89",
+              "metadata": {
+                "article_range": "89",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "89",
+                "anchor_id": "art_89",
+                "content": {
+                  "main_text": "Le présent chapitre s'applique aux affaires dont la juridiction a été saisie à partir du 1er janvier 2016.",
+                  "numbered_provisions": []
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "chapitre",
+          "label": "Chapitre 4. Modification de la loi du 5 mai 2014 relative à l'internement des personnes",
+          "metadata": {
+            "title_type": "Chapitre 4.",
+            "title_content": "Modification de la loi du 5 mai 2014 relative à l'internement des personnes",
+            "rank": 2
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Art. 90",
+              "metadata": {
+                "article_range": "90",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "90",
+                "anchor_id": "art_90",
+                "content": {
+                  "main_text": "Dans l'article 136 de la loi du 5 mai 2014 relative à l'internement des personnes les mots \"1er janvier 2016\" sont remplacés par les mots \"1er juillet 2016\".",
+                  "numbered_provisions": []
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "chapitre",
+          "label": "CHAPITRE 5. Entrée en vigueur",
+          "metadata": {
+            "title_type": "CHAPITRE 5.",
+            "title_content": "Entrée en vigueur",
+            "rank": 2
+          },
+          "children": []
+        }
+      ]
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": [
+      {
+        "modification_type": "Loi",
+        "modification_date": "2018-05-25",
+        "publication_date": "2018-05-30",
+        "modified_articles": [
+          "85"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2018/05/30_1.pdf#Page9",
+        "full_title": "Loi du 25-05-2018 publié le 30-05-2018"
+      },
+      {
+        "modification_type": "Loi",
+        "modification_date": "2018-04-15",
+        "publication_date": "2018-04-27",
+        "modified_articles": [
+          "86",
+          "87"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2018/04/27_2.pdf#Page2",
+        "full_title": "Loi du 15-04-2018 publié le 27-04-2018"
+      },
+      {
+        "modification_type": "Loi",
+        "modification_date": "2015-12-18",
+        "publication_date": "2015-12-31",
+        "modified_articles": [
+          "50ENTREE EN VIGUEUR PAR"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2015/12/31_1.pdf#Page99",
+        "full_title": "Loi du 18-12-2015 publié le 31-12-2015"
+      }
+    ]
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-07-12T13:12:32.486422",
+    "source_file": "2015009530.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false
+    }
+  }
+}

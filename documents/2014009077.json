@@ -1,0 +1,1059 @@
+{
+  "document_metadata": {
+    "document_number": "2014009077",
+    "title": "2014009077 14 FEVRIER 2014. - Loi relative à la procédure devant la Cour de Cassation en matière pénale",
+    "publication_date": "2014-02-27",
+    "source": "Justice",
+    "page_number": 17088,
+    "dossier_number": "2014-02-14/02",
+    "effective_date": "2015-02-01",
+    "language": "fr",
+    "document_type": "loi",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 2,
+      "execution_orders_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arrexec=1&lg_txt=f&type=&sort=&numac_search=2014009077&cn_search=2014021402&caller=eli&&view_numac=2014021402fx2014021402nl"
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/loi/2014/02/14/2014009077/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2014/02/27_2.pdf#Page8",
+    "consolidated_pdf_url": ""
+  },
+  "document_hierarchy": [
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 1er. Disposition générale",
+      "metadata": {
+        "title_type": "CHAPITRE 1er.",
+        "title_content": "Disposition générale",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 1er",
+          "metadata": {
+            "article_range": "1er",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1er",
+            "anchor_id": "art_1er",
+            "content": {
+              "main_text": ". La présente loi règle une matière visée à l'article 78 de la Constitution.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 2. Modifications du Code d'instruction criminelle",
+      "metadata": {
+        "title_type": "CHAPITRE 2.",
+        "title_content": "Modifications du Code d'instruction criminelle",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 2",
+          "metadata": {
+            "article_range": "2",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "2",
+            "anchor_id": "art_2",
+            "content": {
+              "main_text": "L'article 251 du Code d'instruction criminelle, rétabli par la loi du 21 décembre 2009, est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 3",
+          "metadata": {
+            "article_range": "3",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "3",
+            "anchor_id": "art_3",
+            "content": {
+              "main_text": "L'article 252 du même Code, rétabli par la loi du 21 décembre 2009, est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 4",
+          "metadata": {
+            "article_range": "4",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "4",
+            "anchor_id": "art_4",
+            "content": {
+              "main_text": "L'article 253 du même Code, rétabli par la loi du 21 décembre 2009, est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 5",
+          "metadata": {
+            "article_range": "5",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "5",
+            "anchor_id": "art_5",
+            "content": {
+              "main_text": "L'article 291 du même Code, remplacé par la loi du 21 décembre 2009, est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 6",
+          "metadata": {
+            "article_range": "6",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "6",
+            "anchor_id": "art_6",
+            "content": {
+              "main_text": "Dans l'article 337, alinéa 3, du même Code, remplacé par la loi du 21 décembre 2009, les mots \"visé à l'article 359\" sont abrogés.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 7",
+          "metadata": {
+            "article_range": "7",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "7",
+            "anchor_id": "art_7",
+            "content": {
+              "main_text": "Dans l'article 359 du même Code, remplacé par la loi du 21 décembre 2009, sont apportées les modifications suivantes :  \n  1° l'alinéa 1er est remplacé par ce qui suit :  \n  \"Le condamné a quinze jours après celui où l'arrêt a été prononcé contradictoirement pour déclarer au greffe qu'il se pourvoit en cassation.\";  \n  2° à l'alinéa 4, les mots \"jusqu'à la réception de l'arrêt de la Cour de Cassation\" sont remplacés par les mots \"jusqu'au prononcé de l'arrêt de la Cour de Cassation\".",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "l'alinéa 1er est remplacé par ce qui suit :",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "à l'alinéa 4, les mots \"jusqu'à la réception de l'arrêt de la Cour de Cassation\" sont remplacés par les mots \"jusqu'au prononcé de l'arrêt de la Cour de Cassation\".",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 8",
+          "metadata": {
+            "article_range": "8",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "8",
+            "anchor_id": "art_8",
+            "content": {
+              "main_text": "L'article 407 du même Code, modifié en dernier lieu par la loi du 22 juin 1976, est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 9",
+          "metadata": {
+            "article_range": "9",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "9",
+            "anchor_id": "art_9",
+            "content": {
+              "main_text": "Dans l'article 408, alinéa 1er, du même Code, modifié par la loi du 10 juillet 1967, les mots \", à partir du plus ancien acte nul\" sont abrogés.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 10",
+          "metadata": {
+            "article_range": "10",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "10",
+            "anchor_id": "art_10",
+            "content": {
+              "main_text": "L'article 409 du même Code est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 11",
+          "metadata": {
+            "article_range": "11",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "11",
+            "anchor_id": "art_11",
+            "content": {
+              "main_text": "L'article 411 du même Code est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 12",
+          "metadata": {
+            "article_range": "12",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "12",
+            "anchor_id": "art_12",
+            "content": {
+              "main_text": "L'article 413 du même Code, modifié en dernier lieu par la loi du 15 juin 1981, est remplacé par ce qui suit :  \n  \"Art. 413. Lorsque l'accusé ou le prévenu aura été acquitté, nul ne pourra se prévaloir contre lui de la violation ou omission des formes prescrites pour assurer sa défense.\"",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 13",
+          "metadata": {
+            "article_range": "13",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "13",
+            "anchor_id": "art_13",
+            "content": {
+              "main_text": "L'article 414 du même Code est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 14",
+          "metadata": {
+            "article_range": "14",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "14",
+            "anchor_id": "art_14",
+            "content": {
+              "main_text": "L'article 415 du même Code, modifié par la loi du 10 juillet 1967, est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 15",
+          "metadata": {
+            "article_range": "15",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "15",
+            "anchor_id": "art_15",
+            "content": {
+              "main_text": "Dans le livre II, titre III, du même Code, l'intitulé du chapitre II est remplacé par ce qui suit :  \n  \"Chapitre II. - De la procédure en cassation\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 16",
+          "metadata": {
+            "article_range": "16",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "16",
+            "anchor_id": "art_16",
+            "content": {
+              "main_text": "L'article 416 du même Code, modifié en dernier lieu par la loi du 16 janvier 2009, est remplacé par ce qui suit :  \n  \"Art. 416. Les parties ne peuvent former un pourvoi en cassation que si elles ont qualité et intérêt pour le former.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 17",
+          "metadata": {
+            "article_range": "17",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "17",
+            "anchor_id": "art_17",
+            "content": {
+              "main_text": "L'article 417 du même Code, modifié en dernier lieu par la loi du 20 décembre 1974, est remplacé par ce qui suit :  \n  \"Art. 417. Le ministère public et la partie civile peuvent former un pourvoi en cassation contre l'arrêt de non-lieu.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 18",
+          "metadata": {
+            "article_range": "18",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "18",
+            "anchor_id": "art_18",
+            "content": {
+              "main_text": "L'article 418 du même Code, modifié en dernier lieu par la loi du 10 juillet 1967, est remplacé par ce qui suit :  \n  \"Art. 418. Seules les décisions judiciaires rendues en dernier ressort sont susceptibles de pourvoi en cassation.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 19",
+          "metadata": {
+            "article_range": "19",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "19",
+            "anchor_id": "art_19",
+            "content": {
+              "main_text": "L'article 419 du même Code, abrogé par la loi du 20 juin 1953, est rétabli dans la rédaction suivante :  \n  \"Art. 419. Nul ne peut se pourvoir en cassation une seconde fois contre la même décision, sauf dans les cas prévus par la loi.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 20",
+          "metadata": {
+            "article_range": "20",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "20",
+            "anchor_id": "art_20",
+            "content": {
+              "main_text": "L'article 420 du même Code, rétabli par la loi du 10 octobre 1967, est remplacé par ce qui suit :  \n  \"Art. 420. Le pourvoi en cassation contre les décisions préparatoires et d'instruction n'est ouvert qu'après l'arrêt ou le jugement définitif, même si elles ont été exécutées sans réserve.  \n  Toutefois, il peut être formé un pourvoi en cassation immédiat contre les décisions :  \n  1° sur la compétence;  \n  2° en application des articles 135, 235bis et 235ter;  \n  3° relatives à l'action civile qui statuent sur le principe d'une responsabilité;  \n  4° qui, conformément à l'article 524bis, § 1er, statuent sur l'action publique et ordonnent une enquête particulière sur les avantages patrimoniaux.\".",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "sur la compétence;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "en application des articles 135, 235bis et 235ter;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "relatives à l'action civile qui statuent sur le principe d'une responsabilité;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "qui, conformément à l'article 524bis, § 1er, statuent sur l'action publique et ordonnent une enquête particulière sur les avantages patrimoniaux.\".",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 21",
+          "metadata": {
+            "article_range": "21",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "21",
+            "anchor_id": "art_21",
+            "content": {
+              "main_text": "L'article 420bis du même Code, inséré par la loi du 10 octobre 1967 et modifié par la loi du 14 novembre 2000, est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 22",
+          "metadata": {
+            "article_range": "22",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "22",
+            "anchor_id": "art_22",
+            "content": {
+              "main_text": "L'article 420ter du même Code, inséré par la loi du 10 octobre 1967 et modifié par la loi du 14 novembre 2000, est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 23",
+          "metadata": {
+            "article_range": "23",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "23",
+            "anchor_id": "art_23",
+            "content": {
+              "main_text": "L'article 421 du même Code, abrogé par la loi du 12 février 2003, est rétabli dans la rédaction suivante :  \n  \"Art. 421. Le procureur général près la cour d'appel et les autres parties peuvent former un pourvoi en cassation contre l'arrêt de renvoi à la cour d'assises.  \n  A peine de déchéance, la déclaration doit préciser le motif du pourvoi.  \n  Sans préjudice de la décision rendue sur la compétence, le pourvoi en cassation ne peut être formé que dans les cas suivants :  \n  1° si le fait n'est pas qualifié crime par la loi;  \n  2° si le ministère public n'a pas été entendu;  \n  3° si l'arrêt n'a pas été rendu par le nombre de juges fixé par la loi;  \n  4° si les règles de la procédure contradictoire prévues à l'article 223 n'ont pas été respectées;  \n  5° si les dispositions légales relatives à l'emploi des langues en matière judiciaire n'ont pas été observées.  \n  Aussitôt que le greffier a reçu la déclaration, l'expédition de l'arrêt est transmise par le procureur général près la cour d'appel au procureur général près la Cour de Cassation, laquelle est tenue de se prononcer toutes affaires cessantes.\".",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "si le fait n'est pas qualifié crime par la loi;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "si le ministère public n'a pas été entendu;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "si l'arrêt n'a pas été rendu par le nombre de juges fixé par la loi;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "si les règles de la procédure contradictoire prévues à l'article 223 n'ont pas été respectées;",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "si les dispositions légales relatives à l'emploi des langues en matière judiciaire n'ont pas été observées.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 24",
+          "metadata": {
+            "article_range": "24",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "24",
+            "anchor_id": "art_24",
+            "content": {
+              "main_text": "L'article 422 du même Code, modifié par la loi du 15 juin 1981, est remplacé par ce qui suit :  \n  \"Art. 422. Lorsque la peine prononcée est la même que celle portée par la loi qui s'applique à l'infraction, nul ne peut demander la cassation de l'arrêt ou du jugement au seul motif qu'il y a eu erreur dans la citation du texte de la loi.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 25",
+          "metadata": {
+            "article_range": "25",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "25",
+            "anchor_id": "art_25",
+            "content": {
+              "main_text": "L'article 423 du même Code, remplacé par la loi du 20 juin 1953 et modifié en dernier lieu par la loi du 26 juin 2000, est remplacé par ce qui suit :  \n  \"Art. 423. Sauf dans les cas où la loi établit un autre délai, la déclaration de pourvoi en cassation est faite dans les quinze jours du prononcé de la décision attaquée.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 26",
+          "metadata": {
+            "article_range": "26",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "26",
+            "anchor_id": "art_26",
+            "content": {
+              "main_text": "L'article 424 du même Code, remplacé par la loi du 20 juin 1953, est remplacé par ce qui suit :  \n  \"Art. 424. Si la décision a été rendue par défaut et est susceptible d'opposition, le délai pour se pourvoir en cassation commence à courir à l'expiration du délai d'opposition ou, lorsque la décision a été rendue par défaut à l'égard du prévenu ou de l'accusé, après l'expiration des délais ordinaires d'opposition. Le pourvoi en cassation doit être formé dans les quinze jours qui suivent l'expiration de ces délais.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 27",
+          "metadata": {
+            "article_range": "27",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "27",
+            "anchor_id": "art_27",
+            "content": {
+              "main_text": "L'article 425 du même Code, remplacé par la loi du 20 juin 1953 et modifié par la loi du 6 mai 1997, est remplacé par ce qui suit :  \n  \"Art. 425. § 1er. Sans préjudice du § 2, la déclaration de pourvoi est faite par le ministère public ou l'avocat au greffe de la juridiction qui a rendu la décision attaquée. Elle est signée par le ministère public ou l'avocat ainsi que par le greffier et inscrite dans le registre destiné à cet effet.  \n  L'avocat doit être titulaire d'une attestation de formation en procédure en cassation visée par le livre II, titre III. Le Roi fixe les critères auxquels la formation doit répondre.  \n  § 2. Si, dans la même cause, une partie se pourvoit en cassation en même temps contre la décision définitive et contre une ou plusieurs décisions préparatoires et d'instruction rendues par d'autres juridictions que celle qui a rendu la décision définitive, les déclarations de pourvoi en cassation sont faites au greffe de cette dernière juridiction.  \n  Le greffier qui a donné acte des déclarations de pourvoi en cassation transmet, dans les vingt-quatre heures, une expédition de celles qui sont faites contre les décisions préparatoires et d'instruction, aux greffiers de ces autres juridictions, qui les transcrivent, sans délai, dans les registres destinés à cet effet.  \n  § 3. Le registre dans lequel est inscrite la déclaration est public, et toute personne qui a un intérêt légitime a le droit de s'en faire délivrer des extraits.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 28",
+          "metadata": {
+            "article_range": "28",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "28",
+            "anchor_id": "art_28",
+            "content": {
+              "main_text": "L'article 426 du même Code, modifié par la loi du 10 juillet 1967, est remplacé par ce qui suit :  \n  \"Art. 426. La déclaration de pourvoi faite par avocat, titulaire de l'attestation visée à l'article 425, § 1er, alinéa 2, pour des personnes détenues dans un établissement pénitentiaire ou internées dans un établissement prévu par la loi du 21 avril 2007 relative à l'internement des personnes atteintes d'un trouble mental, peut être faite au directeur de cet établissement ou à son délégué. Elle est signée par l'avocat.  \n  Cette déclaration a les mêmes effets que celles reçues au greffe. Il en est dressé procès-verbal dans un registre destiné à cette fin.  \n  Le directeur en avise immédiatement le greffier compétent et lui transmet, dans les vingt-quatre heures, une expédition du procès-verbal.  \n  Le greffier transcrit, sans délai, l'avis et le procès-verbal dans le registre destiné à cet effet.  \n  Le présent article n'est pas applicable au pourvoi en cassation formé conformément à l'article 31 de la loi du 20 juillet 1990 relative à la détention préventive.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 29",
+          "metadata": {
+            "article_range": "29",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "29",
+            "anchor_id": "art_29",
+            "content": {
+              "main_text": "L'article 427 du même Code est remplacé par ce qui suit :  \n  \"Art. 427. La partie qui se pourvoit en cassation doit faire signifier son pourvoi à la partie contre laquelle il est dirigé. Toutefois, la personne poursuivie n'y est tenue qu'en tant qu'elle se pourvoit contre la décision rendue sur l'action civile exercée contre elle.  \n  L'exploit de signification doit être déposé au greffe de la Cour de Cassation dans les délais fixés par l'article 429.  \n  La signification du pourvoi en cassation du ministère public peut être faite au détenu ou à l'interné par le directeur de l'établissement pénitentiaire ou de l'établissement où l'intéressé est interné ou par son délégué.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 30",
+          "metadata": {
+            "article_range": "30",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "30",
+            "anchor_id": "art_30",
+            "content": {
+              "main_text": "L'article 428 du même Code est remplacé par ce qui suit :  \n  \"Art. 428. Pendant les quinze jours visés aux articles 423 et 424 et, s'il y a eu pourvoi en cassation, jusqu'au prononcé de l'arrêt de la Cour de Cassation, il est sursis à l'exécution de la décision attaquée.  \n  Toutefois, la décision sur l'action publique, autre que celle qui porte condamnation, acquittement ou absolution, et la décision sur l'action civile peuvent être exécutées provisoirement, nonobstant le pourvoi en cassation, si les juges qui les ont rendues en ont ainsi décidé par une ordonnance spécialement motivée.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 31",
+          "metadata": {
+            "article_range": "31",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "31",
+            "anchor_id": "art_31",
+            "content": {
+              "main_text": "L'article 429 du même Code, modifié par la loi du 10 juillet 1967, est remplacé par ce qui suit :  \n  \"Art. 429. Hormis le ministère public, le demandeur en cassation ne peut indiquer ses moyens que dans un mémoire signé par un avocat, titulaire de l'attestation visée à l'article 425, § 1er, alinéa 2, et remis au greffe de la Cour de Cassation, quinze jours au plus tard avant l'audience.  \n  Il ne peut toutefois produire de mémoires ou de pièces autres que les désistements, les actes de reprise d'instance, les actes qui révèlent que le pourvoi est devenu sans objet et les notes visées à l'article 1107 du Code judiciaire, après les deux mois qui suivent la déclaration de pourvoi en cassation.  \n  Le défendeur en cassation ne peut indiquer sa réponse que dans un mémoire signé par un avocat, titulaire de l'attestation visée à l'article 425, § 1er, alinéa 2 et remis au greffe de la Cour de Cassation, au plus tard huit jours avant l'audience.  \n  Sauf l'exception visée à l'article 427, alinéa 1er, le mémoire du demandeur est communiqué par courrier recommandé ou, dans les conditions fixées par le Roi, par voie électronique à la partie contre laquelle le pourvoi est dirigé et le défendeur lui communique de la même manière son mémoire en réponse. La preuve de l'envoi est déposée au greffe dans les délais prévus aux alinéas 1er à 3. Ces formalités sont prescrites à peine d'irrecevabilité.  \n  Le greffier constate la remise par les parties de mémoires ou de pièces en indiquant la date de réception.  \n  Il délivre récépissé au déposant s'il en est requis.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 32",
+          "metadata": {
+            "article_range": "32",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "32",
+            "anchor_id": "art_32",
+            "content": {
+              "main_text": "L'article 430 du même Code est remplacé par ce qui suit :  \n  \"Art. 430. Le greffier de la juridiction ayant rendu la décision attaquée fait parvenir sans délai au ministère public les pièces du procès et l'expédition de la décision attaquée.  \n  Il en rédige au préalable et sans frais un inventaire et le joint au dossier.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 33",
+          "metadata": {
+            "article_range": "33",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "33",
+            "anchor_id": "art_33",
+            "content": {
+              "main_text": "L'article 431 du même Code est remplacé par ce qui suit :  \n  \"Art. 431. Le ministère public près la cour ou le tribunal qui a rendu la décision attaquée remet sans délai le dossier au procureur général près la Cour de Cassation. Celui-ci le transmet au greffier de la Cour de Cassation, qui inscrit immédiatement la cause au rôle général.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 34",
+          "metadata": {
+            "article_range": "34",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "34",
+            "anchor_id": "art_34",
+            "content": {
+              "main_text": "L'article 432 du même Code, modifié par la loi du 10 juillet 1967, est remplacé par ce qui suit :  \n  \"Art. 432. La procédure est ensuite réglée ainsi qu'il est prévu aux articles 1104 à 1106, alinéa 1er, et 1107 à 1109, du Code judiciaire. Excepté lorsque la Cour de Cassation doit statuer en urgence, l'avocat ou le défendeur non représenté est averti de la fixation visée à l'article 1106, alinéa 1er, du Code judiciaire, par les soins du greffier, quinze jours au moins avant l'audience. Dans d'autres cas urgents, le premier président peut accorder un abrègement de ce délai.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 35",
+          "metadata": {
+            "article_range": "35",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "35",
+            "anchor_id": "art_35",
+            "content": {
+              "main_text": "L'article 433 du même Code, modifié par la loi du 10 juillet 1967, est remplacé par ce qui suit :  \n  \"Art. 433. La non admission du pourvoi en cassation manifestement irrecevable, sans objet ou ne dénonçant aucune illégalité ou irrégularité pouvant conduire à la cassation peut, de l'avis conforme du ministère public, être décrétée par ordonnance du président de section ou du conseiller désigné par le premier président. Il statue sans audience et sans entendre les parties.  \n  L'ordonnance de non admission motive succinctement le refus. Elle est notifiée au déclarant sous pli judiciaire ou, dans les conditions fixées par le Roi, par voie électronique. Elle n'est susceptible d'aucun recours.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 36",
+          "metadata": {
+            "article_range": "36",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "36",
+            "anchor_id": "art_36",
+            "content": {
+              "main_text": "L'article 434 du même Code, modifié par les lois des 10 juillet 1967 et 21 décembre 2009, est remplacé par ce qui suit :  \n  \"Art. 434. La Cour de Cassation rejette le pourvoi ou casse la décision attaquée, en tout ou en partie.  \n  Elle peut étendre la cassation jusqu'au plus ancien acte nul.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 37",
+          "metadata": {
+            "article_range": "37",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "37",
+            "anchor_id": "art_37",
+            "content": {
+              "main_text": "L'article 435 du même Code, modifié par la loi du 10 juillet 1967, est remplacé par ce qui suit :  \n  \"Art. 435. En cas de cassation, la Cour de Cassation renvoie la cause, s'il y a lieu, soit devant une juridiction du même rang que celle qui a rendu la décision cassée, soit devant la même juridiction, autrement composée.  \n  Toutefois, si la seule décision cassée est l'arrêt de la cour d'assises statuant sur les intérêts civils, la cause est renvoyée devant un tribunal de première instance. Les juges ayant connu de la cause ne peuvent connaître de ce renvoi.  \n  Si la décision attaquée est cassée pour cause d'incompétence, la Cour de Cassation renvoie la cause devant les juges qui doivent en connaître.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 38",
+          "metadata": {
+            "article_range": "38",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "38",
+            "anchor_id": "art_38",
+            "content": {
+              "main_text": "L'article 436 du même Code, remplacé par la loi du 20 juin 1953, est remplacé par ce qui suit :  \n  \"Art. 436. Si l'arrêt a été annulé pour avoir prononcé une peine autre que celle que la loi applique à la nature du crime, la cour d'assises à qui le procès sera renvoyé rendra son arrêt conformément aux articles 341 et suivants, sur la déclaration de culpabilité déjà faite par le jury.  \n  Si l'arrêt a été annulé pour autre cause, il sera procédé à de nouveaux débats devant la cour d'assises à laquelle le procès sera renvoyé.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 39",
+          "metadata": {
+            "article_range": "39",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "39",
+            "anchor_id": "art_39",
+            "content": {
+              "main_text": "L'article 437 du même Code, abrogé par la loi du 10 juillet 1967, est rétabli dans la rédaction suivante :  \n  \"Art. 437. L'accusé dont la condamnation aura été annulée, et qui devra subir un nouveau jugement au criminel, sera traduit soit en état d'arrestation, soit en exécution de l'ordonnance de prise de corps, devant la chambre des mises en accusation ou la cour d'assises à qui son procès sera renvoyé.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 40",
+          "metadata": {
+            "article_range": "40",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "40",
+            "anchor_id": "art_40",
+            "content": {
+              "main_text": "L'article 438 du même Code, est remplacé par ce qui suit :  \n  \"Art. 438. La partie qui succombe est condamnée aux frais.  \n  Lorsque la cassation est prononcée avec renvoi, les frais sont réservés et il est statué sur ceux-ci par le juge de renvoi.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 41",
+          "metadata": {
+            "article_range": "41",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "41",
+            "anchor_id": "art_41",
+            "content": {
+              "main_text": "L'article 440 du même Code, modifié par la loi du 10 juillet 1967, est remplacé par ce qui suit :  \n  \"Art. 440. Lorsque, après une première cassation, la seconde décision sur le fond est attaquée par les mêmes moyens, il est procédé conformément aux articles 1119 à 1121 du Code judiciaire.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 42",
+          "metadata": {
+            "article_range": "42",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "42",
+            "anchor_id": "art_42",
+            "content": {
+              "main_text": "Dans l'article 441 du même Code, modifié par la loi du 10 juillet 1967, les mots \", et les officiers de police ou les juges poursuivis, s'il y a lieu, de la manière exprimée au chapitre III du titre IV du présent livre\" sont abrogés.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 43",
+          "metadata": {
+            "article_range": "43",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "43",
+            "anchor_id": "art_43",
+            "content": {
+              "main_text": "L'article 442 du même Code, modifié par la loi du 10 juillet 1967, est remplacé par ce qui suit :  \n  \"Art. 442. Le procureur général près la Cour de Cassation peut aussi, d'office, et nonobstant l'expiration du délai, donner connaissance à la Cour de Cassation d'une décision rendue en dernier ressort contre laquelle aucune des parties ne s'est pourvue dans le délai requis. Si la décision est cassée, les parties ne peuvent s'en prévaloir pour s'opposer à son exécution.\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 3. Modification de la loi du 6 avril 1847 portant répression des offenses envers le Roi",
+      "metadata": {
+        "title_type": "CHAPITRE 3.",
+        "title_content": "Modification de la loi du 6 avril 1847 portant répression des offenses envers le Roi",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 44",
+          "metadata": {
+            "article_range": "44",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "44",
+            "anchor_id": "art_44",
+            "content": {
+              "main_text": "L'article 7 de la loi du 6 avril 1847 portant répression des offenses envers le Roi, modifié par la loi du 10 octobre 1967, est abrogé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 4. Modifications de la loi du 25 juillet 1893 relative aux déclarations d'appel ou de recours en cassation des personnes détenues ou internées",
+      "metadata": {
+        "title_type": "CHAPITRE 4.",
+        "title_content": "Modifications de la loi du 25 juillet 1893 relative aux déclarations d'appel ou de recours en cassation des personnes détenues ou internées",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 45",
+          "metadata": {
+            "article_range": "45",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "45",
+            "anchor_id": "art_45",
+            "content": {
+              "main_text": "L'intitulé de la loi du 25 juillet 1893 relative aux déclarations d'appel ou de recours en cassation des personnes détenues ou internées est remplacé par l'intitulé suivant :  \n  \"Loi du 25 juillet 1893 relative aux déclarations d'appel des personnes détenues ou internées\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 46",
+          "metadata": {
+            "article_range": "46",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "46",
+            "anchor_id": "art_46",
+            "content": {
+              "main_text": "Dans l'article 1er, alinéa 1er, de la même loi, modifié par l'arrêté royal du 20 janvier 1936, les mots \"ou de recours en cassation\" sont abrogés.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 47",
+          "metadata": {
+            "article_range": "47",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "47",
+            "anchor_id": "art_47",
+            "content": {
+              "main_text": "Dans l'article 2 de la même loi, les mots \"ou des recours en cassation\" sont abrogés.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 48",
+          "metadata": {
+            "article_range": "48",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "48",
+            "anchor_id": "art_48",
+            "content": {
+              "main_text": "Dans l'article 4, alinéa 1er, de la même loi, les mots \"ou de recours en cassation\" sont abrogés.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 5. Disposition transitoire",
+      "metadata": {
+        "title_type": "CHAPITRE 5.",
+        "title_content": "Disposition transitoire",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 49",
+          "metadata": {
+            "article_range": "49",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "49",
+            "anchor_id": "art_49",
+            "content": {
+              "main_text": "Jusqu'à la date d'entrée en vigueur de l'article 3 de la loi du 21 avril 2007 relative à l'internement des personnes atteintes d'un trouble mental, il y a lieu de lire, à l'article 28 de la présente loi remplaçant l'article 426 du Code d'instruction criminelle, les mots \"un établissement prévu par la loi du 9 avril 1930 de défense sociale\" au lieu des mots \"un établissement prévu par la loi du 21 avril 2007 relative à l'internement des personnes atteintes d'un trouble mental\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 6. Entrée en vigueur",
+      "metadata": {
+        "title_type": "CHAPITRE 6.",
+        "title_content": "Entrée en vigueur",
+        "rank": 2
+      },
+      "children": []
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": []
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-07-12T13:12:32.269802",
+    "source_file": "2014009077.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false
+    }
+  }
+}

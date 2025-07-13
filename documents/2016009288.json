@@ -1,0 +1,674 @@
+{
+  "document_metadata": {
+    "document_number": "2016009288",
+    "title": "2016009288 29 MAI 2016. - Loi relative à la collecte et à la conservation des données dans le secteur des communications électroniques",
+    "publication_date": "2016-07-18",
+    "source": "Justice",
+    "page_number": 44717,
+    "dossier_number": "2016-05-29/03",
+    "effective_date": "2016-07-28",
+    "language": "fr",
+    "document_type": "loi",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/loi/2016/05/29/2016009288/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2016/07/18_1.pdf#Page9",
+    "consolidated_pdf_url": "https://www.ejustice.just.fgov.be/img_l/pdf/2016/05/29/2016009288_F.pdf"
+  },
+  "document_hierarchy": [
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 1er. Disposition générale",
+      "metadata": {
+        "title_type": "CHAPITRE 1er.",
+        "title_content": "Disposition générale",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 1er",
+          "metadata": {
+            "article_range": "1er",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1er",
+            "anchor_id": "art_1er",
+            "content": {
+              "main_text": ". La présente loi règle une matière visée à l'article 74 de la Constitution.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 2. Modifications de la loi du 13 juin 2005 relative aux communications électroniques",
+      "metadata": {
+        "title_type": "CHAPITRE 2.",
+        "title_content": "Modifications de la loi du 13 juin 2005 relative aux communications électroniques",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 2",
+          "metadata": {
+            "article_range": "2",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "2",
+            "anchor_id": "art_2",
+            "content": {
+              "main_text": "A l'article 2 de la loi 13 juin 2005 relative aux communications électroniques, modifié en dernier lieu par la loi du 18 décembre 2015, et partiellement annulé par l'arrêt n° 84/2015 de la Cour constitutionnelle, les modifications suivantes sont apportées :  \n  a) le 11° est remplacé par ce qui suit :  \n  \"11° \"opérateur\" : toute personne soumise à l'obligation d'introduire une notification conformément à l'article 9;\";  \n  b) au lieu du 74°, annulé par l'arrêt n° 84/2015 de la Cour constitutionnelle, il est inséré un 74° rédigé comme suit :  \n  \"74° \"Appels infructueux\" : toute communication au cours de laquelle un appel a été transmis mais est resté sans réponse ou a fait l'objet d'une intervention de la part du gestionnaire du réseau.\".  \n  \n  (NOTE : par son arrêt n° 57/2021 du 22-04-2021 ([2021-04-22/20](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021042220), M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé le b) du présent article)",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 3",
+          "metadata": {
+            "article_range": "3",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "3",
+            "anchor_id": "art_3",
+            "content": {
+              "main_text": "L'article 125, § 2, de la même loi est abrogé.  \n  \n  (NOTE : par son arrêt n° 57/2021 du 22-04-2021 ([2021-04-22/20](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021042220), M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé le présent article)",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 4",
+          "metadata": {
+            "article_range": "4",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "4",
+            "anchor_id": "art_4",
+            "content": {
+              "main_text": "Dans la même loi, à la place de l'article 126 annulé par l'arrêt n° 84/2015 de la Cour constitutionnelle, il est inséré un article 126 rédigé comme suit :  \n  \"Art. 126. § 1er. Sans préjudice de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel, les fournisseurs au public de services de téléphonie, en ce compris par internet, d'accès à l'Internet, de courrier électronique par Internet, les opérateurs fournissant des réseaux publics de communications électroniques ainsi que les opérateurs fournissant un de ces services, conservent les données visées au paragraphe 3, qui sont générées ou traitées par eux dans le cadre de la fourniture des services de communications concernés.  \n  Le présent article ne porte pas sur le contenu des communications.  \n  L'obligation de conserver les données visées au paragraphe 3 s'applique également aux appels infructueux, pour autant que ces données soient, dans le cadre de la fourniture des services de communications concernés :  \n  1° en ce qui concerne les données de la téléphonie, générées ou traitées par les opérateurs de services de communications électroniques accessibles au public ou d'un réseau public de communications électroniques, ou  \n  2° en ce qui concerne les données de l'internet, journalisées par ces fournisseurs.  \n  § 2. Seules les autorités suivantes peuvent obtenir, sur simple demande, des fournisseurs et opérateurs visés au paragraphe 1er, alinéa 1er, des données conservées en vertu du présent article, pour les finalités et selon les conditions énumérées ci-dessous :  \n  1° les autorités judiciaires, en vue de la recherche, de l'instruction et de la poursuite d'infractions, pour l'exécution des mesures visées aux articles 46bis et 88bis du Code d'instruction criminelle et dans les conditions fixées par ces articles;  \n  2° les services de renseignement et de sécurité, afin d'accomplir des missions de renseignement en ayant recours aux méthodes de recueil de données visées aux articles 16/2, 18/7 et 18/8 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité et dans les conditions fixées par cette loi;  \n  3° tout officier de police judiciaire de l'Institut, en vue de la recherche, de l'instruction et de la poursuite d'infractions aux articles 114, 124 et au présent article;  \n  4° les services d'urgence offrant de l'aide sur place, lorsque, à la suite d'un appel d'urgence, ils n'obtiennent pas du fournisseur ou de l'opérateur concerné les données d'identification de l'appelant à l'aide de la base de données visée à l'article 107, § 2, alinéa 3, ou obtiennent des données incomplètes ou incorrectes. Seules les données d'identification de l'appelant peuvent être demandées et au plus tard dans les 24 heures de l'appel;  \n  5° l'officier de police judiciaire de la Cellule des personnes disparues de la Police Fédérale, dans le cadre de sa mission d'assistance à personne en danger, de recherche de personnes dont la disparition est inquiétante et lorsqu'il existe des présomptions ou indices sérieux que l'intégrité physique de la personne disparue se trouve en danger imminent. Seules les données visées au paragraphe 3, alinéas 1 et 2, relatives à la personne disparue et conservées au cours des 48 heures précédant la demande d'obtention des données peuvent être demandées à l'opérateur ou au fournisseur concerné par l'intermédiaire d'un service de police désigné par le Roi;  \n  6° le Service de médiation pour les télécommunications, en vue de l'identification de la personne ayant effectué une utilisation malveillante d'un réseau ou d'un service de communications électroniques, conformément aux conditions visées à l'article 43bis, § 3, 7°, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques. Seules les données d'identification peuvent être demandées.  \n  Les fournisseurs et opérateurs visés au paragraphe 1er, alinéa 1er, font en sorte que les données visées au paragraphe 3, soient accessibles de manière illimitée à partir de la Belgique et que ces données et toute autre information nécessaire concernant ces données puissent être transmises sans délai et aux seules autorités visées au présent paragraphe.  \n  Sans préjudice d'autres dispositions légales, les fournisseurs et opérateurs visés au paragraphe 1er, alinéa 1er, ne peuvent utiliser les données conservées en vertu du paragraphe 3 pour d'autres finalités.  \n  § 3. Les données visant à identifier l'utilisateur ou l'abonné et les moyens de communication, à l'exclusion des données spécifiquement prévues aux alinéas 2 et 3, sont conservées pendant douze mois à compter de la date à partir de laquelle une communication est possible pour la dernière fois à l'aide du service utilisé.  \n  Les données relatives à l'accès et la connexion de l'équipement terminal au réseau et au service et à la localisation de cet équipement, y compris le point de terminaison du réseau, sont conservées pendant douze mois à partir de la date de la communication.  \n  Les données de communication, à l'exclusion du contenu, en ce compris leur origine et leur destination, sont conservées pendant douze mois à partir de la date de la communication.  \n  Le Roi fixe, par arrêté délibéré en Conseil des ministres, sur proposition du ministre de la Justice et du ministre, et après avis de la Commission de la protection de la vie privée et de l'Institut, les données à conserver par type de catégories visées aux alinéas 1 à 3 ainsi que les exigences auxquelles ces données doivent répondre.  \n  § 4. Pour la conservation des données visées au paragraphe 3, les fournisseurs et les opérateurs visés au paragraphe 1er, alinéa 1er :  \n  1° garantissent que les données conservées sont de la même qualité et sont soumises aux mêmes exigences de sécurité et de protection que les données sur le réseau;  \n  2° veillent à ce que les données conservées fassent l'objet de mesures techniques et organisationnelles appropriées afin de les protéger contre la destruction accidentelle ou illicite, la perte ou l'altération accidentelle, ou le stockage, le traitement, l'accès ou la divulgation non autorisés ou illicites;  \n  3° garantissent que l'accès aux données conservées pour répondre aux demandes des autorités visées au paragraphe 2 n'est effectué que par un ou plusieurs membres de la Cellule de coordination visée à l'article 126/1, § 1er;  \n  4° conservent les données sur le territoire de l'Union européenne;  \n  5° mettent en oeuvre des mesures de protection technologique qui rendent les données conservées, dès leur enregistrement, illisibles et inutilisables par toute personne qui n'est pas autorisée à y avoir accès;  \n  6° détruisent les données conservées de tout support lorsqu'est expiré le délai de conservation applicable à ces données fixé au paragraphe 3, sans préjudice des articles 122 et 123;  \n  7° assurent une traçabilité de l'exploitation des données conservées pour chaque demande d'obtention de ces données d'une autorité visée au paragraphe 2.  \n  La traçabilité visée à l'alinéa 1er, 7°, s'effectue à l'aide d'un journal. L'Institut et la Commission pour la protection de la vie privée peuvent consulter ce journal ou exiger une copie de tout ou partie de ce journal. L'Institut et la Commission pour la protection de la vie privée concluent un protocole de collaboration concernant la prise de connaissance et le contrôle du contenu du journal.  \n  § 5. Le ministre et le ministre de la Justice font en sorte que des statistiques sur la conservation des données qui sont générées ou traitées dans le cadre de la fourniture de services ou réseaux de communications accessibles au public soient transmises annuellement à la Chambre des représentants.  \n  Ces statistiques comprennent notamment :  \n  1° les cas dans lesquels des données ont été transmises aux autorités compétentes conformément aux dispositions légales applicables;  \n  2° le laps de temps écoulé entre la date à partir de laquelle les données ont été conservées et la date à laquelle les autorités compétentes ont demandé leur transmission;  \n  3° les cas dans lesquels des demandes de données n'ont pu être satisfaites.  \n  Ces statistiques ne peuvent comprendre des données à caractère personnel.  \n  Les données qui concernent l'application du paragraphe 2, 1°, sont également jointes au rapport que le ministre de la Justice doit faire au Parlement conformément à l'article 90decies du Code d'instruction criminelle.  \n  Le Roi détermine, sur proposition du ministre de la Justice et du ministre et sur avis de l'Institut, les statistiques que les fournisseurs et opérateurs visés au paragraphe 1er, alinéa 1er, transmettent annuellement à l'Institut et celles que l'Institut transmet au ministre et au ministre de la Justice.  \n  § 6. Sans préjudice du rapport visé au paragraphe 5, alinéa 4, le ministre et le ministre de la Justice font un rapport d'évaluation à la Chambre des représentants, deux ans après l'entrée en vigueur de l'arrêté royal visé au paragraphe 3, alinéa 4, sur la mise en oeuvre du présent article, afin de vérifier si des dispositions doivent être adaptées, en particulier en ce qui concerne les données à conserver et la durée de la conservation.\".  \n  \n  (NOTE : par son arrêt n° 57/2021 du 22-04-2021 ([2021-04-22/20](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021042220), M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé le présent article)",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "en ce qui concerne les données de la téléphonie, générées ou traitées par les opérateurs de services de communications électroniques accessibles au public ou d'un réseau public de communications électroniques, ou",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "en ce qui concerne les données de l'internet, journalisées par ces fournisseurs.",
+                  "sub_items": []
+                },
+                {
+                  "number": "1°",
+                  "text": "les autorités judiciaires, en vue de la recherche, de l'instruction et de la poursuite d'infractions, pour l'exécution des mesures visées aux articles 46bis et 88bis du Code d'instruction criminelle et dans les conditions fixées par ces articles;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "les services de renseignement et de sécurité, afin d'accomplir des missions de renseignement en ayant recours aux méthodes de recueil de données visées aux articles 16/2, 18/7 et 18/8 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité et dans les conditions fixées par cette loi;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "tout officier de police judiciaire de l'Institut, en vue de la recherche, de l'instruction et de la poursuite d'infractions aux articles 114, 124 et au présent article;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "les services d'urgence offrant de l'aide sur place, lorsque, à la suite d'un appel d'urgence, ils n'obtiennent pas du fournisseur ou de l'opérateur concerné les données d'identification de l'appelant à l'aide de la base de données visée à l'article 107, § 2, alinéa 3, ou obtiennent des données incomplètes ou incorrectes. Seules les données d'identification de l'appelant peuvent être demandées et au plus tard dans les 24 heures de l'appel;",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "l'officier de police judiciaire de la Cellule des personnes disparues de la Police Fédérale, dans le cadre de sa mission d'assistance à personne en danger, de recherche de personnes dont la disparition est inquiétante et lorsqu'il existe des présomptions ou indices sérieux que l'intégrité physique de la personne disparue se trouve en danger imminent. Seules les données visées au paragraphe 3, alinéas 1 et 2, relatives à la personne disparue et conservées au cours des 48 heures précédant la demande d'obtention des données peuvent être demandées à l'opérateur ou au fournisseur concerné par l'intermédiaire d'un service de police désigné par le Roi;",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "le Service de médiation pour les télécommunications, en vue de l'identification de la personne ayant effectué une utilisation malveillante d'un réseau ou d'un service de communications électroniques, conformément aux conditions visées à l'article 43bis, § 3, 7°, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques. Seules les données d'identification peuvent être demandées.",
+                  "sub_items": []
+                },
+                {
+                  "number": "1°",
+                  "text": "garantissent que les données conservées sont de la même qualité et sont soumises aux mêmes exigences de sécurité et de protection que les données sur le réseau;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "veillent à ce que les données conservées fassent l'objet de mesures techniques et organisationnelles appropriées afin de les protéger contre la destruction accidentelle ou illicite, la perte ou l'altération accidentelle, ou le stockage, le traitement, l'accès ou la divulgation non autorisés ou illicites;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "garantissent que l'accès aux données conservées pour répondre aux demandes des autorités visées au paragraphe 2 n'est effectué que par un ou plusieurs membres de la Cellule de coordination visée à l'article 126/1, § 1er;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "conservent les données sur le territoire de l'Union européenne;",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "mettent en oeuvre des mesures de protection technologique qui rendent les données conservées, dès leur enregistrement, illisibles et inutilisables par toute personne qui n'est pas autorisée à y avoir accès;",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "détruisent les données conservées de tout support lorsqu'est expiré le délai de conservation applicable à ces données fixé au paragraphe 3, sans préjudice des articles 122 et 123;",
+                  "sub_items": []
+                },
+                {
+                  "number": "7°",
+                  "text": "assurent une traçabilité de l'exploitation des données conservées pour chaque demande d'obtention de ces données d'une autorité visée au paragraphe 2.",
+                  "sub_items": []
+                },
+                {
+                  "number": "1°",
+                  "text": "les cas dans lesquels des données ont été transmises aux autorités compétentes conformément aux dispositions légales applicables;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "le laps de temps écoulé entre la date à partir de laquelle les données ont été conservées et la date à laquelle les autorités compétentes ont demandé leur transmission;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "les cas dans lesquels des demandes de données n'ont pu être satisfaites.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 5",
+          "metadata": {
+            "article_range": "5",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "5",
+            "anchor_id": "art_5",
+            "content": {
+              "main_text": "Dans la même loi, un article 126/1 est inséré rédigé comme suit :  \n  \"Art. 126/1. § 1er. Au sein de chaque opérateur, et au sein de chaque fournisseur visé à l'article 126, § 1er, alinéa 1er, est constituée une Cellule de coordination, chargée de fournir aux autorités belges légalement habilitées, à leur demande, des données conservées en vertu des articles 122, 123 et 126, les données d'identification de l'appelant en vertu de l'article 107, § 2, alinéa 1er ou les données qui peuvent être requises en vertu des articles 46bis, 88bis et 90ter du Code d'instruction criminelle et des articles 18/7, 18/8, 18/16 et 18/17 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité.  \n  Le cas échéant, plusieurs opérateurs ou fournisseurs peuvent créer une Cellule de coordination commune. En pareil cas, cette Cellule de coordination doit prévoir le même service pour chaque opérateur ou fournisseur.  \n  Afin de faire partie de la Cellule de coordination, les membres doivent :  \n  1° Avoir fait l'objet d'un avis de sécurité positif et non périmé conformément à l'article 22quinquies de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité;  \n  2° Ne pas avoir fait l'objet d'un refus du ministre de la Justice, ce refus devant être motivé et pouvant intervenir en tout temps.  \n  Un avis est considéré comme étant périmé 5 ans après son octroi.  \n  Les opérateurs et fournisseurs qui ne fournissent aucun des services visés à l'article 126, § 1er, sont dispensés de la condition visée à l'alinéa 3, 1°.  \n  Seuls les membres de la Cellule de coordination peuvent répondre aux demandes des autorités portant sur les données visées à l'alinéa 1er. Ils peuvent cependant, sous leur surveillance et dans la limite du strict nécessaire, obtenir une aide technique de préposés de l'opérateur ou du fournisseur.  \n  Les membres de la Cellule de coordination et les préposés apportant une aide technique sont soumis au secret professionnel.  \n  Chaque opérateur et chaque fournisseur visé à l'article 126, § 1er, alinéa 1er, veille à la confidentialité des données traitées par la Cellule de coordination et communique sans délai à l'Institut et à la Commission pour la protection de la vie privée les coordonnées de la Cellule de coordination et de ses membres ainsi que toute modification de ces données.  \n  § 2. Chaque opérateur et chaque fournisseur visé à l'article 126, § 1er, alinéa 1er, établit une procédure interne permettant de répondre aux demandes d'accès des autorités aux données à caractère personnel concernant les utilisateurs. Il met, sur demande, à la disposition de l'Institut des informations sur ces procédures, sur le nombre de demandes reçues, sur la base juridique invoquée et sur sa réponse.  \n  Chaque opérateur et chaque fournisseur visé à l'article 126, § 1er, alinéa 1er, est considéré comme responsable du traitement au sens de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel pour les données traitées sur base de l'article 126 et du présent article.  \n  Les opérateurs de réseaux publics de communications électroniques et les fournisseurs visés à l'article 126, § 1er, alinéa 1er, respectent l'article 114, § 2, pour l'accès aux données visées au paragraphe 1er et leur transmission aux autorités.  \n  § 3. Chaque fournisseur et chaque opérateur visés à l'article 126, § 1er, alinéa 1er, désigne un ou plusieurs préposés à la protection des données à caractère personnel, qui doit répondre aux conditions cumulatives énumérées au paragraphe 1er, alinéa 3.  \n  Ce préposé ne peut pas faire partie de la Cellule de coordination.  \n  Plusieurs opérateurs ou fournisseurs peuvent désigner un ou plusieurs préposés communs à la protection des données à caractère personnel. En pareil cas, ces préposés doivent assurer la même mission pour chaque opérateur ou fournisseur individuel.  \n  Dans l'exercice de ses missions, le préposé à la protection des données à caractère personnel agit en toute indépendance, et a accès à toutes les données à caractère personnel transmises aux autorités ainsi qu'à tous les locaux pertinents du fournisseur ou de l'opérateur.  \n  L'exercice de ses missions ne peut entraîner pour le préposé des désavantages. Il ne peut, en particulier, être licencié ou remplacé comme préposé à cause de l'exécution des tâches qui lui sont confiées, sans motivation approfondie.  \n  Le préposé doit avoir la possibilité de communiquer directement avec la direction de l'opérateur ou du fournisseur.  \n  Le préposé à la protection des données veille à ce que :  \n  1° les traitements effectués par la Cellule de coordination soient exécutés conformément à la loi;  \n  2° le fournisseur ou l'opérateur ne collecte et conserve que les données qu'il peut légalement conserver;  \n  3° seules les autorités légalement habilitées aient accès aux données conservées;  \n  4° les mesures de sécurité et de protection des données à caractère personnel décrites dans la présente loi et dans la politique de sécurité du fournisseur ou de l'opérateur soient mises en oeuvre.  \n  Chaque fournisseur et chaque opérateur visés à l'article 126, § 1er, alinéa 1er, communique sans délai à l'Institut et à la Commission pour la protection de la vie privée les coordonnées des préposés à la protection des données à caractère personnel, ainsi que toute modification de ces données.  \n  § 4. Le Roi détermine, par arrêté délibéré en Conseil des ministres, après avis de la Commission pour la protection de la vie privée et de l'Institut :  \n  1° les modalités de la demande et de l'octroi de l'avis de sécurité;  \n  2° les exigences auxquelles la Cellule de coordination doit répondre, en prenant en compte la situation des opérateurs et fournisseurs recevant peu de demandes des autorités judiciaires, n'ayant pas d'établissement en Belgique ou opérant principalement de l'étranger;  \n  3° les informations à fournir à l'Institut et à la Commission pour la protection de la vie privée conformément aux paragraphes 1 et 3 ainsi que les autorités qui ont accès à ces informations;  \n  4° les autres règles régissant la collaboration des opérateurs et des fournisseurs visés à l'article 126, § 1er, alinéa 1er avec les autorités belges ou avec certaines d'entre elles, pour la fourniture des données visées au paragraphe 1er, en ce compris, si nécessaire et par autorité concernée, la forme et le contenu de la demande.\".  \n  \n  (NOTE : par son arrêt n° 57/2021 du 22-04-2021 ([2021-04-22/20](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021042220), M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé le présent article)",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "Avoir fait l'objet d'un avis de sécurité positif et non périmé conformément à l'article 22quinquies de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "Ne pas avoir fait l'objet d'un refus du ministre de la Justice, ce refus devant être motivé et pouvant intervenir en tout temps.",
+                  "sub_items": []
+                },
+                {
+                  "number": "1°",
+                  "text": "les traitements effectués par la Cellule de coordination soient exécutés conformément à la loi;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "le fournisseur ou l'opérateur ne collecte et conserve que les données qu'il peut légalement conserver;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "seules les autorités légalement habilitées aient accès aux données conservées;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "les mesures de sécurité et de protection des données à caractère personnel décrites dans la présente loi et dans la politique de sécurité du fournisseur ou de l'opérateur soient mises en oeuvre.",
+                  "sub_items": []
+                },
+                {
+                  "number": "1°",
+                  "text": "les modalités de la demande et de l'octroi de l'avis de sécurité;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "les exigences auxquelles la Cellule de coordination doit répondre, en prenant en compte la situation des opérateurs et fournisseurs recevant peu de demandes des autorités judiciaires, n'ayant pas d'établissement en Belgique ou opérant principalement de l'étranger;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "les informations à fournir à l'Institut et à la Commission pour la protection de la vie privée conformément aux paragraphes 1 et 3 ainsi que les autorités qui ont accès à ces informations;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "les autres règles régissant la collaboration des opérateurs et des fournisseurs visés à l'article 126, § 1er, alinéa 1er avec les autorités belges ou avec certaines d'entre elles, pour la fourniture des données visées au paragraphe 1er, en ce compris, si nécessaire et par autorité concernée, la forme et le contenu de la demande.\".",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 6",
+          "metadata": {
+            "article_range": "6",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "6",
+            "anchor_id": "art_6",
+            "content": {
+              "main_text": "A l'article 127 de la même loi, modifié par les lois des 4 février 2010, 10 juillet 2012 et 27 mars 2014, les modifications suivantes sont apportées :  \n  1° dans le paragraphe 1er, les modifications suivantes sont apportées :  \n  a) dans l'alinéa 1er, les mots \", aux fournisseurs visés à l'article 126, § 1er, alinéa 1er,\" sont insérés entre les mots \"aux opérateurs\" et les mots \"ou aux utilisateurs finals\";  \n  b) dans l'alinéa 2, les mots \"et des fournisseurs visés à l'article 126, § 1er, alinéa 1er,\" sont insérées entre les mots \"des opérateurs\" et les mots \"aux opérations\";  \n  2° le paragraphe 6 est abrogé.  \n  \n  (NOTE : par son arrêt n° 57/2021 du 22-04-2021 ([2021-04-22/20](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021042220), M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé le présent article)",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "dans le paragraphe 1er, les modifications suivantes sont apportées :",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "le paragraphe 6 est abrogé.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 7",
+          "metadata": {
+            "article_range": "7",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "7",
+            "anchor_id": "art_7",
+            "content": {
+              "main_text": "A l'article 145 de la même loi, modifié par les lois du 25 avril 2007 et du 27 mars 2014, les modifications suivantes sont apportées :  \n  1° les mots \"126, 126/1,\" sont insérés entre les mots \"124,\" et le mot \"127\";  \n  2° les mots \", 126, 126/1\" sont insérés entre les mots \"47\" et \"et 127\";  \n  3° au lieu du paragraphe 3ter, annulé par l'arrêt n° 84/2015 de la Cour constitutionnelle, il est inséré un paragraphe 3ter rédigé comme suit :  \n  \" § 3ter. Est puni d'une amende de 50 euros à 50 000 euros et d'une peine d'emprisonnement de six mois à trois ans ou d'une de ces peines seulement :  \n  1° toute personne qui, à l'occasion de l'exercice de ses fonctions, hors les cas prévus par la loi ou sans respecter les formalités qu'elle prescrit, avec une intention frauduleuse ou à dessein de nuire, reprend de quelque manière que ce soit, détient, ou fait un usage quelconque des données visées à l'article 126;  \n  2° celui qui, sachant que les données ont été obtenues par la commission de l'infraction visée au 1°, les détient, les révèle à une autre personne, les divulgue ou en fait un usage quelconque.\".  \n  \n  (NOTE : par son arrêt n° 57/2021 du 22-04-2021 ([2021-04-22/20](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021042220), M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé le présent article)",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "les mots \"126, 126/1,\" sont insérés entre les mots \"124,\" et le mot \"127\";",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "les mots \", 126, 126/1\" sont insérés entre les mots \"47\" et \"et 127\";",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "au lieu du paragraphe 3ter, annulé par l'arrêt n° 84/2015 de la Cour constitutionnelle, il est inséré un paragraphe 3ter rédigé comme suit :",
+                  "sub_items": []
+                },
+                {
+                  "number": "1°",
+                  "text": "toute personne qui, à l'occasion de l'exercice de ses fonctions, hors les cas prévus par la loi ou sans respecter les formalités qu'elle prescrit, avec une intention frauduleuse ou à dessein de nuire, reprend de quelque manière que ce soit, détient, ou fait un usage quelconque des données visées à l'article 126;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "celui qui, sachant que les données ont été obtenues par la commission de l'infraction visée au 1°, les détient, les révèle à une autre personne, les divulgue ou en fait un usage quelconque.\".",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 3. Modifications du Code d'instruction criminelle",
+      "metadata": {
+        "title_type": "CHAPITRE 3.",
+        "title_content": "Modifications du Code d'instruction criminelle",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 8",
+          "metadata": {
+            "article_range": "8",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "8",
+            "anchor_id": "art_8",
+            "content": {
+              "main_text": "Dans l'article 46bis, § 1er, du Code d'instruction criminelle, inséré par la loi du 10 juin 1998 et remplacé par la loi du 23 janvier 2007, les modifications suivantes sont apportées :  \n  a) les mots \"le concours de l'opérateur d'une réseau de communication\" sont remplacés par les mots \"le concours de l'opérateur d'un réseau de communication\";  \n  b) le paragraphe est complété par un alinéa rédigé comme suit :  \n  \"Pour des infractions qui ne sont pas de nature à entraîner un emprisonnement correctionnel principal d'un an ou une peine plus lourde, le procureur du Roi, ou, en cas d'extrême urgence, l'officier de police judiciaire, ne peuvent requérir les données visées à l'alinéa 1er que pour une période de six mois préalable à sa décision.\".  \n  \n  (NOTE : par son arrêt n° 57/2021 du 22-04-2021 ([2021-04-22/20](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021042220), M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé le présent article)",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 9",
+          "metadata": {
+            "article_range": "9",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "9",
+            "anchor_id": "art_9",
+            "content": {
+              "main_text": "Dans l'article 88bis du même Code, inséré par la loi du 11 février 1991, remplacé par la loi du 10 juin 1998 et modifié par les lois des 8 juin 2008 et 27 décembre 2012, les modifications suivantes sont apportées :  \n  a) dans le paragraphe 1er, l'alinéa 1er est remplacé par ce qui suit :  \n  \"S'il existe des indices sérieux que les infractions sont de nature à entraîner un emprisonnement correctionnel principal d'un an ou une peine plus lourde, et lorsque le juge d'instruction estime qu'il existe des circonstances qui rendent le repérage de communications électroniques ou la localisation de l'origine ou de la destination de communications électroniques nécessaire à la manifestation de la vérité, il peut procéder ou faire procéder, en requérant au besoin, directement ou par l'intermédiaire d'un service de police désigné par le Roi, le concours technique de l'opérateur d'un réseau de communication électronique ou du fournisseur d'un service de communication électronique :  \n  1° au repérage des données de trafic de moyens de communication électronique à partir desquels ou vers lesquels des communications électroniques sont adressées ou ont été adressées;  \n  2° à la localisation de l'origine ou de la destination de communications électroniques.\";  \n  b) dans le paragraphe 1er, alinéa 2, les mots \"moyen de télécommunication\" sont remplacés par les mots \"moyen de communication électronique\" et les mots \"de la télécommunication\" par les mots \"de la communication électronique\";  \n  c) dans le paragraphe 1er, l'alinéa 3 est remplacé par ce qui suit :  \n  \"Le juge d'instruction indique les circonstances de fait de la cause qui justifient la mesure, son caractère proportionnel eu égard au respect de la vie privée et subsidiaire à tout autre devoir d'enquête, dans une ordonnance motivée.\";  \n  d) dans le paragraphe 1er, l'alinéa 4, est remplacé par ce qui suit :  \n  \"Il précise également la durée durant laquelle elle pourra s'appliquer pour le futur, cette durée ne pouvant excéder deux mois à dater de l'ordonnance, sans préjudice de renouvellement et, le cas échéant, la période pour le passé sur laquelle l'ordonnance s'étend conformément au paragraphe 2.\";  \n  e) le paragraphe 1er est complété par un alinéa rédigé comme suit :  \n  \"En cas d'urgence, la mesure peut être ordonnée verbalement. Elle doit être confirmée dans les plus brefs délais dans la forme prévue aux alinéas 3 et 4.\";  \n  f) le paragraphe 2, dont le texte actuel formera le paragraphe 4, est remplacé par ce qui suit :  \n  \" § 2. Pour ce qui concerne l'application de la mesure visée au paragraphe 1er, alinéa 1er, aux données de trafic ou de localisation conservées sur la base de l'article 126 de la loi du 13 juin 2005 relative aux communications électroniques, les dispositions suivantes s'appliquent :  \n  \\- pour une infraction visée au livre II, titre Iter, du Code pénal, le juge d'instruction peut dans son ordonnance requérir les données pour une période de douze mois préalable à l'ordonnance;  \n  \\- pour une autre infraction visée à l'article 90ter, §§ 2 à 4, qui n'est pas visée au premier tiret ou pour une infraction qui est commise dans le cadre d'une organisation criminelle visée à l'article 324bis du Code pénal, ou pour une infraction qui est de nature à entraîner un emprisonnement correctionnel principal de cinq ans ou une peine plus lourde, le juge d'instruction peut dans son ordonnance requérir les données pour une période de neuf mois préalable à l'ordonnance;  \n  \\- pour les autres infractions, le juge d'instruction ne peut requérir les données que pour une période de six mois préalable à l'ordonnance.\";  \n  g) l'article est complété par un paragraphe 3 rédigé comme suit :  \n  \" § 3. La mesure ne peut porter sur les moyens de communication électronique d'un avocat ou d'un médecin que si celui-ci est lui-même soupçonné d'avoir commis une infraction visée au paragraphe 1er ou d'y avoir participé, ou si des faits précis laissent présumer que des tiers soupçonnés d'avoir commis une infraction visée au paragraphe 1er, utilisent ses moyens de communication électronique.  \n  La mesure ne peut être exécutée sans que le bâtonnier ou le représentant de l'ordre provincial des médecins, selon le cas, en soit averti. Ces mêmes personnes seront informées par le juge d'instruction des éléments qu'il estime relever du secret professionnel. Ces éléments ne sont pas consignés au procès-verbal.\";  \n  h) dans le paragraphe 2, qui est renuméroté en paragraphe 4, alinéa 1er, les mots \"Chaque opérateur d'un réseau de télécommunication et chaque fournisseur d'un service de télécommunication\" sont remplacés par les mots \"Chaque opérateur d'un réseau de communication électronique et chaque fournisseur d'un service de communication électronique\".  \n  \n  (NOTE : par son arrêt n° 57/2021 du 22-04-2021 ([2021-04-22/20](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021042220), M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé le présent article)",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "au repérage des données de trafic de moyens de communication électronique à partir desquels ou vers lesquels des communications électroniques sont adressées ou ont été adressées;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "à la localisation de l'origine ou de la destination de communications électroniques.\";",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 10",
+          "metadata": {
+            "article_range": "10",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "10",
+            "anchor_id": "art_10",
+            "content": {
+              "main_text": "L'article 90decies du même Code, inséré par la loi du 30 juin 1994 et modifié par les lois des 8 avril 2002, 7 juillet 2002, 6 janvier 2003 et par la loi du 30 juillet 2013 annulée par l'arrêt de la Cour constitutionnelle n° 84/2015, est complété par un alinéa rédigé comme suit :  \n  \"A ce rapport est également joint le rapport dressé en application de l'article 126, § 5, alinéa 4, de la loi du 13 juin 2005 relative aux communications électroniques.\".  \n  \n  (NOTE : par son arrêt n° 57/2021 du 22-04-2021 ([2021-04-22/20](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021042220), M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé le présent article)",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 11",
+          "metadata": {
+            "article_range": "11",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "11",
+            "anchor_id": "art_11",
+            "content": {
+              "main_text": "Dans l'article 464/25, § 2, alinéa 1er, du même Code, les mots \"l'article 88bis, § 2, alinéas 1er et 3\" sont remplacés par les mots \"l'article 88bis, § 4, alinéas 1er et 3\".  \n  \n  (NOTE : par son arrêt n° 57/2021 du 22-04-2021 ([2021-04-22/20](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021042220), M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé le présent article)",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 4. Modifications de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité",
+      "metadata": {
+        "title_type": "CHAPITRE 4.",
+        "title_content": "Modifications de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 12",
+          "metadata": {
+            "article_range": "12",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "12",
+            "anchor_id": "art_12",
+            "content": {
+              "main_text": "A l'article 13 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, modifié par la loi du 4 février 2010, les modifications suivantes sont apportées :  \n  1° dans le texte néerlandais de l'alinéa 1er, le mot \"inlichtingen\" est remplacé par le mot \"informatie.\";  \n  2° l'alinéa 3 est remplacé par ce qui suit :  \n  \"Les services de renseignement et de sécurité veillent à la sécurité des données ayant trait à leurs sources et à celles des informations et des données à caractère personnel fournies par ces sources.\";  \n  3° l'article est complété par un alinéa rédigé comme suit :  \n  \"Les agents des services de renseignement et de sécurité ont accès aux informations, renseignements et données à caractère personnel recueillis et traités par leur service, pour autant que ceux-ci soient utiles dans l'exercice de leur fonction ou de leur mission.\".",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "dans le texte néerlandais de l'alinéa 1er, le mot \"inlichtingen\" est remplacé par le mot \"informatie.\";",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "l'alinéa 3 est remplacé par ce qui suit :",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "l'article est complété par un alinéa rédigé comme suit :",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 13",
+          "metadata": {
+            "article_range": "13",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "13",
+            "anchor_id": "art_13",
+            "content": {
+              "main_text": "Dans l'article 18/3 de la même loi, inséré par la loi du 4 février 2010, les modifications suivantes sont apportées :  \n  a) dans le paragraphe 1er, l'alinéa 3 actuel formera le paragraphe 5;  \n  b) dans le paragraphe 1er, alinéa 4, qui formera le paragraphe 7, le mot \"mettre\" est remplacé par les mots \"le suivi de la mise\";  \n  c) le paragraphe 2, dont les alinéas 2 à 5 actuels formeront le paragraphe 6, est remplacé par ce qui suit :  \n  \" § 2. La décision du dirigeant du service mentionne :  \n  1° la nature de la méthode spécifique;  \n  2° selon le cas, les personnes physiques ou morales, les associations ou les groupements, les objets, les lieux, les événements ou les informations soumis à la méthode spécifique;  \n  3° la menace potentielle qui justifie la méthode spécifique;  \n  4° les circonstances de fait qui justifient la méthode spécifique, la motivation en matière de subsidiarité et de proportionnalité, en ce compris le lien entre le 2° et le 3° ;  \n  5° la période pendant laquelle la méthode spécifique peut être appliquée, à compter de la notification de la décision à la Commission;  \n  6° le nom du (ou des) officier(s) de renseignement responsable(s) pour le suivi de la mise en oeuvre de la méthode spécifique;  \n  7° le cas échéant, le moyen technique employé pour mettre en oeuvre la méthode spécifique;  \n  8° le cas échéant, le concours avec une information ou une instruction judiciaire;  \n  9° le cas échéant, les indices sérieux attestant que l'avocat, le médecin ou le journaliste participe ou a participé personnellement et activement à la naissance ou au développement de la menace potentielle;  \n  10° dans le cas où il est fait application de l'article 18/8, la motivation de la durée de la période à laquelle a trait la collecte de données;  \n  11° la date de la décision;  \n  12° la signature du dirigeant du service.\";  \n  d) le paragraphe 3 est remplacé par ce qui suit :  \n  \" § 3. Par méthode spécifique, une liste des mesures qui ont été exécutées est transmise à la commission à la fin de chaque mois.  \n  Ces listes comprennent les données visées au § 2, 1° à 3°, 5° et 7°. \";  \n  e) l'article est complété par un paragraphe 8 rédigé comme suit :  \n  \" § 8. Le dirigeant du service met fin à la méthode spécifique lorsque la menace potentielle qui la justifie a disparu, lorsque la méthode n'est plus utile pour la finalité pour laquelle elle avait été mise en oeuvre, ou quand il a constaté une illégalité. Il informe dans les plus brefs délais la Commission de sa décision.\".",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "la nature de la méthode spécifique;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "selon le cas, les personnes physiques ou morales, les associations ou les groupements, les objets, les lieux, les événements ou les informations soumis à la méthode spécifique;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "la menace potentielle qui justifie la méthode spécifique;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "les circonstances de fait qui justifient la méthode spécifique, la motivation en matière de subsidiarité et de proportionnalité, en ce compris le lien entre le 2° et le 3° ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "la période pendant laquelle la méthode spécifique peut être appliquée, à compter de la notification de la décision à la Commission;",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "le nom du (ou des) officier(s) de renseignement responsable(s) pour le suivi de la mise en oeuvre de la méthode spécifique;",
+                  "sub_items": []
+                },
+                {
+                  "number": "7°",
+                  "text": "le cas échéant, le moyen technique employé pour mettre en oeuvre la méthode spécifique;",
+                  "sub_items": []
+                },
+                {
+                  "number": "8°",
+                  "text": "le cas échéant, le concours avec une information ou une instruction judiciaire;",
+                  "sub_items": []
+                },
+                {
+                  "number": "9°",
+                  "text": "le cas échéant, les indices sérieux attestant que l'avocat, le médecin ou le journaliste participe ou a participé personnellement et activement à la naissance ou au développement de la menace potentielle;",
+                  "sub_items": []
+                },
+                {
+                  "number": "10°",
+                  "text": "dans le cas où il est fait application de l'article 18/8, la motivation de la durée de la période à laquelle a trait la collecte de données;",
+                  "sub_items": []
+                },
+                {
+                  "number": "11°",
+                  "text": "la date de la décision;",
+                  "sub_items": []
+                },
+                {
+                  "number": "12°",
+                  "text": "la signature du dirigeant du service.\";",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 14",
+          "metadata": {
+            "article_range": "14",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "14",
+            "anchor_id": "art_14",
+            "content": {
+              "main_text": "Dans l'article 18/8 de la même loi, inséré par la loi du 4 février 2010, les modifications suivantes sont apportées :  \n  a) dans le paragraphe 1er, l'alinéa 1er est remplacé comme suit :  \n  \"Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, au besoin en requérant à cette fin le concours technique de l'opérateur d'un réseau de communication électronique ou du fournisseur d'un service de communication électronique, procéder ou faire procéder :  \n  1° au repérage des données de trafic de moyens de communication électronique à partir desquels ou vers lesquels des communications électroniques sont adressées ou ont été adressées;  \n  2° à la localisation de l'origine ou de la destination de communications électroniques.\";  \n  b) dans le paragraphe 1er, alinéa 2, les mots \"données d'appel\" sont remplacés par les mots \"données de trafic\".  \n  c) le paragraphe 2, dont le texte actuel formera le paragraphe 4, est remplacé par ce qui suit :  \n  \" § 2. Pour ce qui concerne l'application de la méthode visée au paragraphe 1er aux données conservées sur la base de l'article 126 de la loi du 13 juin 2005 relative aux communications électroniques, les dispositions suivantes s'appliquent :  \n  1° pour une menace potentielle qui se rapporte à une activité qui peut être liée aux organisations criminelles ou aux organisations sectaires nuisibles, le dirigeant du service ne peut dans sa décision requérir les données que pour une période de six mois préalable à la décision;  \n  2° pour une menace potentielle autre que celles visées sous le 1° et le 3°, le dirigeant du service peut dans sa décision requérir les données pour une période de neuf mois préalable à la décision;  \n  3° pour une menace potentielle qui se rapporte à une activité qui peut être liée au terrorisme ou à l'extrémisme, le dirigeant du service peut dans sa décision requérir les données pour une période de douze mois préalable à la décision.\".  \n  \n  (NOTE : par son arrêt n° 57/2021 du 22-04-2021 ([2021-04-22/20](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021042220), M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé le présent article)",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "au repérage des données de trafic de moyens de communication électronique à partir desquels ou vers lesquels des communications électroniques sont adressées ou ont été adressées;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "à la localisation de l'origine ou de la destination de communications électroniques.\";",
+                  "sub_items": []
+                },
+                {
+                  "number": "1°",
+                  "text": "pour une menace potentielle qui se rapporte à une activité qui peut être liée aux organisations criminelles ou aux organisations sectaires nuisibles, le dirigeant du service ne peut dans sa décision requérir les données que pour une période de six mois préalable à la décision;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "pour une menace potentielle autre que celles visées sous le 1° et le 3°, le dirigeant du service peut dans sa décision requérir les données pour une période de neuf mois préalable à la décision;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "pour une menace potentielle qui se rapporte à une activité qui peut être liée au terrorisme ou à l'extrémisme, le dirigeant du service peut dans sa décision requérir les données pour une période de douze mois préalable à la décision.\".",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 15",
+          "metadata": {
+            "article_range": "15",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "15",
+            "anchor_id": "art_15",
+            "content": {
+              "main_text": "Dans l'article 43/3 de la même loi, inséré par la loi du 4 février 2010, les mots \"visées à l'article 18/3, § 2\" sont remplacés par les mots \"visées à l'article 18/3, § 3\".  \n  \n**ARTICLE**[Art.] 16\\. Dans l'article 43/5, § 1er, alinéa 2, de la même loi, les mots \"visées à l'article 18/3, § 2\" sont remplacés par les mots \"visées à l'article 18/3, § 3\". \n\n[12A] ## Travaux parlementaires [12B]\n\n   Chambre des représentants (www.lachambre.be) : Documents : 54-1567 Compte rendu intégral : 21 avril 2016 \n\n[11A] ## Signatures [11B]\n\n   Donné à Bruxelles, le 29 mai 2016.  \nPHILIPPE  \nPar le Roi :  \nLe Ministre de la Justice,  \nK. GEENS  \nLe Ministre de l'Agence numérique, des Télécommunications  \net de la Poste,  \nA. DE CROO  \nLe Ministre de la Défense,  \nS. VANDEPUT  \nScellé du sceau de l'Etat :  \nLe Ministre de la Justice,  \nK. GEENS \n\n[9A] ## Préambule [9B]\n\n   PHILIPPE, Roi des Belges,  \n   A tous, présents et à venir, Salut.  \n   La Chambre des représentants a adopté et Nous sanctionnons ce qui suit : \n\n[4A] ## Fiche des modifications [4B]\n\n  * [Arrêt cour constitutionnelle du 22-04-2021 publié le 28-06-2021](https://www.ejustice.just.fgov.be/mopdf/2021/06/28_1.pdf#Page11)\nArticles modifiés :  \n2; 3-11; 14 \n\n\n[5A] [6A] ## Lien [6B]s [5B]\n\n<https://www.ejustice.just.fgov.be/eli/loi/2016/05/29/2016009288/justel> Copier le lien [Image de la publication officielle](https://www.ejustice.just.fgov.be/mopdf/2016/07/18_1.pdf#Page9) [PDF version consolidée](https://www.ejustice.just.fgov.be/img_l/pdf/2016/05/29/2016009288_F.pdf)\n\n[5A] [6A] ## Lien [6B]s [5B] externes\n\n[Conseil d'Etat](http://reflex.raadvst-consetat.be/reflex/?page=chrono&c=detail_get&d=detail&docid=133832&tab=chrono&lang=fr) [La Chambre des représentants](https://www.lachambre.be/kvvcr/showpage.cfm?section=flwb&language=fr&cfm=/site/wwwcfm/flwb/flwbn.cfm?&dossierID=1567&legislat=54) Informations générales\n\n  * [Conditions d'utilisation](https://www.ejustice.just.fgov.be/img_2024/pdf/GebruiksvoorwaardenFR.pdf)\n\nLiens utiles\n\n  * [SPF Justice](https://justitie.belgium.be/fr)\n  * [Ministère Public](https://www.om-mp.be/fr)\n  * [Cours & tribunaux](https://www.rechtbanken-tribunaux.be/fr)\n  * [Cours de cassation](https://justice.belgium.be/fr/ordre_judiciaire/cours_et_tribunaux/cour_de_cassation)\n\nCopyright © 2024 Service Public Fédéral Belge",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": [
+      {
+        "modification_type": "Arrêt cour constitutionnelle",
+        "modification_date": "2021-04-22",
+        "publication_date": "2021-06-28",
+        "modified_articles": [
+          "2",
+          "3-11",
+          "14"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2021/06/28_1.pdf#Page11",
+        "full_title": "Arrêt cour constitutionnelle du 22-04-2021 publié le 28-06-2021"
+      }
+    ]
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-07-12T13:12:32.955770",
+    "source_file": "2016009288.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false
+    }
+  }
+}

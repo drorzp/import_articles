@@ -1,0 +1,119 @@
+{
+  "document_metadata": {
+    "document_number": "2016009087",
+    "title": "2016009087 18 FEVRIER 2016. - Arrêté royal portant exécution de l'article 204, alinéa 3, du Code d'instruction criminelle(NOTE : Consultation des versions antérieures à partir du 19-02-2016 et mise à jour au 01-12-2017)",
+    "publication_date": "2016-02-19",
+    "source": "Justice",
+    "page_number": 13170,
+    "dossier_number": "2016-02-18/01",
+    "effective_date": "2016-03-01",
+    "language": "fr",
+    "document_type": "arrete",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/arrete/2016/02/18/2016009087/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2016/02/19_4.pdf#Page48",
+    "consolidated_pdf_url": ""
+  },
+  "document_hierarchy": [
+    {
+      "type": "article",
+      "label": "Art. 1er",
+      "metadata": {
+        "article_range": "1er",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "1er",
+        "anchor_id": "art_1er",
+        "content": {
+          "main_text": ". Le formulaire prévu à l'annexe 1re du présent arrêté peut être utilisé pour interjeter appel conformément à l'article 204, alinéa 3, du Code d'instruction criminelle.",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Art. 2",
+      "metadata": {
+        "article_range": "2",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "2",
+        "anchor_id": "art_2",
+        "content": {
+          "main_text": "Le présent arrêté entre en vigueur le 1er mars 2016.",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Art. 3",
+      "metadata": {
+        "article_range": "3",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "3",
+        "anchor_id": "art_3",
+        "content": {
+          "main_text": "Le ministre qui a la Justice dans ses attributions est chargé de l'exécution du présent arrêté.  \n  \n**ANNEXE**[ANNEXE.]",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": [
+      {
+        "modification_type": "Arrêté royal",
+        "modification_date": "2017-11-23",
+        "publication_date": "2017-12-01",
+        "modified_articles": [
+          "N"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2017/12/01_2.pdf#Page77",
+        "full_title": "Arrêté royal du 23-11-2017 publié le 01-12-2017"
+      }
+    ]
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-07-12T13:12:32.458009",
+    "source_file": "2016009087.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false
+    }
+  }
+}

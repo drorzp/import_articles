@@ -1,0 +1,1562 @@
+{
+  "document_metadata": {
+    "document_number": "2019031201",
+    "title": "2019031201 15 DECEMBRE 2019. - Arrêté royal fixant l'organisation des bureaux des frais de justice de l'arrondissement, ainsi que la procédure d'attribution, de vérification, de paiement et de recouvrement des frais de justice en matière pénale et des frais assimilés (Cité comme \"Arrêté frais de justice\")(NOTE : Consultation des versions antérieures à partir du 27-12-2019 et mise à jour au 07-01-2022)",
+    "publication_date": "2019-12-27",
+    "source": "Justice",
+    "page_number": 118425,
+    "dossier_number": "2019-12-15/06",
+    "effective_date": "2020-01-01",
+    "language": "fr",
+    "document_type": "arrete",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 4,
+      "execution_orders_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arrexec=1&lg_txt=f&type=&sort=&numac_search=2019031201&cn_search=2019121506&caller=eli&&view_numac=2019121506fx2019121506nl"
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/arrete/2019/12/15/2019031201/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2019/12/27_2.pdf#Page73",
+    "consolidated_pdf_url": "https://www.ejustice.just.fgov.be/img_l/pdf/2019/12/15/2019031201_F.pdf"
+  },
+  "document_hierarchy": [
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 1er. DEFINITIONS ET DISPOSITIONS RELATIVES A LA PROTECTION DES DONNEES A CARACTERE PERSONNEL",
+      "metadata": {
+        "title_type": "CHAPITRE 1er.",
+        "title_content": "DEFINITIONS ET DISPOSITIONS RELATIVES A LA PROTECTION DES DONNEES A CARACTERE PERSONNEL",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "section",
+          "label": "Section 1re. Définitions",
+          "metadata": {
+            "title_type": "Section 1re.",
+            "title_content": "Définitions",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Art. 1er",
+              "metadata": {
+                "article_range": "1er",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "1er",
+                "anchor_id": "art_1er",
+                "content": {
+                  "main_text": ". Pour l'application du présent arrêté, on entend par :  \n  1° \" la loi \": la loi du 23 mars 2019 concernant les frais de justice en matière pénale et les frais assimilés et insérant un article 648 dans le Code d'instruction Criminelle;  \n  2° \" arrêté tarifaire \" : un arrêté royal pour une ou plusieurs catégories de prestataires de services, pris sur base de l'article 11 alinéa 1er, de la loi;  \n  3° \" ministre \" : le ministre qui a la Justice dans ses attributions ;  \n  4° \" RGPD \" : le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE ;  \n  5° \" Loi cadre en matière de protection des données à caractère personnel \" : la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.",
+                  "numbered_provisions": [
+                    {
+                      "number": "1°",
+                      "text": "\" la loi \": la loi du 23 mars 2019 concernant les frais de justice en matière pénale et les frais assimilés et insérant un article 648 dans le Code d'instruction Criminelle;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "\" arrêté tarifaire \" : un arrêté royal pour une ou plusieurs catégories de prestataires de services, pris sur base de l'article 11 alinéa 1er, de la loi;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "3°",
+                      "text": "\" ministre \" : le ministre qui a la Justice dans ses attributions ;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "4°",
+                      "text": "\" RGPD \" : le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE ;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "5°",
+                      "text": "\" Loi cadre en matière de protection des données à caractère personnel \" : la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.",
+                      "sub_items": []
+                    }
+                  ]
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "Section 2. Dispositions relatives à la protection des données à caractère personnel",
+          "metadata": {
+            "title_type": "Section 2.",
+            "title_content": "Dispositions relatives à la protection des données à caractère personnel",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Art. 2",
+              "metadata": {
+                "article_range": "2",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2",
+                "anchor_id": "art_2",
+                "content": {
+                  "main_text": "La procédure d'attribution, de vérification, de paiement et de recouvrement des frais de justice en matière pénale et des frais assimilés s'inscrit dans le cadre de l'accomplissement des missions de la Justice et constitue une mission d'intérêt public au sens de l'article 6 .1.e) du RGPD.  \n  Dans le cadre de cette procédure, des données à caractère personnel dont celles visées aux articles 9 et 10 du RGPD peuvent être traitées, sous l'autorité d'un professionnel de la Justice, et lorsqu'elles sont nécessaires et proprotionnées à la finalité poursuivie.  \n  Ces données sont conservées au maximum pendant 15 ans à partir de leur enregistrement.",
+                  "numbered_provisions": []
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Art. 3",
+              "metadata": {
+                "article_range": "3",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "3",
+                "anchor_id": "art_3",
+                "content": {
+                  "main_text": "L'ordre judiciaire est responsable du traitement au sens de l'article 4, 7), du RGPD pour les données à caractère personnel traitées dans le cadre de la finalité de taxation.  \n  Le Président du Comité de Direction du Service Public Fedéral Justice est responsable du traitement au sens de l'article 4, 7), du RGPD pour:  \n  1° les données à caractère personnel traitées dans le cadre de la finalité de liquidation;  \n  2° les données à caractère personnel traitées par le bureau central des frais, visé à l'article 6;  \n  3° les données à caractère personnel traitées dans le cadre de l'appel visé à l'article 25.",
+                  "numbered_provisions": [
+                    {
+                      "number": "1°",
+                      "text": "les données à caractère personnel traitées dans le cadre de la finalité de liquidation;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "les données à caractère personnel traitées par le bureau central des frais, visé à l'article 6;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "3°",
+                      "text": "les données à caractère personnel traitées dans le cadre de l'appel visé à l'article 25.",
+                      "sub_items": []
+                    }
+                  ]
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Art. 4",
+              "metadata": {
+                "article_range": "4",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "4",
+                "anchor_id": "art_4",
+                "content": {
+                  "main_text": "Le ministre de la Justice est responsable du traitement au sens de l'article 26.8 de la loi cadre en matière de protection des données pour les données à caractère personnel traitées dans la plateforme visée à l'article 18 par les autorités judiciaires mandantes ou les services de police.  \n  Les finalités de traitements des données dans cette plateforme sont les suivantes:  \n  1° assurer l'identification des utilisateurs;  \n  2° faciliter, standardiser, optimaliser et sécuriser l'échange de questions et de réponses dans le cadre de l'exécution des articles 46bis, 88bis, 90ter à 90decies, 464/13, 464/25 et 464/26 du Code d'instruction criminelle;  \n  3° fournir une base précise pour calculer l'état de frais des opérateurs télécom, visés à l'article 18.  \n  Des données à caractère personnel peuvent être traitées, sous l'autorité des autorités judiciaires mandantes ou du dirigeant du service pour les services de renseignement et lorsqu'elles sont nécessaires et proprotionnées pour les finalités visées aux points 1° à 3°.  \n  Uniquement pour la finalité visée au point 2° et dans le cadre des interceptions téléphoniques visées à l'article 90quater du Code d'instruction criminelle, des données à caractère personnel visées à l'article 34 de la loi cadre en matière de protection des données peuvent être traitées.  \n  Les données à caractère personnel traitées dans cette plateforme sont conservées au maximum pendant 30 ans suite à leur enregistrement.",
+                  "numbered_provisions": [
+                    {
+                      "number": "1°",
+                      "text": "assurer l'identification des utilisateurs;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "faciliter, standardiser, optimaliser et sécuriser l'échange de questions et de réponses dans le cadre de l'exécution des articles 46bis, 88bis, 90ter à 90decies, 464/13, 464/25 et 464/26 du Code d'instruction criminelle;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "3°",
+                      "text": "fournir une base précise pour calculer l'état de frais des opérateurs télécom, visés à l'article 18.",
+                      "sub_items": []
+                    }
+                  ]
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Art. 5",
+              "metadata": {
+                "article_range": "5",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "5",
+                "anchor_id": "art_5",
+                "content": {
+                  "main_text": "Dans le cadre des traitements de données visés aux articles 2 et 4, les garanties minimales suivantes sont prévues pour préserver les droits et libertés des personnes concernées:  \n  1° des mesures techniques ou organisationnelles appropriées sont adoptées pour garantir que l'accès aux données et les possibilités de traitement soient limités aux personnes qui ont besoin d'en connaître pour l'exercice de leurs fonctions et aux données qui sont indispensables;  \n  2° en particulier, un système de gestion des accès est prévu en vue d'identifier les utilisateurs et de vérifier les rôles et l'étendue du droit d'accès;  \n  3° la liste des catégories des personnes désignées pour traiter les données à caractère personnel est tenue à la disposition de l'autorité de contrôle compétente;  \n  4° les personnes visée au point 1° sont soumises au secret professionnel ou au devoir de confidentialité;  \n  5° l'environnement technique, dans lequel les traitements de données sont réalisés, répond aux normes et standards actuels afin d'assurer l'authenticité, l'intégrité et la confidentialité des données à caractère personnel traitées.  \n  Pour ce qui concerne la plateforme visée à l'article 18, des fichiers de journalisation au sens de l'article 56 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel sont tenus. Ces fichiers sont tenus au maximum pendant 30 ans.",
+                  "numbered_provisions": [
+                    {
+                      "number": "1°",
+                      "text": "des mesures techniques ou organisationnelles appropriées sont adoptées pour garantir que l'accès aux données et les possibilités de traitement soient limités aux personnes qui ont besoin d'en connaître pour l'exercice de leurs fonctions et aux données qui sont indispensables;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "en particulier, un système de gestion des accès est prévu en vue d'identifier les utilisateurs et de vérifier les rôles et l'étendue du droit d'accès;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "3°",
+                      "text": "la liste des catégories des personnes désignées pour traiter les données à caractère personnel est tenue à la disposition de l'autorité de contrôle compétente;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "4°",
+                      "text": "les personnes visée au point 1° sont soumises au secret professionnel ou au devoir de confidentialité;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "5°",
+                      "text": "l'environnement technique, dans lequel les traitements de données sont réalisés, répond aux normes et standards actuels afin d'assurer l'authenticité, l'intégrité et la confidentialité des données à caractère personnel traitées.",
+                      "sub_items": []
+                    }
+                  ]
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 2. ORGANISATION ET ENCADREMENT",
+      "metadata": {
+        "title_type": "CHAPITRE 2.",
+        "title_content": "ORGANISATION ET ENCADREMENT",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 6",
+          "metadata": {
+            "article_range": "6",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "6",
+            "anchor_id": "art_6",
+            "content": {
+              "main_text": "Le bureau central des frais de justice est compétent pour:  \n  1° fournir de l'assistance juridico-technique aux bureaux de taxation et de liquidation, ainsi qu'aux requérants, aux prestataires de services, et aux autorités intéressées;  \n  2° imposer les mesures administratives appropriées.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "fournir de l'assistance juridico-technique aux bureaux de taxation et de liquidation, ainsi qu'aux requérants, aux prestataires de services, et aux autorités intéressées;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "imposer les mesures administratives appropriées.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 7",
+          "metadata": {
+            "article_range": "7",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "7",
+            "anchor_id": "art_7",
+            "content": {
+              "main_text": "Pour l'exécution de ses tâches prévues dans l'article 4, § 3, de la loi, le chef de service du bureau de taxation est assisté par des experts administratifs ou financiers et par des assistants, tous formés spécifiquement à cette fin par le Service Public Fédéral Justice.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 8",
+          "metadata": {
+            "article_range": "8",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "8",
+            "anchor_id": "art_8",
+            "content": {
+              "main_text": "Pour l'exécution de ses tâches prévues dans l'article 4, § 4, de la loi, le chef de service du bureau de liquidation est assisté par des collaborateurs spécialisés et formés spécifiquement à cette fin par le Service Public Fédéral Justice.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 3. L'ORGANISATION DU TRAITEMENT DES FRAIS DE JUSTICE PAR LA PROCEDURE DIGITALE",
+      "metadata": {
+        "title_type": "CHAPITRE 3.",
+        "title_content": "L'ORGANISATION DU TRAITEMENT DES FRAIS DE JUSTICE PAR LA PROCEDURE DIGITALE",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 9",
+          "metadata": {
+            "article_range": "9",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "9",
+            "anchor_id": "art_9",
+            "content": {
+              "main_text": "La réquisition est envoyée par e-mail par le requérant, qui s'identifie à cette fin à l'aide de sa carte e-ID, au prestataire de services qui en accuse la réception, par la même voie.  \n  La réquisition contient au moins les données suivantes :  \n  1° le numéro unique du prestataire de services ;  \n  2° le numéro de notice du dossier ;  \n  3° le code unique comme passeport digital de la réquisition, dénommé ci-après \" code unique de la réquisition \" ;  \n  4° l'objet de la réquisition ;  \n  5° le délai dans lequel la réquisition doit être achevée.  \n  Elle est envoyée à l'adresse e-mail du prestataire de services, renseignée par ce dernier lors de son enregistrement au registre national. Le prestataire de services est tenu de consigner les changements éventuels de son adresse e-mail. Pour les prestataires de services qui ne doivent pas être inscrits dans un registre national, l'adresse e-mail est enregistrée auprès d'un bureau de taxation ou du bureau central des frais de justice.  \n  Le ministre fixe le modèle de la réquisition pour un ou plusieurs groupes de prestataires de services.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "le numéro unique du prestataire de services ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "le numéro de notice du dossier ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "le code unique comme passeport digital de la réquisition, dénommé ci-après \" code unique de la réquisition \" ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "l'objet de la réquisition ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "le délai dans lequel la réquisition doit être achevée.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 10",
+          "metadata": {
+            "article_range": "10",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "10",
+            "anchor_id": "art_10",
+            "content": {
+              "main_text": "Le prestataire de services envoie son rapport, si nécessaire, au requérant de manière digitale.  \n  Le requérant approuve la prestation ou son résultat, ou il formule ses remarques.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 11",
+          "metadata": {
+            "article_range": "11",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "11",
+            "anchor_id": "art_11",
+            "content": {
+              "main_text": "Après approbation de la prestation ou de son résultat, le prestataire de services introduit de manière digitale, son état de frais auprès du bureau de taxation.  \n  Au bureau de taxation, l'application comptable lie l'état de frais à la réquisition au moyen de son code unique .  \n  Le bureau de taxation vérifie l'état de frais et l'approuve, sauf retard dans l'exécution de la prestation, mauvaise exécution, facturation incorrecte ou tout autre soupçon d'irrégularité. Uniquement dans ces cas, ce bureau peut prendre connaissance du rapport pour vérifier sur la base d'élements concrets de celui-ci, s'il y a un retard non justifié, une mauvaise exécution, une facturation incorrecte ou une commission d'une autre irrégularité. Si la transmission digitale n'est pas possible pour le rapport, ce dernier est envoyé par lettre ordinaire.  \n  Le bureau de taxation adresse le cas échéant au prestataire de services une proposition motivée d'adaptation de son état de frais. L'état de frais est définitivement approuvé en cas d'accord du prestataire de services sur cette proposition. La décision de refus ou de réduction de l'état de frais est motivée et notifiée au prestataire de services.  \n  Si le prestataire de services n'est pas d'accord avec les remarques, il peut demander des explications, répondre aux remarques et, éventuellement, faire une contre-proposition.  \n  Si le bureau de taxation n'est pas d'accord avec l'état de frais ou avec la contre-proposition, même sans avoir fait utilisation des possibilités précitées, le prestataire de services peut introduire un recours conformément à la procédure prévue dans les articles 25 à 27.  \n  Toute modification de l'état de frais doit être conforme à la loi du 22 mai 2003. Dans l'application comptable, il est enregistré le montant de l'état de frais et les modifications éventuelles de ce dernier.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 12",
+          "metadata": {
+            "article_range": "12",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "12",
+            "anchor_id": "art_12",
+            "content": {
+              "main_text": "Le bureau de liquidation met en paiement l'état de frais approuvé, si les conditions suivantes sont remplies :  \n  1° il doit y avoir une concordance entre la réquisition du requérant, la prestation ou son résultat, et ce qui a été repris dans cet état de frais ;  \n  2° les données du prestataire de services sur l'état de frais sont conformes à celles figurant dans l'application de comptabilité ;  \n  3° le risque de double paiement a été vérifié ;  \n  4° il est tenu compte des modalités spéciales éventuellement applicables lors du paiement.  \n  A défaut de satisfaire aux conditions prévues dans l'alinéa 1er, l'état de frais est renvoyé au bureau de taxation pour correction. Si les corrections proposées ne sont pas acceptées par le prestataire de services, la partie non contestée est payée et le prestataire de services peut introduire un recours conformément aux articles 25 à 27.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "il doit y avoir une concordance entre la réquisition du requérant, la prestation ou son résultat, et ce qui a été repris dans cet état de frais ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "les données du prestataire de services sur l'état de frais sont conformes à celles figurant dans l'application de comptabilité ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "le risque de double paiement a été vérifié ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "il est tenu compte des modalités spéciales éventuellement applicables lors du paiement.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 4. L'ORGANISATION DU TRAITEMENT DES FRAIS DE JUSTICE LORSQUE LA PROCEDURE DIGITALE N'EST PAS DISPONIBLE",
+      "metadata": {
+        "title_type": "CHAPITRE 4.",
+        "title_content": "L'ORGANISATION DU TRAITEMENT DES FRAIS DE JUSTICE LORSQUE LA PROCEDURE DIGITALE N'EST PAS DISPONIBLE",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 13",
+          "metadata": {
+            "article_range": "13",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "13",
+            "anchor_id": "art_13",
+            "content": {
+              "main_text": "La réquisition signée est envoyée par le requérant par e-mail au prestataire de services.  \n  Elle comporte au moins les données suivantes :  \n  1° le numéro unique du prestataire de services ;  \n  2° le numéro de notice du dossier ;  \n  3° l'objet de la réquisition ;  \n  4° le délai dans lequel la réquisition doit être achevée.  \n  Si l'envoi par e-mail n'est pas possible, le requérant peut, dans des cas urgents, transmettre la réquisition par un autre moyen de communication à condition que le prestataire de services en confirme la réception. Si la réquisition se fait par téléphone, le requérant est tenu de transmettre dans les quarante-huit heures, par e-mail ou par un autre moyen de communication écrit, sa réquisition au prestataire de services, qui en confirme la réception.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "le numéro unique du prestataire de services ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "le numéro de notice du dossier ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "l'objet de la réquisition ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "le délai dans lequel la réquisition doit être achevée.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 14",
+          "metadata": {
+            "article_range": "14",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "14",
+            "anchor_id": "art_14",
+            "content": {
+              "main_text": "Le prestataire de services envoie son rapport, si nécessaire, au requérant de manière digitale. Le requérant approuve la prestation ou son résultat, ou formule ses remarques.  \n  Si et seulement si la transmission par e-mail est impossible, le prestataire de services peut utiliser un autre moyen de communication, à condition que son rapport soit remis au requérant au plus tard dans les quarante-huit heures après le délai fixé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 15",
+          "metadata": {
+            "article_range": "15",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "15",
+            "anchor_id": "art_15",
+            "content": {
+              "main_text": "Le prestataire de services envoie une copie de la réquisition, avec l'approbation de la prestation et l'état de frais signé, au bureau de taxation.  \n  Si et seulement si la transmission par e-mail est impossible, le prestataire de services peut utiliser un autre moyen de communication, à condition que son rapport soit remis au requérant au plus tard dans les quarante huit heures après le délai fixé.  \n  Le bureau de taxation enregistre immédiatement l'état de frais dans l'application comptable.  \n  Le bureau de taxation vérifie l'état de frais et l'approuve sauf retard dans l'exécution de la prestation, mauvaise exécution, facturation incorrecte ou tout autre soupçon d'irrégularité. Uniquement dans ces cas, ce bureau peut prendre connaissance du rapport pour vérifier sur la base d'élements concrets de celui-ci, s'il y a un retard non justifié, une mauvaise exécution, une facturation incorrecte ou une commission d'une autre irrégularité. Si la transmission digitale n'est pas possible pour le rapport, ce dernier est envoyé par lettre ordinaire.  \n  Si le prestataire de services n'est pas d'accord avec les remarques, il peut demander des explications, répondre aux remarques et, éventuellement, faire une contre-proposition.  \n  Si le bureau de taxation n'est pas d'accord avec l'état de frais ou avec la contre-proposition, même sans avoir fait utilisation des possibilités précitées, le prestataire de services peut introduire un recours conformément à la procédure prévue dans les articles 25 à 27.  \n  Toute modification de l'état de frais doit être conforme à la loi du 22 mai 2003. Dans l'application comptable, il est enregistré le montant de l'état de frais et les modifications éventuelles de ce dernier.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 16",
+          "metadata": {
+            "article_range": "16",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "16",
+            "anchor_id": "art_16",
+            "content": {
+              "main_text": "Le bureau de liquidation met en paiement l'état de frais approuvé si les conditions suivantes sont remplies. Ces conditions sont :  \n  1° il doit y avoir une concordance entre la réquisition du requérant, la prestation ou son résultat, et ce qui a été repris à l'état de frais ;  \n  2° les données du prestataire de services sur l'état de frais correspondent à celles dans l'application de comptabilité ;  \n  3° le risque de double paiement a été vérifié ;  \n  4° il est tenu compte de modalités spéciales éventuellement applicables lors du paiement.  \n  A défaut de satisfaire l'état de frais est renvoyé au bureau de taxation pour correction. Si les corrections proposées ne sont pas acceptées par le prestataire de services, la partie non contestée est payée et le prestataire de services peut introduire un recours conformément aux articles 25 à 27.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "il doit y avoir une concordance entre la réquisition du requérant, la prestation ou son résultat, et ce qui a été repris à l'état de frais ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "les données du prestataire de services sur l'état de frais correspondent à celles dans l'application de comptabilité ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "le risque de double paiement a été vérifié ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "il est tenu compte de modalités spéciales éventuellement applicables lors du paiement.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 17",
+          "metadata": {
+            "article_range": "17",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "17",
+            "anchor_id": "art_17",
+            "content": {
+              "main_text": "La procédure déterminée au présent chapitre s'applique également aux interprètes. Ceux-ci introduisent, chaque mois, un seul état de frais, avec en annexe:  \n  1° les réquisitions originales ;  \n  2° la fiche de prestations déterminée par l'arrêté tarifaire qui leur est applicable, sur laquelle toutes les prestations en matière pénale sont reprises. Ces dernières doivent être contresignées, ligne par ligne, par le requérant. Sa signature certifie la véracité et l'exactitude de la prestation mentionnée.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "les réquisitions originales ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "la fiche de prestations déterminée par l'arrêté tarifaire qui leur est applicable, sur laquelle toutes les prestations en matière pénale sont reprises. Ces dernières doivent être contresignées, ligne par ligne, par le requérant. Sa signature certifie la véracité et l'exactitude de la prestation mentionnée.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 5. L'ORGANISATION DU TRAITEMENT DES FRAIS DE JUSTICE GENERES PAR LES OPERATEURS TELECOM",
+      "metadata": {
+        "title_type": "CHAPITRE 5.",
+        "title_content": "L'ORGANISATION DU TRAITEMENT DES FRAIS DE JUSTICE GENERES PAR LES OPERATEURS TELECOM",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 18",
+          "metadata": {
+            "article_range": "18",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "18",
+            "anchor_id": "art_18",
+            "content": {
+              "main_text": "En vertu de l'article 2 de l'arrêté royal du 9 janvier 2003 déterminant les modalités de l'obligation de collaboration légale en cas de demandes judiciaires concernant les communications électroniques, il est prévu, pour l'échange de certains types de questions, sur la base des articles 46bis, 88bis, 90ter à 90 decies, 464/13, 464/25 et 464/26 du Code d'instruction criminelle, une plateforme d'échange de questions et de réponses entre d'une part l'autorité mandante et le service de police exécutant désigné par l'autorité mandante et d'autre part les opérateurs de réseaux de communications électroniques ou de fournisseurs individuels de services de communications électroniques, dénommés ci-après des \" opérateurs télécom \".  \n  Cette plateforme d'échange est gérée par le service \" National Technical & Tactical Support Unit - Central Technical Interception Facility\" de la Police fédérale, dénommé ci-après la NTSU/CTIF.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 19",
+          "metadata": {
+            "article_range": "19",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "19",
+            "anchor_id": "art_19",
+            "content": {
+              "main_text": "Le service de police exécutant désigné par le requérant enregistre les questions découlant directement de la réquisition sur la plateforme d'échanges destinée à cette fin.  \n  En fonction de l'objet de la question et des critères de recherche joints à la question, cette plateforme détermine les opérateurs concernés. Par dérogation à la détermination automatique des destinataires par la plateforme d'échange, le service de police exécutant peut déterminer lui-même quel opérateur télécom est le destinataire de la question.  \n  Toute question créée par la plateforme d'échanges pour un certain opérateur télécom, reçoit un code unique de la question.  \n  Ces questions sont mises à la disposition de l'opérateur télécom désigné par la plateforme d'échanges.  \n  En fonction des accords pris par lui avec la plateforme, tout opérateur télécom est averti d'une nouvelle question posée à sa Cellule de Coordination Justice par un des modes suivants :  \n  \\- un avis automatique au moment de sa connexion à la plateforme d'échanges,  \n  \\- un e-mail (light integration),  \n  \\- un transmission directe au serveur du côté de l'opérateur télécom (full integration).  \n  La question contient au moins les éléments suivants:  \n  1° le numéro unique du prestataire de services ;  \n  2° le numéro de notice du dossier ;  \n  3° le code unique de la réquisition ;  \n  4° le code unique de la question ;  \n  5° l'objet de la question, tel que le numéro de téléphone visé ou le type de service activé;  \n  6° les critères de recherche auxquels se rapporte la question ;  \n  7° une copie de la réquisition à la base de la question ;  \n  8° le moment de l'enregistrement sur la plateforme d'échanges.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "le numéro unique du prestataire de services ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "le numéro de notice du dossier ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "le code unique de la réquisition ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "le code unique de la question ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "l'objet de la question, tel que le numéro de téléphone visé ou le type de service activé;",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "les critères de recherche auxquels se rapporte la question ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "7°",
+                  "text": "une copie de la réquisition à la base de la question ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "8°",
+                  "text": "le moment de l'enregistrement sur la plateforme d'échanges.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 20",
+          "metadata": {
+            "article_range": "20",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "20",
+            "anchor_id": "art_20",
+            "content": {
+              "main_text": "La Cellule Coordination de la Justice de l'opérateur télécom concerné répond à la question, soit, en téléchargeant le résultat sur la plateforme d'échanges, soit, en transmettant l'interception de communication demandée à la plateforme d'échanges. L'exécution de la mesure est enregistrée dans la plateforme d'échanges. Les résultats sont mis à la disposition des services de police exécutants par la plateforme d'échanges ou par la plateforme d'interception de télécommunications. Les services de police exécutants transmettent les résultats au requérant.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 21",
+          "metadata": {
+            "article_range": "21",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "21",
+            "anchor_id": "art_21",
+            "content": {
+              "main_text": "L'opérateur télécom établit un état de frais mensuel sur base de l'aperçu des questions exécutées au cours du mois écoulé que lui a fourni la plateforme. Il transmet son état de frais à la NTSU /CTIF en y intégrant cet aperçu et, pour chaque réponse apportée, les renseignements suivants :  \n  1° le numéro de notice du dossier;  \n  2° le code unique de la réquisition;  \n  3° le code unique de la question;  \n  4° l'objet de la question;  \n  5° le nombre d'unités facturables auquel la question se rapporte;  \n  6° le tarif unitaire pour cette question;  \n  7° le montant total pour la question concernée.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "le numéro de notice du dossier;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "le code unique de la réquisition;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "le code unique de la question;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "l'objet de la question;",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "le nombre d'unités facturables auquel la question se rapporte;",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "le tarif unitaire pour cette question;",
+                  "sub_items": []
+                },
+                {
+                  "number": "7°",
+                  "text": "le montant total pour la question concernée.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 22",
+          "metadata": {
+            "article_range": "22",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "22",
+            "anchor_id": "art_22",
+            "content": {
+              "main_text": "Les états de frais en la matière sont vérifiés par la NTSU/CTIF.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 23",
+          "metadata": {
+            "article_range": "23",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "23",
+            "anchor_id": "art_23",
+            "content": {
+              "main_text": "Lorsqu'une question est posée à un opérateur télécom hors la plateforme d'échanges, cet opérateur établit son état de frais après exécution de la question. Il l'adresse à la NTSU/CTIF pour vérification en y joignant une copie de la réquisition.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 24",
+          "metadata": {
+            "article_range": "24",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "24",
+            "anchor_id": "art_24",
+            "content": {
+              "main_text": "La NTSU/CTIF adresse mensuellement au Service Public Fédéral Justice un relevé des questions exécutées sur la plateforme d'échanges au cours du mois écoulé. Le Service Public Fédéral Justice communique aux greffes et parquets un récapitulatif des frais de justice à recouvrer dans chaque dossier.  \n  Pour toutes les questions, ce relevé contient au moins les renseignements suivants:  \n  1° le numéro de notice du dossier;  \n  2° le code unique de la réquisition;  \n  3° le code unique de la question;  \n  4° l'objet de la question;  \n  5° le nombre d'unités facturables auquel se rapporte la question;  \n  6° le tarif unitaire pour cette question;  \n  7° le montant total pour la question concernée;  \n  8° le numéro unique du prestataire de services.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "le numéro de notice du dossier;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "le code unique de la réquisition;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "le code unique de la question;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "l'objet de la question;",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "le nombre d'unités facturables auquel se rapporte la question;",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "le tarif unitaire pour cette question;",
+                  "sub_items": []
+                },
+                {
+                  "number": "7°",
+                  "text": "le montant total pour la question concernée;",
+                  "sub_items": []
+                },
+                {
+                  "number": "8°",
+                  "text": "le numéro unique du prestataire de services.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 6. LE RECOURS",
+      "metadata": {
+        "title_type": "CHAPITRE 6.",
+        "title_content": "LE RECOURS",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 25",
+          "metadata": {
+            "article_range": "25",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "25",
+            "anchor_id": "art_25",
+            "content": {
+              "main_text": "Le recours, introduit conformément aux articles 11, sixième alinéa, 12, deuxième alinéa, 15, alinéa 6, et 16, deuxième alinéa, doit être accompagné d'une copie de la décision attaquée.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 26",
+          "metadata": {
+            "article_range": "26",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "26",
+            "anchor_id": "art_26",
+            "content": {
+              "main_text": "La procédure suivie est écrite, mais moyennant une demande motivée, l'exercice oral du droit d'être entendu peut être autorisé.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 27",
+          "metadata": {
+            "article_range": "27",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "27",
+            "anchor_id": "art_27",
+            "content": {
+              "main_text": "Le directeur général envoie sa décision aux parties.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 7. L'INDEXATION DES FRAIS DE JUSTICE ET DES FRAIS DE DEPLACEMENT",
+      "metadata": {
+        "title_type": "CHAPITRE 7.",
+        "title_content": "L'INDEXATION DES FRAIS DE JUSTICE ET DES FRAIS DE DEPLACEMENT",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 28",
+          "metadata": {
+            "article_range": "28",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "28",
+            "anchor_id": "art_28",
+            "content": {
+              "main_text": "Les montants fixés par les arrêtés tarifaires sont adaptés le 1er janvier de chaque année à l'indice de santé lissé du mois de décembre précédent. Ils sont publiés au Moniteur belge avant le 30 janvier.  \n  \n (NOTE : TARIF 2020, voir [2020-01-31/01](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2020013101)) \n (NOTE : TARIF 2021, voir [2021-01-25/05](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021012505))",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 29",
+          "metadata": {
+            "article_range": "29",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "29",
+            "anchor_id": "art_29",
+            "content": {
+              "main_text": "Les montants applicables sont ceux du jour de la réquisition.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 30",
+          "metadata": {
+            "article_range": "30",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "30",
+            "anchor_id": "art_30",
+            "content": {
+              "main_text": "Les frais des déplacements accomplis dans le cadre de leur mission par tous les prestataires de services visés au présent arrêté, à l'exception des prestataires pour qui un tarif est fixé par un arrêté tarifaire, sont indexés selon les modalités décrites dans l'arrêté tarifaire.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 31",
+          "metadata": {
+            "article_range": "31",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "31",
+            "anchor_id": "art_31",
+            "content": {
+              "main_text": "Les distances sont calculées sur base de la distance réelle telle que définie par tout logiciel ou toute application généralement connue, selon la route la plus rapide.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 8. REGLES COMMUNES CONCERNANT LA FIXATION DE LA REMUNERATION POUR TOUS LES PRESTATAIRES DE SERVICES",
+      "metadata": {
+        "title_type": "CHAPITRE 8.",
+        "title_content": "REGLES COMMUNES CONCERNANT LA FIXATION DE LA REMUNERATION POUR TOUS LES PRESTATAIRES DE SERVICES",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 32",
+          "metadata": {
+            "article_range": "32",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "32",
+            "anchor_id": "art_32",
+            "content": {
+              "main_text": "Les prestataires de services désignés ont droit à une rémunération fixée par un arrêté tarifaire.  \n  Ce tarif est:  \n  1° soit forfaitaire, ce qui veut dire que, pour la prestation donnée, il existe un tarif fixe qui, sauf dans les cas exceptionnels motivés, vise également toutes les parties qui comprend l'entièreté de cette prestation;  \n  2° soit un tarif horaire, ce qui signifie que, pour la prestation donnée, il n'y a pas de tarif forfaitaire et que le prestataire de services prouve le nombre d'heures qu'il a prestées et les circonstances lui donnant droit aux suppléments y afférents.  \n  Les prestataires de services pour lesquels aucun arrêté tarifaire n'a été établi, sont indemnisés selon le tarif horaire visé à l'alinéa 2, 2°.  \n  Les prestataires de services établissent en conscience l'état de leurs indemnités ou honoraires. Cet état indique, pour chacun des devoirs accomplis, la date, l'heure et la durée des prestations.  \n  Les prestataires de services ne peuvent faire appel à un tiers afin de les aider à réaliser une partie du travail qu'après accord du requérant. Ils le font sous leur responsabilité et paient eux-mêmes l'indemnisation de cette personne.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "soit forfaitaire, ce qui veut dire que, pour la prestation donnée, il existe un tarif fixe qui, sauf dans les cas exceptionnels motivés, vise également toutes les parties qui comprend l'entièreté de cette prestation;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "soit un tarif horaire, ce qui signifie que, pour la prestation donnée, il n'y a pas de tarif forfaitaire et que le prestataire de services prouve le nombre d'heures qu'il a prestées et les circonstances lui donnant droit aux suppléments y afférents.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 33",
+          "metadata": {
+            "article_range": "33",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "33",
+            "anchor_id": "art_33",
+            "content": {
+              "main_text": "Le magistrat qui requiert un prestataire de services assigne à celui-ci, si possible et en concertation avec le prestataire de services, un délai dans lequel la mission doit être achevée et, le cas échéant, le rapport déposé.  \n  L'absence de l'exécution de la mission ou du dépôt du rapport dans le temps imparti entraîne une réduction proportionnelle au nombre de jours de retard des honoraires ou de l'indemnisation du prestataire de services.  \n  Le prestataire de services qui constate qu'il ne pourra pas respecter ce délai, demande en temps utile et de manière motivée au requérant de reporter la date.  \n  L'application de la sanction prévue à l'alinéa 2 est décidée par le bureau de taxation, d'office ou sur la proposition du requérant.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 9. FRAIS EXTRAORDINAIRES",
+      "metadata": {
+        "title_type": "CHAPITRE 9.",
+        "title_content": "FRAIS EXTRAORDINAIRES",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 34",
+          "metadata": {
+            "article_range": "34",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "34",
+            "anchor_id": "art_34",
+            "content": {
+              "main_text": "Lorsqu'au cours de l'examen d'une affaire, des dépenses extraordinaires apparaissent nécessaires, le tarif normalement applicable peut être excédé, avec l'autorisation préalable du procureur général, du procureur fédéral ou du premier président de la cour d'appel compétente.  \n  Le bureau de taxation compétent en est mis au courant.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 10. LISTE DE FRAIS NON CONSIDERES COMME DES FRAIS DE JUSTICE",
+      "metadata": {
+        "title_type": "CHAPITRE 10.",
+        "title_content": "LISTE DE FRAIS NON CONSIDERES COMME DES FRAIS DE JUSTICE",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 35",
+          "metadata": {
+            "article_range": "35",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "35",
+            "anchor_id": "art_35",
+            "content": {
+              "main_text": "Ne sont pas considérées comme des frais de justice, les dépenses engagées pour :  \n  1° L'enlèvement des véhicules saisis à l'aide de dépanneuses, et leur gardiennage, au prix déterminé à cette fin, si cela se fait comme mesure administrative;  \n  2° L'exhumation de dépouilles mortelles faite à un prix autre que celui valant au cimetière concerné;  \n  3° Le transport de personnes par taxi, des institutions communautaires pour mineurs à dans lesquelles elles séjournent vers le tribunal et le retour, lorsque la police n'a pas été requise par le ministère public, ou lorsqu'un véhicule du centre est disponible, ou lorsque la personne est placée dans une telle institution dont la gestion a été confiée aux communautés par la loi spéciale du 6 janvier 2014 relative à la Sixième Réforme de l'Etat, à savoir les centres fermés d'Everberg, de Saint-Hubert et de Tongres.  \n  4° Des opérations logistiques avec des pièces de procédure et des pièces à conviction, non requises par le magistrat compétent dans une procédure en cours, ou pouvant être exécutées en interne ;  \n  5° L'usage d'une salle d'autopsie, mise à la disposition de médecins légistes en vertu de l'article 255, 11°, de la nouvelle loi communale ;  \n  6° Les prestations des plongeurs et des maîtres-chiens, ainsi que des praticiens qui établissent les portraits-robots, qui perçoivent un traitement ou une rétribution d'une autorité ou d'un service dont ils dépendent, et qui effectuent cette prestation pendant l'exercice de leurs fonctions habituelles ;  \n  7° Le transport et le séjour en Belgique hors du cadre d'une procédure pénale par des magistrats, y compris les greffiers et greffiers additionnels, et les fonctionnaires de police qui les accompagnent éventuellement ;  \n  8° La fourniture du matériel pour des tests de l'haleine ;  \n  9° La désinfection de pièces à conviction à examiner ou à manipuler dans le cadre d'une instruction en cours alors qu'il n'y a pas lieu de craindre que ces pièces sont contaminées par des germes ou souillées par des matières nocives ;  \n  10° La réparation des dommages environnementaux en rapport avec les drogues, précurseurs et déchets qui y sont associés. Les dépenses engagées pour l'enlèvement des drogues, des précurseurs et des déchets qui y sont associés ne constituent pas des frais de justice si cet enlèvement n'a pas été requis par le ministère public ;  \n  11° L'indemnisation des dommages matériels non causés par l'action légitime des services de police dans le cadre d'une réquisition, ou qui ne se limite pas aux dommages matériels à son bien immobilier ou le contenu de ce dernier, ses vêtements et son véhicule, à l'exclusion d'un éventuel dommage physique et moral, perte de profits et incapacité de travail.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "L'enlèvement des véhicules saisis à l'aide de dépanneuses, et leur gardiennage, au prix déterminé à cette fin, si cela se fait comme mesure administrative;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "L'exhumation de dépouilles mortelles faite à un prix autre que celui valant au cimetière concerné;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "Le transport de personnes par taxi, des institutions communautaires pour mineurs à dans lesquelles elles séjournent vers le tribunal et le retour, lorsque la police n'a pas été requise par le ministère public, ou lorsqu'un véhicule du centre est disponible, ou lorsque la personne est placée dans une telle institution dont la gestion a été confiée aux communautés par la loi spéciale du 6 janvier 2014 relative à la Sixième Réforme de l'Etat, à savoir les centres fermés d'Everberg, de Saint-Hubert et de Tongres.",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "Des opérations logistiques avec des pièces de procédure et des pièces à conviction, non requises par le magistrat compétent dans une procédure en cours, ou pouvant être exécutées en interne ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "L'usage d'une salle d'autopsie, mise à la disposition de médecins légistes en vertu de l'article 255, 11°, de la nouvelle loi communale ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "Les prestations des plongeurs et des maîtres-chiens, ainsi que des praticiens qui établissent les portraits-robots, qui perçoivent un traitement ou une rétribution d'une autorité ou d'un service dont ils dépendent, et qui effectuent cette prestation pendant l'exercice de leurs fonctions habituelles ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "7°",
+                  "text": "Le transport et le séjour en Belgique hors du cadre d'une procédure pénale par des magistrats, y compris les greffiers et greffiers additionnels, et les fonctionnaires de police qui les accompagnent éventuellement ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "8°",
+                  "text": "La fourniture du matériel pour des tests de l'haleine ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "9°",
+                  "text": "La désinfection de pièces à conviction à examiner ou à manipuler dans le cadre d'une instruction en cours alors qu'il n'y a pas lieu de craindre que ces pièces sont contaminées par des germes ou souillées par des matières nocives ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "10°",
+                  "text": "La réparation des dommages environnementaux en rapport avec les drogues, précurseurs et déchets qui y sont associés. Les dépenses engagées pour l'enlèvement des drogues, des précurseurs et des déchets qui y sont associés ne constituent pas des frais de justice si cet enlèvement n'a pas été requis par le ministère public ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "11°",
+                  "text": "L'indemnisation des dommages matériels non causés par l'action légitime des services de police dans le cadre d'une réquisition, ou qui ne se limite pas aux dommages matériels à son bien immobilier ou le contenu de ce dernier, ses vêtements et son véhicule, à l'exclusion d'un éventuel dommage physique et moral, perte de profits et incapacité de travail.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 36",
+          "metadata": {
+            "article_range": "36",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "36",
+            "anchor_id": "art_36",
+            "content": {
+              "main_text": "Les dépenses suivantes ne sont pas ou ne sont plus considérées comme des frais de justice en matière pénale :  \n  1° les frais de simple prise de connaissance d'informations concernant le titulaire d'un compte en banque ou d'actif financier, en ce compris l'identification du titulaire, personne physique ou morale, d'un compte bancaire, celle des personnes autorisées à utiliser ce compte, le type de compte, le code IBAN et la date d'ouverture et de fermeture du compte ;  \n  2° les frais d'inhumation des détenus et de tous cadavres trouvés sur la voie publique ou dans quelque autre lieu que ce soit;  \n  3° les frais de correspondance de la police et des parquets avec des personnes à l'intérieur du pays qui sont poursuivies ou qui font l'objet du traitement administratif ou autonome de leur affaire par la police ou un service d'inspection.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "les frais de simple prise de connaissance d'informations concernant le titulaire d'un compte en banque ou d'actif financier, en ce compris l'identification du titulaire, personne physique ou morale, d'un compte bancaire, celle des personnes autorisées à utiliser ce compte, le type de compte, le code IBAN et la date d'ouverture et de fermeture du compte ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "les frais d'inhumation des détenus et de tous cadavres trouvés sur la voie publique ou dans quelque autre lieu que ce soit;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "les frais de correspondance de la police et des parquets avec des personnes à l'intérieur du pays qui sont poursuivies ou qui font l'objet du traitement administratif ou autonome de leur affaire par la police ou un service d'inspection.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 11. REGLES APPLICABLES AUX ETATS DE FRAIS",
+      "metadata": {
+        "title_type": "CHAPITRE 11.",
+        "title_content": "REGLES APPLICABLES AUX ETATS DE FRAIS",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 37",
+          "metadata": {
+            "article_range": "37",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "37",
+            "anchor_id": "art_37",
+            "content": {
+              "main_text": "Tout état de frais doit être établi selon le modèle fixé par le ministre, complètement, lisiblement et correctement. A défaut, il est irrecevable et doit être complété, corrigé ou adapté à la première demande du bureau de taxation.  \n  L'état de frais doit également toujours mentionner la formule suivante: \" J'affirme sur l'honneur que cette déclaration est sincère et complète. \" Cette formule peut être pré-imprimée.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 38",
+          "metadata": {
+            "article_range": "38",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "38",
+            "anchor_id": "art_38",
+            "content": {
+              "main_text": "Les états de frais mentionnent le code unique de la réquisition et à défaut :  \n  1° la date de la réquisition et le nom du requérant;  \n  2° le type de crime ou de délit;  \n  3° le cas échéant, le nom des suspects.  \n  Outre cette ou ces mentions, les états de frais renseignent encore :  \n  1° les actes et les articles du tarif ou du barème qui sont d'application;  \n  2° la référence de l'état de frais;  \n  3° le cas échéant, la date des déplacements.  \n  La première fois que le prestataire de service est réquisitionné, il y mentionne également son numéro de compte et son numéro BCE.  \n  La réquisition originale y est jointe.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "la date de la réquisition et le nom du requérant;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "le type de crime ou de délit;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "le cas échéant, le nom des suspects.",
+                  "sub_items": []
+                },
+                {
+                  "number": "1°",
+                  "text": "les actes et les articles du tarif ou du barème qui sont d'application;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "la référence de l'état de frais;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "le cas échéant, la date des déplacements.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 39",
+          "metadata": {
+            "article_range": "39",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "39",
+            "anchor_id": "art_39",
+            "content": {
+              "main_text": "En cas de pluralité d'experts, les état de frais relatifs à l'expertise précise le montant des frais et honoraires de chacun d'eux ainsi que son coût total.  \n  En cas de recours à l'aide d'un tiers, l'état de frais de l'expert mentionne l'accord préalable du requérant, la nature du travail confié à l'aide, le nombre d'heures que ce dernier y a consacrées et les sommes qui lui ont été payées. Les quittances sont jointes à l'état de frais de l'expert.  \n  Les interprètes établissent un état mensuel conformément à l'article 17 du présent arrêté.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 40",
+          "metadata": {
+            "article_range": "40",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "40",
+            "anchor_id": "art_40",
+            "content": {
+              "main_text": "Les états de frais des prestataires de service sont adressés au bureau de taxation compétent pour le réquerant, sauf pour les interprètes , les traducteurs et les huissiers de justice qui les adressent au bureau de taxation de l'arrondissement de leur résidence.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<AR [2021-12-23/18](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021122318), art. 1, 002; En vigueur : 07-01-2022>",
+              "law_reference": {
+                "law_type": "AR",
+                "date_reference": "2021-12-23/18",
+                "article_number": "art. 1",
+                "sequence_number": "002",
+                "full_reference": "AR [2021-12-23/18]"
+              },
+              "effective_date": "07-01-2022",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021122318",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021122318#Art.40"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 138,
+              "referenced_text": ", les traducteurs et les huissiers de justice",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 , les traducteurs et les huissiers de justice]1"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Art. 41",
+          "metadata": {
+            "article_range": "41",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "41",
+            "anchor_id": "art_41",
+            "content": {
+              "main_text": "A peine de forclusion, les prestataires de services, à l'exception des opérateurs télécom, introduisent leurs états de frais auprès du bureau de taxation compétent dans les six mois à dater du jour de l'exécution de leur prestation ou de l'introduction de leur rapport.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 12. ASSIMILATION DE FRAIS DIVERS AUX FRAIS DE JUSTICE",
+      "metadata": {
+        "title_type": "CHAPITRE 12.",
+        "title_content": "ASSIMILATION DE FRAIS DIVERS AUX FRAIS DE JUSTICE",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 42",
+          "metadata": {
+            "article_range": "42",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "42",
+            "anchor_id": "art_42",
+            "content": {
+              "main_text": "Les frais suivants sont assimilés aux frais de justice :  \n  1° les honoraires du curateur d'une faillite, qui n'a pas pu garder ou trouver suffisamment d'actif dans la masse de la faillite afin de satisfaire à l'indemnisation de son travail ;  \n  2° les honoraires du liquidateur d'une société ou d'une association, qui n'a pas pu garder ou trouver suffisamment d'actif dans le patrimoine de cette personne morale afin de satisfaire à l'indemnisation de ses prestations ;  \n  3° les honoraires de l'administrateur d'un mineur ou d'un malade mental à protéger, qui n'a pas pu garder ou trouver suffisamment d'actif dans le patrimoine de cette personne protégée afin de satisfaire à l'indemnisation de ses prestations;  \n  4° les honoraires de mandataire ad hoc, qui n'a pas pu garder ou trouver suffisamment d'actif afin de l'indemniser pour ses prestations ;  \n  5° l'indemnisation des témoins et des experts venant témoigner en matière pénale ;  \n  6° l'indemnisation des jurés et des membres suppléants du jury.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "les honoraires du curateur d'une faillite, qui n'a pas pu garder ou trouver suffisamment d'actif dans la masse de la faillite afin de satisfaire à l'indemnisation de son travail ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "les honoraires du liquidateur d'une société ou d'une association, qui n'a pas pu garder ou trouver suffisamment d'actif dans le patrimoine de cette personne morale afin de satisfaire à l'indemnisation de ses prestations ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "les honoraires de l'administrateur d'un mineur ou d'un malade mental à protéger, qui n'a pas pu garder ou trouver suffisamment d'actif dans le patrimoine de cette personne protégée afin de satisfaire à l'indemnisation de ses prestations;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "les honoraires de mandataire ad hoc, qui n'a pas pu garder ou trouver suffisamment d'actif afin de l'indemniser pour ses prestations ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "l'indemnisation des témoins et des experts venant témoigner en matière pénale ;",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "l'indemnisation des jurés et des membres suppléants du jury.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 13. DISPOSITION ABROGATOIRE",
+      "metadata": {
+        "title_type": "CHAPITRE 13.",
+        "title_content": "DISPOSITION ABROGATOIRE",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 43",
+          "metadata": {
+            "article_range": "43",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "43",
+            "anchor_id": "art_43",
+            "content": {
+              "main_text": "Sont abrogés:  \n  \\- les articles 1er à 4, 41 à 50, 52 à 66, 68 à 78, 80 à 95, 114 à 125, 128 à 142, 146 à 149 de l'arrêté royal du 28 décembre 1950, portant règlement sur les frais de justice en matière répressive ;  \n  \\- l'arrêté royal organique du 26 avril 2007 de la Commission des frais de justice.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 14. DISPOSITION TRANSITOIRE",
+      "metadata": {
+        "title_type": "CHAPITRE 14.",
+        "title_content": "DISPOSITION TRANSITOIRE",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 44",
+          "metadata": {
+            "article_range": "44",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "44",
+            "anchor_id": "art_44",
+            "content": {
+              "main_text": "Les annexes de l'arrêté royal précité du 28 décembre 1950 restent d'application telles qu'elles étaient en vigueur le jour précédent l'entrée en vigueur du présent arrêté. A cette fin, elles sont considérées comme des annexes au présent arrêté, basées sur l'article 11 de la loi, jusqu'à leur remplacement par des arrêtés tarifaires.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 15. DISPOSITIONS FINALES",
+      "metadata": {
+        "title_type": "CHAPITRE 15.",
+        "title_content": "DISPOSITIONS FINALES",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 45",
+          "metadata": {
+            "article_range": "45",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "45",
+            "anchor_id": "art_45",
+            "content": {
+              "main_text": "Le présent arrêté sera aussi appelé \" arrêté frais de justice \".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 46",
+          "metadata": {
+            "article_range": "46",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "46",
+            "anchor_id": "art_46",
+            "content": {
+              "main_text": "La présent arrêté entre en vigueur le 1er janvier 2020.  \n  \n**ARTICLE**[Art.] 47\\. Le ministre compétent pour la Justice est chargé de l'exécution du présent arrêté. \n\n[11A] ## Signatures [11B]\n\n   Donné à Bruxelles, le 15 décembre 2019.  \nPHILIPPE  \nPar le Roi :  \nLe Ministre de la Justice,  \nK. GEENS \n\n[9A] ## Préambule [9B]\n\n   PHILIPPE, Roi des Belges,  \n   A tous, présents et à venir, Salut.  \n   Vu l'article 108 de la Constitution ;  \n   Vu la loi du 23 mars 2019 concernant les frais de justice en matière pénale et les frais assimilés et insérant un article 648 dans le Code d'instruction criminelle, l'article 3, § 1er, alinéa 4, l'article 4, § 1er, 5°, et § 5, l'article 5, alinéa 1er, l'article 6, § 4, l'article 7, alinéa 1er, l'article 9 et l'article 11, alinéa 1er ;  \n   Vu l'arrêté royal du 28 décembre 1950 portant règlement sur les frais de justice en matière répressive ;  \n   Vu l'avis de l'Inspecteur des Finances, donné le 23 mai 2019 ;  \n   Vu l'accord de Notre ministre du Budget du 23 octobre 2019;  \n   Vu l'avis n° 156/2019 de l'Autorité de Protection des Données donné le 4 septembre 2019;  \n   Vu l'avis de l'Organe de contrôle des informations policières du 11 septembre 2019 ;  \n   Vu l'avis 66.689/1 du Conseil d'Etat donné du 2 décembre 2019, en application de l'article 84, § 3, premier alinéa, des lois du Conseil d'Etat, coordonnées le 12 janvier 1973;  \n   Vu l'analyse d'impact réglementaire réalisée conformément aux articles 6 et 7 de la loi du 15 décembre 2013 portant des dispositions diverses en matière de simplification administrative.  \n   Sur la proposition du Ministre de la Justice, et de l'avis des Ministres qui en ont délibéré en Conseil,  \n   Nous avons arrêté et arrêtons : \n\n[4A] ## Fiche des modifications [4B]\n\n  * [Arrêté royal du 23-12-2021 publié le 07-01-2022](https://www.ejustice.just.fgov.be/mopdf/2022/01/07_1.pdf#Page23)\nArticle modifié : 40 \n\n\n[10A] ## Rapport au Roi [10B]\n\n   RAPPORT AU ROI  \n   Sire,  \n   Généralités  \n   La loi du 23 mars 2019 concernant les frais de justice en matière pénale et les frais assimilés et insérant un article 648 dans le Code d'instruction criminelle crée un cadre légal en matière de frais de justice dans les affaires pénales.  \n   Actuellement, toutes les règles concrètes en la matière se trouvent dans le Règlement général des frais de justice en matière criminelle du 28 décembre 1950 (ci-après l'\"AR de 1950\") qui, au cours des années, a souvent été modifié. En outre, suite à la rédaction de nouveaux tarifs, plus actuels, pour certains groupes professionnels, de grandes lacunes apparaissent.  \n   La nouvelle loi exige que toutes les formalités qui accompagnent l'assignation de missions, leur exécution, la transmission du produit final auprès du requérant, l'approbation de celui-ci, la vérification de l'exactitude des états de frais rentrés et leur paiement final, soient revues.  \n   La loi habilite le Roi à prendre des arrêtés d'exécution en vue de l'élaboration des points cités.  \n   La loi doit pouvoir entrer en vigueur le plus vite possible afin de mettre fin à:  \n   \\- La grande dispersion des services qui, sur le terrain, sont actuellement compétents pour le traitement des dossiers, ainsi que la dispersion de la maitrise de cette matière techniquement très complexe ;  \n   \\- le retard existant encore à ce niveau dans les paiements;  \n   \\- la différence parfois importante entre la façon de traiter les états de frais introduits, causée par des politiques internes divergentes (tant au niveau du personnel et de l'organisation, qu'au niveau de l'interprétation de cette réglementation et de la façon dont celle-ci est appliquée concrètement).  \n   Pour les raisons mentionnées, il est indispensable de prendre, à court terme, les dispositions exécutoires se rapportant à la nouvelle structure organisationnelle et les nouvelles procédures dans lesquelles des garanties sont prévues pour les prestataires de services. Ils se voient, entre autres, reconnaître le droit au respect des délais de paiement par l'autorité.  \n   Cet arrêté ne concerne pas les tarifs, qui doivent être repris dans des arrêtés tarifaires.  \n   En d'autres mots, il est opté pour une réforme en deux phases:  \n   \\- Une nouvelle loi de base et le projet d'arrêté d'éxécution visant à élaborer la procédure à suivre, à partir de la mission jusqu'au paiement de l'indemnité au prestataire de services ;  \n   \\- La révision des tarifs. Dans ce cadre, certaines dispositions tarifaires dans l'AR de 1950 et dans l'échelle tarifaire annexée à celui-ci continueront à être d'application, jusqu'à ce qu'elles soient explicitement remplacées par des arrêtés tarifaires distincts pour certains groupes professionnels. Ainsi, l'ancien A.R. de 1950 sera progressivement vidé de du contenu restant, jusqu'au moment où il pourra être abrogé dans son entièreté.  \n   Ce projet contient un grand nombre de dispositions réglementaires, pouvant être réparties en trois catégories:  \n   \\- les dispositions structuro-organisationnelles en rapport avec la composition et la manière de procéder des services compétents;  \n   \\- les règles de procédure;  \n   \\- les dispositions administratives relatives au règlement pratique du paiement des états de frais.  \n   Le présent projet ne contient donc que des mesures permettant de réaliser les parties suivantes de la réforme:  \n   \\- la création et l'organisation de bureaux de taxation et de liquidation modernes, orientés vers le client, fonctionnant de manière efficace et dotés de personnel suffisamment compétent ainsi que d'outils informatiques performants ;  \n   \\- prévoir des processus rapides et clairs;  \n   \\- l'uniformisation de la manière de travailler et de gérer les bureaux des frais de justice de l'arrondissement, qui seront installés dans les sièges principaux de chaque arrondissement judiciaire.  \n   Aperçu de la nouvelle procédure  \n   La loi prévoit quatre variantes différentes de la procédure de réquisition de l'assistance d'un prestataire de services et du traitement des états de frais.  \n   La procédure standard est la procédure digitale, laquelle constituera une avancée importante en bien des points. Elle permettra de travailler de manière digitale dans la mesure du possible et va également permettre d'économiser du papier et de gagner de l'espace pour les archives.  \n   Afin de garantir en tout temps la continuité des processus de travail, il est également prévu une procédure papier qui peut être mise en oeuvre en cas de force majeure.  \n   Enfin, certains groupes-cibles opèrent d'une façon tellement caractéristique, qu'une autre manière de travailer peut leur être accordée. Il s'agit tout d'abord des opérateurs télécom, qui tout au long de l'année et parfois parallèllement, exécutent une série de missions dont la nature est toujours la même, à savoir, la recherche et l'écoute de toutes sortes de formes de télécommunications. Les interprètes également, lesquels exécutent souvent un grand nombre de missions successives, travaillent d'une manière très spécifique.  \n   La première étape de la procédure est la réquisition du prestataire de services par un magistrat requérant (déléguée éventuellement par le biais d'un service de police ou d'inspection).  \n   Le magistrat concerné ou le membre d'un service de police ou d'inspection chargé de l'enquête dans le cadre d'un dossier pénal doit dorénavant faire sa réquisition sur un formulaire standard mis à sa disposition à cette fin, avec un certain nombre de rubriques qui doivent être complétées au profit des services qui traiteront la réquisition. Le modèle qui sera mis à disposition après la publication du présent arrêté, stimulera dorénavant le requérant à formuler sa réquisition de manière très détaillée. Cela suppose une indication de la mission précise, permettant immédiatement de travailler de manière plus ciblée dans la mesure du possible, et de ne plus demander systématiquement un examen complet et général, plus onéreux. Une date maximale d'exécution devra de plus être indiquée, à laquelle le résultat de la mission devra être transmis. Sur le formulaire standard figureront également des possibilités d'indiquer sans équivoque si des options supplémentaires payantes sont souhaitées. Enfin, il sera demandé de compléter le nom de l'expert, traducteur ou interprète souhaité et de mentionner si celui-ci peut se faire remplacer ou assister par un collègue jusqu'à un certain stade. Les modèles des réquisitions seront rédigés par catégorie professionnelle à caractéristiques comparables.  \n   Le prestataire de services recevra, après exécution de sa mission, l'approbation ou le rejet de la prestation ou du résultat de celle-ci. En cas d'approbation, le prestataire de services devra introduire un état de frais pour se faire indemniser selon le tarif officiel en matière pénale. Des modèles standardisés de ce document seront également établis par catégorie professionnelle.  \n   Une grande différence par rapport à la procédure actuelle est que le prestataire de services concerné devra introduire son état de frais au bureau de taxation dans l'arrondissement du tribunal compétent. Cependant, il enverra toujours le résultat de sa mission au requérant qui n'est plus responsable pour sa taxation et qui ne devra donner que son approbation pour la prestation ou son résultat.  \n   La nouvelle procédure s'inspire des principes du processus budgétaire et comptable, comme décrit dans la loi du 22 mai 2003. Lorsque les frais de justice seront entièrement traités dans l'application comptable de l'Etat, le numéro de PO sera également un élément de référence qui permet de relier la réquisition et l'état de frais.  \n   Il a entièrement été tenu compte des avis du Collège des cours et tribunaux et du Collège du ministère public dans le présent texte. Si l'avis nécessitait uniquement une clarification, elle a été insérée dans ce rapport.  \n   La section 2 du premier chapître répond à l'avis de l'Autorité de protection des données. Seul le point 25 de l'avis n'a pas été suivi. Il est bel et bien proportionnel de demander ces éléments afin d'identifier un dossier dans certains cas. En outre, ces données ne sont réclamées que s'il n'existe aucun code unique de la réquisition. Par ailleurs, toutes ces données ne sont traitées que par les instances judiciaires compétentes et par le fonctionnaire compétent. En ce qui concerne le point 26, l'article 11 clarifie le fait que le compte rendu peut être consulté par les bureaux dans les cas décrits dans cet article.  \n   Discussion article par article  \n   Article 1er  \n   Cette disposition contient quelques définitions de notions souvent utilisées dans l'arrêté.  \n   Articles 2 à 5  \n   Ces dispositions répondent à l'avis de l'Autorité de protections des données.  \n   Article 6  \n   De l'aperçu donné, il apparaît que le bureau central des frais de justice joue un rôle de premier plan lorsqu'il s'agit de l'interprétation et de l'application de la réglementation à des cas concrets.  \n   Par \" mesures administratives appropriées \", sont visées tout d'abord des mesures générales, comme la rationalisation de l'organisation et de la répartition interne des tâches, l'interprétation de certains éléments en matière de la procédure existante, ou une certaine forme de contrôle. En outre, il y a aussi le début de mesures individuelles, comme la recommandation urgente de convoquer l'intéressé pour un entretien de fonctionnement supplémentaire. S'il s'agit des mesures urgentes et provisoires en attendant le prononcé du collège disciplinaire, des mesures individuelles sont également visées par cet article.  \n   Il est évident que la communication entre le bureau central des frais de justice et les bureaux de l'arrondissement ne peut être à sens unique. A l'occasion d'une question, le bureau central peut estimer nécessaire ou utile de demander d'abord l'opinion des bureaux de l'arrondissement, ou de leur demander s'ils sont confrontés à la même problématique, et quelle est leur approche.  \n   Articles 7 et 8  \n   Ces dispositions n'appellent pas de commentaire.  \n   Article 9  \n   Ce chapitre est à lire comme une description schématique et chronologique des étapes de la procédure selon la nouvelle méthode digitale.  \n   Ainsi, le magistrat ou l'enquêteur dresse une réquisition qui sera transmise à un prestataire de services de manière digitale. A cette fin, un formulaire standard obligatoire sera mis à disposition par le ministre de la Justice.  \n   L'importance de cette standardisation ne doit pas être sous-estimée; il y aura plus de clarté et les requérants devront consciemment choisir entre les options légalement possibles. Ceci pourrait être avantageux du point de vue budgétaire, puisque la mission du prestataire est clairement définie.  \n   En outre, il y aura une case, où devra être indiqué le délai dans lequel la mission devra être accomplie. Il en est de même pour la mention du tarif applicable.  \n   Par la présence de rubriques à compléter sur le formulaire type, on vise une diminution du nombre d'erreurs.  \n   Article 10  \n   La responsabilité du magistrat requérant s'arrête dorénavant à l'approbation du résultat final souhaité. Il n'est dès lors plus responsable de la suite du traitement.  \n   Il est important de mentionner ici que l'approbation ou le rejet par le requérant doit intervenir suffisamment vite, compte tenu du fait que le prestataire de services doit pouvoir introduire son état de frais avec l'approbation, dans les six mois. Le requérant utilisera une fiche d'approbation dont le modèle sera fixé dans un arrêté ministériel. Afin de sensibiliser davantage les requérants à l'importance de cette tâche administrative, de rappels seront envoyés par e-mail.  \n   Article 11  \n   Le bureau de taxation deviendra l'endroit où tous les états de frais seront rassemblés pour le contrôle et, si nécessaire, le bureau prendra contact avec le prestataire de services concernant les données à corriger et le montant auquel il a droit ou estime avoir droit.  \n   Après le contrôle, si l'état de frais est complet et exact, l'approbation peut suivre. Ceci est la dénommée \"taxation\" de l'état de frais, autrement dit, la détérmination de la valeur. Il est possible que des corrections soient nécessaires, et en principe, il faut que le rédacteur de l'état de frais les réalise. Toutefois, cela n'est pas absolument nécessaire pour de petites adaptations comme l'ajout de données ou la correction de petites erreurs de calcul, pour lesquelles il est également possible de demander l'accord du prestataire de services par e-mail. Des négociations sont également possibles. Un recours peut être introduit soit après l'échec de celles-ci, soit lorsqu'il n'a pas été fait usage des ces possibilités.  \n   Article 12  \n   Après l'approbation de l'état de frais par le bureau de taxation, la procédure se poursuit au bureau de liquidation. Là, le contrôle qui a été fait par le bureau de taxation n'est pas répété, mais complété par le contrôle en trois points (1°) ainsi que d'autres contrôles visant à éviter des erreurs (2° et 3°). Les modalités spéciales (4°), dont il est tenu compte lors du paiement, sont des règles dérogatoires lors de paiements à l'étranger et de paiements aux créanciers en cas de saisie-arrêt sur les revenus du prestataire de services.  \n   Ici également, le rejet de l'état de frais reste possible lorsqu'il est constaté que le bureau de taxation n'a pas remarqué une erreur ou a taxé un état de frais pour une chose qui n'est pas un frais de justice. Dans ce cas, l'état de frais retourne au bureau de taxation pour correction et éventuellement pour un recours.  \n   Article 13  \n   Cette disposition contient les données à compléter pour valider une réquisition. Parmi ces données, le numéro de notice du dossier pénal concerné auprès du ministère public est mentionné. Il s'agit de la référence la plus uniforme contenant le plus grand nombre de données.  \n   Articles 14 à 17  \n   Il s'agit de dispositions comparables aux articles 10 à 12.  \n   Le propre de cette procédure est qu'elle s'applique aussi aux interprètes, qui, par le biais de la fiche de prestations, prouvent leurs prestations.  \n   La fiche de prestations est un document qui était déjà annoncé lors de la publication de l'arrêté tarifaire pour les traducteurs et interprètes fin 2016, et qui sera publié comme modèle standardisé distinct dans un arrêté ministériel.  \n   Il pourrait arriver qu'un interprète vivant d'un côté de la frontière linguistique, mais travaillant la plupart du temps de l'autre côté, introduise un état de frais au bureau situé le plus près de sa résidence, dans une langue, alors qu'il y est mentionné (aussi) des prestations (ou même uniquement des prestations) faites dans des arrondissements d'unautre régime lingustique.  \n   Ici s'appliquent les lois sur l'emploi des langues en matière administrative du 18 juillet 1966 (ci-après L.C.L.) : tout citoyen a le droit d'être aidé dans sa propre langue auprès des services publics fédéraux et de leurs implantations locales. Ces services sont considérés comme des services centraux, notamment ceux dont le ressort s'étend au pays entier et donc, émanent de la direction.  \n   Les services centraux font usage, pour leurs relations avec des particuliers, conformément à l'art. 41, § 1er, L.C.L., d'une des trois langues dont les intéressés se sont servis.  \n   Les services centraux sont à cette fin et conformément à l'art. 43 L.C.L. scindés en unités unilingues et les fonctionnaires sont répartis en cadres linguistiques.  \n   Un état de frais introduit par un interprète dans une autre langue nationale que celle de sa résidence ne peut donc, sur la base de ces dispositions, créer de problèmes et ne peut en aucun cas être refusé. Dans la pratique, un état de frais peut être traité à l'aide d'un exemplaire vierge dans l'autre langue.  \n   Articles 18 à 24  \n   Plus spécifique et plus technique est la procédure à suivre par les opérateurs télécom.  \n   Ces dispositions n'appellent pas d'autre commentaire.  \n   Articles 25 à 27  \n   Ce chapitre introduit une nouvelle procédure de recours contre des décisions en matière d'états de frais, dans les cas où les montants demandés sont refusés, modifiés ou réduits.  \n   Il s'agit d'une procédure ordinaire de droit administratif. Le recours doit être introduit auprès du directeur général de l'Organisation judiciaire du Service public fédéral Justice, qui prend une décision administrative motivée après que le prestataire de services et le représentant du bureau de taxation aient exposé leur point de vue.  \n   En résumé, ce sont les règles ordinaires du contrôle administratif qui s'appliquent ici.  \n   Articles 28 et 29  \n   Les indemnisations des prestations fournies à la demande de l'autorité judiciaire sont, dans certains cas, considérées de facto comme des revenus professionnels. Leur indexation est par conséquent une obligation légale.  \n   L'indexation se fait sur la base de l`indice de santé lissé. Il est prescrit que cela se fasse chaque année au mois de janvier. Il s'agit en effet de l'exécution d'une obligation légale, et la négliger provoquerait une inégalité.  \n   Article 30  \n   Dans la même logique, les frais de déplacement sont également indexés annuellement.  \n   Article 31  \n   Cette disposition n'appelle pas de commentaire.  \n   Article 32  \n   Au chapitre 8, certaines règles valent pour tous les prestataires de services. Ceux-ci sont, pour l'application du présent arrêté, généralement répartis en trois groupes:  \n   \\- des prestataires d'une opération technique qui nécessite une formation et une expérience déterminées, mais qui n'est pas de nature à empêcher la délégation de la mission;  \n   \\- des fournisseurs de prestations en tant que traducteur et interprète, inscrits dans le registre national qui garantit un contrôle de qualité;  \n   \\- des experts ayant des connaissances et une expérience très personnelles, ne permettant pas de faire de l'échange mutuel ni de délégation.  \n   En ce qui concerne leur tarif, il y a souvent une dichotomie, entre les prestations techniques, et les expertises parfois très personnelles. Le premier groupe est souvent payé par prestation et le second par heure. Le tarif précise toujours à quel type appartient la prestation. S'il existe un tarif, on est obligé de le suivre. S'il n'en existe pas, il n'est pas question d'une liberté absolue pour le prestataire de services de le préciser lui-même.  \n   Les notions utilisées ici ne devraient pas causer de désaccords sur leur signification ou leur portée. Chacun des termes utilisés, qui n'est pas précisé dans la loi ou l'arrêté, doit être compris dans sa signification normale, la plus évidente. Ce sont les notions ayant donné lieu le plus souvent à des discussions, qui doivent être examinées ici.  \n   Un tarif forfaitaire est un tarif all-in qui couvre l'indemnisation de l'ensemble d'une prestation, y compris, la préparation, le matériel, l'administration, les déplacements et tout ce qui est habituellement lié à l'acquisition d'un certain bien ou d'un certain service.  \n   A l'opposé de ceci, il y a le tarif horaire, appliqué de moins en moins. A l'époque, c'était bien le reflet du coût normal d'un service. Un tarif standardisé est alloué au temps consacré par le prestataire de services à sa mission. On tend de plus en plus à remplacer ce type de tarifs par des tarifs forfaitaires. L'application d'un tarif horaire nécessite une relation de grande confiance.  \n   Si, pour une mission spécifique, il n'existe aucun tarif, seules les heures prestées sont reconnues comme données pertinentes. A cela, il faut combiner un salaire horaire, repris à l'échelle barémique, et par conséquent indexé chaque fois et dont le montant dépend de l'activité de l'intéressé. S'il a une formation universitaire, le tarif de base est d'application; nous pouvons en déduire qu'il ne peut s'agir que d'experts. Des suppléments existent pour ceux qui, en outre, donnent des cours dans une institution universitaire, qui portent le titre de médecin légiste, de psychiatre légiste, ou de professeur. Ce système ne vaut donc que pour des universitaires, et afin d'éviter des abus, ils doivent posséder un diplôme reconnu d'une université établie dans notre pays, et y donner des cours. Celui qui prétend avoir droit à un supplément sur la base de son passé académique à l'étranger ou à une université \"privée\", doit prouver que cette assimilation est fondée.  \n   Article 33  \n   Cet article contient la nouvelle sanction prévue en cas de non-respect des modalités relatives au délai dans lequel le résultat de la mission doit être introduit, et au délai de six mois à compter de l'exécution ou de l'achèvement de la prestation, qui vaut dorénavant pour l'introduction de l'état de frais. Cette sanction est simple: ils s'agit de la reprise partielle de la disposition existante en matière de réduction du montant de l'état de frais, proportionnelle au nombre de jours de retard.  \n   Article 34  \n   Cette disposition est ramenée à son objectif original, c'est-à-dire offrir, dans des cas acceptables, la possibilité de payer à un prestataire de services plus que le tarif officiel ne le permet.  \n   Il va de soi que l'on ne peut utiliser cette faculté à la légère, car si elle est utilisée trop fréquemment, l'impact budgétaire est conséquent. C'est la raison pour laquelle il faut demander une autorisation préalable pour un dépassement du tarif.  \n   Les exemples d'un dépassement acceptable et justifié sont souvent en rapport avec des lois économiques : l'expertise requise est extrêmement rare, elle n'est acquise qu'après de longues études ou des années d'expérience ou ne peut être acquise qu'à l'étranger. Cela peut également être le cas par le fait qu'il y ait beaucoup de demande et peu d'offre pour les connaissances nécessaires ou par exemple, lorsque un des experts les plus réputés en la matière est déjà désigné par une partie adversaire.  \n   En tous cas, il faut évaluer si le dépassement est raisonnable et se justifie à la lumière de l'importance du dossier.  \n   Il faut mettre l'accent sur la nécessité d'un jugement indépendant, neutre et objectif selon des normes exigeant un haut niveau de compétence professionnelle, une compréhension de la matière, de l'intégrité et le professionalisme qui mènent à des avis de haute qualité, appréciés dans un large cercle.  \n   Article 35  \n   Le projet ne contient pas de liste des frais de justice en matière pénale, voire une liste complète de ceux-ci. Cela serait impossible parce qu'en principe, tous les frais peuvent éventuellement être des frais de justice, s'ils répondent aux conditions légales.  \n   Dans cet article est reprise une liste de frais qui ne tombent pas sous les conditions légales pour être considérés comme des frais de justice. Autrement dit : il s'agit de non-frais de justice. Chaque fois, il n'est pas satisfait à une ou plusieurs conditions pour pouvoir être considérés comme des frais de justice.  \n   Ceci découle de la formulation de la loi, qui stipule que le Roi peut faire la liste de ce qui ne constitue pas des frais de justice.  \n   Le 3° concerne le transport de mineurs d'âge auteurs de faits qualifiés infraction, placés dans une institution communautaire fermée par une décision du juge de la jeunesse. Il peut s'agir autant d'une peine (après dessaisissement par le juge de la jeunesse, prononcée par le juge pénal ordinaire) que d'une mesure pédagogique ou protectionnelle. Ces frais ne peuvent être considérés et payés comme des frais de justice, que dans certains cas. Dès lors, les conditions sont énumérées clairement.  \n   Le 8° concerne le cas du matériel mis à la disposition de la police pour des tests d'haleine. Cela n'est pas un frais de justice, contrairement au matériel destiné à la détection d'alcool et de drogues dans le sang et l'urine.  \n   Le 10° concerne l'enlèvement de drogues, de précurseurs et de déchets des laboratoires de drogues et des plantations, tant sur place, si cela est nécessaire et opportun, que lors d'un `dumping'. L'éventuel assainissement nécessaire de l'environnement et d'autres frais en matière d'environnement ne constituent cependant pas des frais de justice.  \n   Le 11° enfin, est l'indemnité en compensation des dommages causés par l'action légitime de la police, qui est déjà considérée comme relevant des frais de justice depuis un arrêt de la Cour de Cassation de 2010. Il s'agit ici surtout de dommages à des portes et à des véhicules garés. Traduit en mode positif, on entend: \" sont considérées comme des frais de justice : les indemnisations des dommages causés lors de l'exécution légitime des services d'ordre d'une mission judiciaire lors de laquelle l'utilisation de violence était justifiée et des dommages étaient causés à la propriété d'un tiers qui n'est en aucun rapport avec l'affaire pénale concernée, à condition que cette personne lésée se limite à demander la réparation des dommages matériels, y compris, le cas écheant, les dommages à ces vêtements, mais à l'exclusion des dommages physiques et moraux, ainsi que la perte de profits. Pour ces derniers types de dommages, la personne lésée peut demander une indemnisation devant le juge civil compétent. \"  \n   Article 36  \n   Cette disposition n'appelle pas de commentaire.  \n   Article 37  \n   Tout d'abord, les états de frais doivent être établis correctement. Dorénavant, il est clairement établi que des états de frais non clairs, incomplets ou entâchés de nombreuses ou d'importantes erreurs ne seront pas traités. Si les erreurs ou oublis sont moins graves et s'ils peuvent être corrigés ou complétés moyennant des recherches raisonnables, les états de frais peuvent quand-même être traités. Le bureau de taxation en décide.  \n   Une dernière condition de validité de l'état de frais est la formule du serment à reprendre sur le document, qui a été modernisée dans la mesure où elle ne nécessite plus de signature physique. L'impression de la formule en soi est déjà considérée comme une affirmation sur laquelle l'intéressé marque son accord.  \n   Article 38  \n   Les mentions obligatoires reprises sur un état de frais sont celles qui sont nécessaires pour en permettre une identification rapide par les services compétents. Elles sont demandées compte tenu du principe \" only once \", ce qui veut dire qu'elles ne doivent plus être complétées lors de la deuxième remises d'un état de frais ni des remises ultérieures.  \n   La clé permettant d'éviter l'introduction répétée des mêmes données est un code unique. Il sera composé d'un code barres repris sur la réquisition, ainsi que lors de la création de la fiche d'approbation et de l'état de frais. Ce système n'est pas encore disponible partout. Il fonctionne là où ces documents sont créés automatiquement à l'aide de l'application de réquisition, qui, entre-temps, est testée pas à pas. Afin de pouvoir créer ce code unique, et dans le cas où le système digital ne fonctionne pas ou n'est pas disponible, la règle de base est toujours que chaque état de frais doit être enregistré immédiatement dans l'application comptable lors de sa réception.  \n   Il faut rappeler également la nécessité de joindre la réquisition originale lors de l'introduction de l'état de frais. Une copie ne suffit pas. Un original est nécessaire parce que la preuve de l'introduction dans les délais de l'état de frais et son lien avec la réquisition ne se créent que lors de l'enregistrement. Sur la réquisition, une signature doit apparaître (version papier) ou elle doit être certifiée avec la carte e-ID du magistrat requérant.  \n   Article 39  \n   Les règles suivantes, se trouvant aux articles 39 à 41, sont avant tout de nature pratique et se rapportent à différentes situations pouvant se produire.  \n   La première concerne l'action commune de plusieurs experts. Cela est possible, si le requérant a désigné plusieurs experts avec des spécialisations différentes dans un seul dossier, avec une ou plusieurs réquisitions. Il faut alors établir un état de frais commun qui mentionne les prestations de chaque expert de manière séparée, et un total. Si la collaboration va plus loin, et que les experts travaillent ensemble, tous les éléments sur l'état de frais restent globaux.  \n   La seconde situation (art. 39, al. 2) traite le rôle des aides éventuelles. Dans ce cas, il n'y a pas plusieurs experts désignés, mais un seul expert qui va demander, pour certaines parties de son examen, l'aide d'un tiers. L'exemple classique en est le psychiatre légiste qui confie l'exécution de tests psychologiques à un psychologue. Si celui-ci est désigné par le requérant dans la même réquisition, l'état de frais est rédigé comme s'il s'agissait de plusieurs experts. Si tel n'est pas le cas, mais que le requérant a donné l'autorisation de demander l'aide d'une personne au choix, l'état de frais de l'expert doit émaner de ce dernier et les frais qui sont engendrés pour l'aidant doivent y être repris. Dans ce cadre, il est logique mais nécessaire de mentionner que les aidantss seront également payés conformément au tarif des frais de justice en matière pénale, et qu'ils sont censés accepter ce tarif de manière implicite en acceptant la mission.  \n   La demande d'aide à un tiers sans autorisation préalable du requérant est contraire à l'esprit de la loi, qui est basée sur le choix de l'expert comme une personne spécifique avec des connaissances et une expérience bien déterminées, et éventuellement aussi une réputation. Pour cette raison, il est dorénavant interdit pour toutes les désignations \" intuitu personae \".  \n   Enfin, les mêmes règles sont valables pour les interprètes. Eux aussi sont choisis sur la base de leurs caractéristiques propres. Ils sont les seuls à pouvoir introduire un seul état de frais mensuel global.  \n   Article 40  \n   Cet article détermine la compétence territoriale des bureaux des frais de justice de l'arrondissement. Elle dépend du requérant, sauf pour les interprètes, pour qui la résidence est déterminante.  \n   Article 41  \n   La compétence ratione temporis est limitée à six mois après l'exécution de la prestation, ou la fin de celle-ci. Il en est ainsi pour des raisons comptables comme la nécessité de pouvoir clôturer l'année comptable dans un délai raisonnable après la fin de l'année du calendrier.  \n   Article 42  \n   Dans cette disposition, figure une énumération de frais qui, en principe, ne font pas partie des frais de justice en matière pénale, mais qui, en raison de la nature de la procédure pour laquelle ils sont engagés, sont considérés comme répondant à un objectif comparable, et sont assimilés à des frais de justice en matière pénale. L'attention est attirée sur le fait que, même s'il ne peut y avoir des assimilations qui ne sont pas faites par le législateur, cette liste n'est pas exaustive.  \n   Sont maintenus les frais qui peuvent être générés lorsque des personnes, dans beaucoup de cas des avocats, sont désignées par le juge comme mandataire temporaire ou gérant des intérêts ou des patrimoines de personnes physiques ou morales. Il s'agit d'un côté des mineurs et malades mentaux en tant que personnes à protéger, et d'autre part de personnes morales en état de faillite ou de dissolution volontaire, ou encore dont un ou plusieurs administrateurs ordinaires se trouve(nt) dans un état de conflit d'intérêts avec la personne morale à protéger.  \n   Article 43  \n   Cette disposition abroge l'ancien organe de recours de manière formelle. Il avait arrêté d'exister de facto fin 2016, lorsque se terminait le mandat des membres et que lors de la tentative d'en composer un nouveau, aucun candidat président n'a pu être trouvé.  \n   Début 2019, le Conseil d'Etat a jugé que la non-recomposition de la Commission a privé certains prestataires du droit d'ester en justice. C'est pourquoi le législateur, afin de rétablir les droits des prestataires de services ayant, pendant cette période introduit, auprès de la Commission, un recours qui ne pouvait plus être traité, et dont ils n'ont pas fait abandon, devrait élaborer une réglementation afin d'admettre ces prestataires de service à la nouvelle procédure de recours auprès du directeur général de la direction générale de l'Organisation Judiciaire du SPF Justice.  \n   Article 44  \n   Le présent arrêté n'a pas pour objectif de remplacer entièrement l'ancien A.R. de 1950 qui contient le règlement général des frais de justice en matière pénale. Il ne vise qu'à remplacer sa partie structurelle, organisationnelle et procédurale, ce qui constitue tout de même la grande majorité des dispositions. Les autres dispositions, qui traitent de tarifs et d'autres aspects, seront remplacées dans une deuxième phase et restent en vigueur jusque là.  \n   L'annexe de l'A.R. de 1950 demeure important. Cette annexe est ce qu'on appelle le barème tarifaire, qui est publié régulièrement depuis 1983 avec des montants indexés, la dernière fois en octobre 2018. Ce barème reste valable et sera considéré de jure pour la première fois en 2020 comme une annexe au présent arrêté.  \n   Le barème est la fixation concrète des tarifs sur la base des règles contenues dans l'A.R. de 1950 et des décisions tarifaires distinctes rendues pour des professions spécifiques, telles que les opérateurs de télécommunications en 2013, les huissiers en 2015, les laboratoires de recherche génétique et de détection de l'alcool et des drogues dans le sang et l'urine en 2015, les traducteurs et interprètes en 2016, les psychiatres légistes dans le cadre d'internement en 2018.  \n   Les tarifs, parfois uniquement constitués des conditions, parfois seulement d'un montant, parfois des deux, qui se trouvent encore dans l'A.R. de 1950 et qui n'ont pas été abrogés, continueront à exister en tant que tarifs en application de la nouvelle loi, jusqu'à ce qu'ils soient remplacés par de nouveaux arrêtés tarifaires qui abrogent les anciens. Il en résultera que l'A.R. de 1950 sera une boîte vide à un certain moment.  \n   D'ici là, les autres dispositions normatives qui n'avaient pas besoin d'être abrogées, continueront d'exister dans les mêmes conditions. Dans une deuxième phase de la réforme, elles seront examinées, mises à jour et insérées dans un environnement plus approprié, tel que le Code judiciaire, le Code d'instruction criminelle, le statut des huissiers de justice ou tout autre texte qui leur est étroitement lié. Cette mesure doit être prise dès que possible.  \n   Pour des raisons de sécurité juridique, l'abrogation de l'AR de 1950 devrait être fait dès que possible.  \n   Article 45  \n   Cette disposition introduit un nouvel intitulé abrégé officiel: \"arrêté frais de justice\". L'utilisation d'un intitule abrégé permet de renvoyer de manière simplifiée mais non équivoque à l'intitulé du nouvel arrêté royal, ce qui évite des renvois compliqués.  \n   Article 46  \n   La loi et cet arrêté étant inextricablement liés et l'un ne pouvant exister sans l'autre, il est nécessaire que les deux entrent en vigueur le même jour, le 1er janvier 2020.  \n   Article 47  \n   Cette disposition n'appelle pas de commentaire.  \n   J'ai l'honneur d'être,  \n   Sire,  \n   de Votre Majesté  \n   le très respectueux et très fidèle serviteur,  \n   Le Ministre de la Justice,  \n   K. GEENS  \n     \n   Conseil d'Etat  \n   section de législation  \n   Avis 66.689/1 du 2 décembre 2019 sur un projet d'arrêté royal `fixant l'organisation des bureaux des frais de justice de l'arrondissement, ainsi que la procédure d'attribution, de vérification, de paiement et de recouvrement des frais de justice en matière pénale et des frais assimilés'  \n   Le 30 octobre 2019, le Conseil d'Etat, section de législation, a été invité par le Ministre de la Justice, à communiquer un avis, dans un délai de trente jours prorogé jusqu'au 2 décembre 2019, sur un projet d'arrêté royal `fixant l'organisation des bureaux des frais de justice de l'arrondissement, ainsi que la procédure d'attribution, de vérification, de paiement et de recouvrement des frais de justice en matière pénale et des frais assimilés'.  \n   Le projet a été examiné par la première chambre le 21 novembre 2019. La chambre était composée de Wilfried Van Vaerenbergh, conseiller d'Etat, président, Chantal Bamps et Wouter Pas, conseillers d'Etat, Johan Put, assesseur, et Wim Geurts, greffier.  \n   Le rapport a été présenté par Frédéric Vanneste, premier auditeur.  \n   La concordance entre la version française et la version néerlandaise de l'avis a été vérifiée sous le contrôle de Wouter Pas, conseiller d'Etat.  \n   L'avis, dont le texte suit, a été donné le 2 décembre 2019.  \n   1\\. En application de l'article 84, § 3, alinéa 1er, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973, la section de législation a fait porter son examen essentiellement sur la compétence de l'auteur de l'acte, le fondement juridique et l'accomplissement des formalités prescrites.  \n   Observation préliminaire  \n   2\\. Compte tenu du moment où le présent avis est donné, le Conseil d'Etat attire l'attention sur le fait que la compétence du Gouvernement se trouve encore et toujours limitée à l'expédition des affaires courantes. Le présent avis est toutefois donné sans qu'il soit examiné si le projet relève bien de la compétence ainsi limitée, la section de législation n'ayant pas connaissance de l'ensemble des éléments de fait que le Gouvernement peut prendre en considération lorsqu'il doit apprécier la nécessité d'arrêter ou de modifier des dispositions réglementaires.  \n   Portée et fondement juridique  \n   3\\. Le projet d'arrêté royal soumis pour avis a pour objet de régler l'organisation des bureaux des frais de justice de l'arrondissement, ainsi que la procédure d'attribution, de vérification, de paiement et de recouvrement des frais de justice en matière pénale et des frais assimilés. A cet effet, il abroge en grande partie l'arrêté royal du 28 décembre 1950 `portant règlement général sur les frais de justice en matière répressive' et intégralement l'arrêté royal du 26 avril 2007 `organique de la Commission des frais de justice', pour les remplacer par les dispositions autonomes en projet.  \n   4.1. Sous réserve des observations qui suivront, le projet tire son fondement juridique des dispositions mentionnées aux premier et deuxième alinéas du préambule.  \n   4.2. Plusieurs dispositions du projet, telles que les articles 1bis à 1quinquies, 5, 9 et 34 contiennent des dispositions relatives au traitement de données à caractère personnel.  \n   L'article 33 de la loi du 30 juillet 2018 `relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel' dispose que le traitement de données à caractère personnel est licite s'il est nécessaire à l'exécution d'une mission effectuée par une autorité compétente aux fins de prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et s'il est fondé sur une obligation légale ou réglementaire. Cette obligation légale ou réglementaire doit régir au moins les catégories de données à caractère personnel devant faire l'objet d'un traitement et les finalités du traitement.  \n   L'article 5, paragraphe 1, b), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 `relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données)' (ci-après : le RGPD) dispose que les données à caractère personnel doivent être collectées pour des finalités déterminées, explicites et légitimes et ne peuvent pas être traitées d'une manière incompatible avec ces finalités. En vertu de l'article 6, paragraphe 1, e), du RGPD, le traitement est licite s'il est nécessaire à l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique.  \n   Conformément à l'article 22 de la Constitution, tout traitement de données à caractère personnel et, plus généralement, toute atteinte au droit à la vie privée, sont soumis au respect du principe de légalité. Par conséquent, les éléments essentiels du dispositif doivent être fixés dans la loi même, à savoir notamment les finalités du traitement, ainsi que les cas et conditions dans lesquels des données à caractère personnel sont traitées. L'ingérence dans l'exercice du droit au respect de la vie privée doit être définie en des termes clairs et suffisamment précis qui permettent d'appréhender de manière prévisible les hypothèses dans lesquelles le législateur autorise une pareille ingérence. Toute ingérence dans le droit au respect de la vie privée doit, en outre, reposer sur une justification raisonnable et être proportionnée aux buts poursuivis par le législateur.  \n   Les dispositions de la loi du 23 mars 2019 `concernant les frais de justice en matière pénale et les frais assimilés et insérant un article 648 dans le Code d'instruction criminelle', qui procurent le fondement juridique du projet, n'abordent pas explicitement l'organisation du traitement de données à caractère personnel. On peut toutefois raisonnablement considérer qu'en réglant la procédure d'attribution, de vérification et de paiement des frais de justice, le législateur a également autorisé un traitement de données à caractère personnel nécessaire pour cette procédure et en lien direct avec elle.  \n   Les règles du projet concernant les catégories de données à caractère personnel et la finalité de leur traitement s'intègrent raisonnablement dans le dispositif édicté par le législateur. Il peut raisonnablement être admis que le Roi puise en principe dans les habilitations énoncées dans la loi du 23 mars 2019 le pouvoir d'adopter les dispositions du projet concernant les catégories de données à caractère personnel et les finalités du traitement de ces données, sans que le principe de légalité inscrit à l'article 22 de la Constitution s'en trouve violé.  \n   Une réserve doit toutefois être formulée en ce qui concerne l'article 1quater, alinéa 3, du projet, qui précise les finalités permettant de traiter des données à caractère personnel visées à l'article 34 de la loi du 30 juillet 2018. L'autorisation de traiter les catégories particulières de données à caractère personnel, visées à l'article 34 de la loi du 30 juillet 2018, ainsi que la précision des finalités spécifiques pour lesquelles ce traitement est nécessaire, doivent être inscrites de manière suffisamment claire dans le régime légal.  \n   4.3. L'article 32, 2°, du projet dispose non seulement que les frais d'inhumation des détenus et de tous cadavres trouvés sur la voie publique ne sont pas considérés comme des frais de justice, mais aussi que ces frais sont à charge des communes, sauf si les cadavres sont réclamés par les familles et si les communes peuvent recouvrer les frais.  \n   Le Roi est certes habilité, en vertu de l'article 3, § 1er, de la loi du 23 mars 2019, à déterminer les frais qui ne peuvent pas être considérés comme des frais de justice. Il n'a toutefois pas le pouvoir de déterminer qui doit supporter ces autres frais. L'article 32, 2°, deuxième phrase, du projet sera dès lors omis.  \n   4.4. L'article 39 du projet détermine quels frais de justice ne sont pas récupérables auprès des parties condamnées, déclarées coupables ou civilement responsables, ou des parties civiles ayant succombé.  \n   Contrairement à ce que soutient le délégué, l'article 7 de la loi du 23 mars 2019 ne procure pas de fondement juridique à cette disposition. L'article 7, alinéa 2, de cette loi dispose en effet expressément que les frais de justice liquidés sont recouvrés auprès des parties condamnées, déclarées coupables ou civilement responsables, ou des parties civiles ayant succombé dans l'affaire pénale concernée, à l'intervention des services compétents du SPF Finances.  \n   Le fait que, selon le rapport au Roi, les frais mentionnés à l'article 39 \" sont des frais qui, sur la base de conventions internationales en matière de droits de l'homme et de libertés fondamentales, ne peuvent être recouvrés auprès du condamné parce que cela violerait ses droits fondamentaux et mettrait en péril sa garantie d'un procès équitable \", n'affecte en rien la constatation que le Roi doit disposer d'un fondement juridique valable pour pouvoir régler ce point expressément (1).  \n   Examen du texte  \n   Préambule  \n   5\\. Conformément à l'article 11 de la loi du 23 mars 2019, les arrêtés royaux pris en application de l'article 11, alinéa 1er, de la loi, doivent l'être par arrêté délibéré en Conseil des ministres. Cette délibération doit être mentionnée au préambule du projet d'arrêté.  \n   Le préambule doit également faire référence à l'avis de l'Organe de contrôle de l'information policière du 11 septembre 2019.  \n   Chapitre 1er, section 2  \n   6\\. La numérotation \" bis-, ter-, quater, quinquies \" utilisée au chapitre 1er, section 2, du projet sera remplacée par une numérotation continue de nombres entiers. Le reste du projet sera adapté en conséquence.  \n   7\\. Le chapitre 1er, section 2, vise le \" RGPD \". Ce terme est défini à l'article 1er, 4°, du projet. On n'aperçoit pas clairement pourquoi le texte néerlandais du projet utilise une abréviation anglaise pour un règlement dont il existe également un texte néerlandais authentique. Il est recommandé de recourir dans le texte néerlandais à l'abréviation \" AVG \", telle qu'elle est utilisée par le Conseil d'Etat et l'Autorité de protection des données.  \n   Article 1quater  \n   8\\. Les textes français et néerlandais de l'article 1quater, alinéa 2, 2°, du projet sont discordants. Il convient d'y remédier.  \n   Article 2  \n   9\\. L'article 2 du projet habilite le bureau central des frais de justice à donner des directives concernant le traitement par type de frais de justice et concernant les tarifs. Ces directives sont contraignantes pour tous les bureaux des arrondissements.  \n   L'article 4, § 1er, de la loi du 23 mars 2019 dispose que le bureau central est notamment chargé de l'élaboration, du suivi et de l'évaluation de la réglementation en matière de frais de justice en matière pénale (1°) et de donner des directives au nom du ministre qui a la Justice dans ses attributions en vue de l'application et de l'interprétation uniformes de la réglementation par les bureaux des frais de justice des arrondissements (2°).  \n   Si l'article 2 du projet constitue la simple confirmation de ce qui est inscrit dans cette disposition législative, il est préférable de le supprimer.  \n   Si l'article 2 du projet vise à attribuer au bureau central un pouvoir réglementaire plus étendu, et ne se limite pas, par exemple, à lui confier le soin de veiller à \" l'application et l'interprétation uniformes \" de la réglementation, mais l'autorise également à élaborer une nouvelle réglementation en la matière, force est de constater que l'attribution d'une compétence réglementaire au bureau central n'est pas admissible. Il conviendra dans ce cas de supprimer l'article 2, alinéas 1er et 2, du projet.  \n   10\\. L'article 2, alinéa 3, 2°, du projet attribue au bureau central des frais de justice le pouvoir d'\" imposer les mesures administratives appropriées \". Le délégué apporte à cet égard les précisions suivantes :  \n   \" Hiermee worden in de eerste plaats algemene maatregelen bedoeld, zoals de stroomlijning van de organisatie en interne taakverdeling, de interpretatie van bepaalde elementen omtrent de bestaande procedure, of een zekere vorm van controle. Daarnaast ook de aanzet tot individuele maatregelen, zoals de dringende aanbeveling de betrokkene te ontbieden voor een extra functioneringsgesprek. Individuele maatregelen worden bedoeld als het gaat om dringende voorlopige maatregelen in afwachting van een uitspraak van het tuchtcollege \".  \n   Il est recommandé d'intégrer ces explications dans le rapport au Roi.  \n   Article 9  \n   11\\. A l'article 9, alinéa 3, du projet, le texte néerlandais ne contient pas d'équivalent pour les mots \" par e-mail ou par un autre moyen de communication écrit \" du texte français. Il convient d'y remédier.  \n   Article 11  \n   12\\. A l'article 11, alinéa 4, première phrase, du projet, il n'est nullement question d'\" une commission d'une autre irrégularité \", à la différence de ce qui est mentionné à l'article 7, alinéa 3, ou à l'article 11, alinéa 4, deuxième phrase, du projet. Il s'impose, par souci d'uniformité, de compléter l'article 11, alinéa 4, première phrase.  \n   Article 14  \n   13\\. A moins qu'il s'agisse réellement de faire référence d'une manière statique à l'article 2 de l'arrêté royal du 9 janvier 2003, modifié par l'arrêté royal du 8 février 2011, il convient de supprimer les mots \" modifié par l'arrêté royal du 8 février 2011 \" à l'article 14, alinéa 1er, du projet.  \n   Articles 14 et 15  \n   14\\. L'article 14, alinéa 1er, du projet fait référence à une plate-forme d'échange entre \" l'autorité mandante \" et les opérateurs télécom. L'article 15, alinéa 1er, dispose que le service de police exécutant désigné \" par le requérant \" enregistre les questions sur la plate-forme d'échange destinée à cette fin.  \n   Il est recommandé de préciser et de spécifier dans le projet qui est exactement visé par les notions d'\" autorité mandante \" et de \" requérant \". S'il s'agit des mêmes personnes, il faudra à tout le moins utiliser en outre une terminologie uniforme.  \n   Articles 21 à 23  \n   15\\. Les articles 21 à 23 du projet se recoupent en grande partie avec l'article 6, § 3, de la loi du 23 mars 2019. Ils ne reproduisent cependant pas cette disposition légale dans son intégralité, certains éléments nouveaux étant ajoutés. L'article 21 et l'article 22 précisent ainsi respectivement qu'une copie de la décision attaquée doit être jointe au recours et que la procédure est écrite, mais peut être orale moyennant une demande motivée, et l'article 23 dispose que le directeur général envoie sa décision aux parties.  \n   Des dispositions qui ne font que rappeler une norme supérieure, en la reproduisant ou en la paraphrasant, n'ont en principe pas leur place dans des règles d'exécution, notamment parce que la nature juridique des dispositions reproduites pourrait en devenir incertaine et que cela donne erronément à penser que l'autorité qui reproduit les règles peut les modifier. Pareille méthode ne peut se justifier que si la bonne compréhension du régime en projet exige que des dispositions d'une norme supérieure soient reproduites, et seulement à condition que l'origine des règles concernées soit précisée (par la mention \" conformément à l'article 6, § 3, de la loi du 23 mars 2019 \") et que la reproduction soit correcte et littérale afin de ne pas créer de confusion quant à leur portée exacte. Dans ce cas, les nouveaux éléments mentionnés, que le Roi peut ajouter par souci de clarté en vertu de l'habilitation contenue à l'article 6, § 4, de la loi du 23 mars 2019, doivent se distinguer clairement des règles résultant directement de la loi.  \n   Article 21  \n   16\\. A l'article 21 du projet, la référence à l'article 7, alinéa 5, sera remplacée par une référence à l'article 7, alinéa 6. Il conviendrait en outre d'écrire dans le texte français \" ..., 8, alinéa 2, 11, alinéa 6, et 12, alinéa 2, [...] \" au lieu de \" ..., 8, deuxième alinéa, 11, alinéa 6, et 12, deuxième alinéa, [...] \".  \n   Article 31  \n   17\\. L'article 31 du projet définit les dépenses qui ne sont pas considérées comme des frais de justice.  \n   En vertu de l'article 31, 3°, du projet, ne sont pas considérées comme frais de justice les dépenses engagées pour le transport de personnes par taxi, des institutions communautaires pour mineurs dans lesquelles elles séjournent vers le tribunal et le retour, notamment lorsque la personne \" est placée dans une telle institution dont la gestion a été confiée aux communautés par la loi spéciale du 6 janvier 2014 \".  \n   On peut admettre que cette référence à l'une des neuf lois spéciales de cette même date vise la loi spéciale du 6 janvier 2014 `relative à la Sixième Réforme de l'Etat'. Sans préjudice de l'observation selon laquelle la disposition en projet doit être précisée en ce sens, force est de constater que l'on n'aperçoit nullement quelles institutions sont ainsi visées. S'il s'agit des centres accueillant des jeunes qui exécutent un peine prononcée en raison d'un fait qualifié d'infraction commise en tant que mineur, mieux vaudrait mentionner expressément ces institutions (à savoir les centres fermés d'Everberg, de Tongres et de Saint-Hubert).  \n   18\\. La formulation de l'article 31, 11°, du projet n'est pas claire. Interrogé à ce sujet, le délégué a fourni les explications suivantes :  \n   \" Positief verwoord wordt het volgende bedoeld: `als gerechtskost wordt beschouwd: de vergoeding van de schade die is ontstaan bij de wettige uitvoering door de ordediensten van een gerechtelijke opdracht waarbij het gebruik van geweld was gerechtvaardigd en er schade is aangericht aan het eigendom van een derde, die niets met de betrokken strafzaak heeft te maken, mits deze schadelijder zich beperkt tot het vragen van herstel van de materiële schade, eventueel de schade aan zijn kledij inbegrepen, maar met uitsluiting van fysieke en morele schade, evenals winstderving. Voor deze laatste vormen van schade kan de schadelijder een vergoeding eisen voor de bevoegde burgerlijke rechter' \".  \n   Etant donné que la formulation de l'habilitation donnée au Roi par l'article 3, § 1er, alinéa 4, de la loi du 23 mars 2019 empêche les auteurs du projet de recourir à cette formulation positive, il est recommandé d'inscrire ces explications dans le rapport au Roi.  \n   Article 40  \n   19\\. L'article 40 du projet abroge notamment l'arrêté royal du 26 avril 2007 `organique de la Commission des frais de justice'.  \n   Le rapport au Roi souligne à juste titre la nécessité d'un régime transitoire pour les prestataires de services qui, depuis 2016, ont intenté un recours auprès de la Commission (l'ancien organe de recours qui a cessé d'exister de facto depuis 2016) ou ont du moins fait savoir ne pas être d'accord avec la décision concernant leur indemnité :  \n   \" Cette disposition abroge l'ancien organe de recours de manière formelle. Il avait arrêté d'exister de facto fin 2016, lorsque se terminait le mandat des membres et que lors de la tentative d'en composer un nouveau, aucun candidat président n'a pu être trouvé.  \n   Début 2019, le Conseil d'Etat a jugé que la non-recomposition de la Commission a privé certains prestataires du droit d'ester en justice. C'est pourquoi, afin de rétablir les droits des prestataires de services ayant, pendant cette période introduit, auprès de la Commission, un recours qui ne pouvait plus être traité, et dont ils n'ont pas fait abandon, ils seront admis à la nouvelle procédure de recours auprès du directeur général de la direction générale de l'Organisation Judiciaire du SPF Justice.  \n   Les prestataires de services qui n'ont pas introduit de recours auprès de la Commission, peuvent encore le faire suivant la nouvelle procédure, pour autant qu'il ne s'agisse que du montant de l'indemnité par rapport à un état de frais qui a été refusé ou réduit en 2017, 2018 ou 2019 jusqu'au jour de l'entrée en vigueur de la loi, et que les intéressés prouvent qu'ils ont fait savoir pendant cette période ne pas être d'accord avec cette décision, avoir voulu introduire un recours \".  \n   On n'en retrouve toutefois nulle trace dans le texte même du projet. Compte tenu du fait que, conformément à l'article 6, § 3, de la loi du 23 mars 2019, le recours auprès du directeur général de l'Organisation judiciaire du SPF Justice doit être introduit dans les trente jours, un dispositif légal est requis pour arrêter cette disposition transitoire. Pareil régime transitoire est nécessaire pour prévenir toute violation du droit à un recours effectif et du principe d'égalité.  \n   Dès lors, le législateur devra prévoir dans les plus brefs délais un dispositif permettant aux prestataires de services visés d'introduire un recours selon la nouvelle procédure auprès du directeur général de la Direction générale de l'Organisation judiciaire du SPF Justice.  \n   20\\. L'article 40 du projet abroge un certain nombre de dispositions fixant des tarifs (voir par exemple l'abrogation des articles 41, 47, 52 et 57 de l'arrêté royal du 28 décembre 1950). Dès lors que l'arrêté en projet ne fixe pas lui-même de tarifs, on veillera à ce qu'un règlement portant sur ces derniers ait été élaboré et soit entré en vigueur à la date d'entrée en vigueur de cet arrêté. Si tel ne devait pas être le cas, il faudrait sans doute prévoir un régime transitoire.  \n   Le greffier,  \n   Wim Geurts  \n   Le président,  \n   Wilfried Van Vaerenbergh  \n   Note  \n (1) On peut d'ailleurs rappeler à cet égard que le Conseil d'Etat, section de législation, a observé au sujet de l'article 7, alinéa 2, de l'avant-projet devenu la loi du 23 mars 2019, que tous les frais ne peuvent pas toujours être purement et simplement recouvrés (avis C.E. 64.218/1 du 8 novembre 2018 sur un avant-projet devenu la loi du 23 mars 2019, Doc. parl., Chambre, 2018-2019, n° 3412/1, observation 14). \n\n[5A] [6A] ## Lien [6B]s [5B]\n\n<https://www.ejustice.just.fgov.be/eli/arrete/2019/12/15/2019031201/justel> Copier le lien [Image de la publication officielle](https://www.ejustice.just.fgov.be/mopdf/2019/12/27_2.pdf#Page73) [PDF version consolidée](https://www.ejustice.just.fgov.be/img_l/pdf/2019/12/15/2019031201_F.pdf)\n\n[6A] ## Lien [6B] externe\n\n[Conseil d'Etat](http://reflex.raadvst-consetat.be/reflex/?page=chrono&c=detail_get&d=detail&docid=143284&tab=chrono&lang=fr) Informations générales\n\n  * [Conditions d'utilisation](https://www.ejustice.just.fgov.be/img_2024/pdf/GebruiksvoorwaardenFR.pdf)\n\nLiens utiles\n\n  * [SPF Justice](https://justitie.belgium.be/fr)\n  * [Ministère Public](https://www.om-mp.be/fr)\n  * [Cours & tribunaux](https://www.rechtbanken-tribunaux.be/fr)\n  * [Cours de cassation](https://justice.belgium.be/fr/ordre_judiciaire/cours_et_tribunaux/cour_de_cassation)\n\nCopyright © 2024 Service Public Fédéral Belge",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": [
+      {
+        "modification_type": "Arrêté royal",
+        "modification_date": "2021-12-23",
+        "publication_date": "2022-01-07",
+        "modified_articles": [
+          "40"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2022/01/07_1.pdf#Page23",
+        "full_title": "Arrêté royal du 23-12-2021 publié le 07-01-2022"
+      }
+    ]
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-07-12T13:12:32.391008",
+    "source_file": "2019031201.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false
+    }
+  }
+}

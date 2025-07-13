@@ -1,0 +1,90 @@
+{
+  "document_metadata": {
+    "document_number": "2018014142",
+    "title": "2018014142 3 OCTOBRE 2018. - Arrêté royal modifiant l'arrêté royal du 18 juillet 2018 portant clôture de la session parlementaire ordinaire de 2017-2018",
+    "publication_date": "2018-10-05",
+    "source": "Intérieur",
+    "page_number": 75607,
+    "dossier_number": "2018-10-03/01",
+    "effective_date": "2018-10-05",
+    "language": "fr",
+    "document_type": "arrete",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/arrete/2018/10/03/2018014142/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2018/10/05_1.pdf#Page71",
+    "consolidated_pdf_url": ""
+  },
+  "document_hierarchy": [
+    {
+      "type": "article",
+      "label": "Art. 1er",
+      "metadata": {
+        "article_range": "1er",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "1er",
+        "anchor_id": "art_1er",
+        "content": {
+          "main_text": ". L'article 2 de l'arrêté royal du 18 juillet 2018 portant clôture de la session parlementaire ordinaire de 2017-2018, est complété par les mots \" , à 18 heures \".",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Art. 2",
+      "metadata": {
+        "article_range": "2",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "2",
+        "anchor_id": "art_2",
+        "content": {
+          "main_text": "Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.  \n  \n**ARTICLE**[Art.] 3\\. Le Ministre de la Sécurité et de l'Intérieur est chargé de l'exécution du présent arrêté. \n\n[11A] ## Signatures [11B]\n\n   Donné à Bruxelles, le 3 octobre 2018.  \nPHILIPPE  \nPar le Roi :  \nLe Ministre de la Sécurité et de l'Intérieur,  \nJ. JAMBON \n\n[9A] ## Préambule [9B]\n\n   PHILIPPE, Roi des Belges,  \n   A tous, présents et à venir, Salut.  \n   Vu l'article 44 de la Constitution ;  \n   Vu l'arrêté royal du 18 juillet 2018 portant clôture de la session parlementaire ordinaire de 2017-2018 ;  \n   Sur la proposition du Ministre de la Sécurité et de l'Intérieur,  \n   Nous avons arrêté et arrêtons : \n\n[5A] [6A] ## Lien [6B]s [5B]\n\n<https://www.ejustice.just.fgov.be/eli/arrete/2018/10/03/2018014142/justel> Copier le lien [Image de la publication officielle](https://www.ejustice.just.fgov.be/mopdf/2018/10/05_1.pdf#Page71) Informations générales\n\n  * [Conditions d'utilisation](https://www.ejustice.just.fgov.be/img_2024/pdf/GebruiksvoorwaardenFR.pdf)\n\nLiens utiles\n\n  * [SPF Justice](https://justitie.belgium.be/fr)\n  * [Ministère Public](https://www.om-mp.be/fr)\n  * [Cours & tribunaux](https://www.rechtbanken-tribunaux.be/fr)\n  * [Cours de cassation](https://justice.belgium.be/fr/ordre_judiciaire/cours_et_tribunaux/cour_de_cassation)\n\nCopyright © 2024 Service Public Fédéral Belge",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": []
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-07-12T13:12:32.405958",
+    "source_file": "2018014142.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false
+    }
+  }
+}

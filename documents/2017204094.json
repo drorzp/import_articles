@@ -1,0 +1,1163 @@
+{
+  "document_metadata": {
+    "document_number": "2017204094",
+    "title": "2017204094 18 JUILLET 2017. - Loi relative à la création du statut de solidarité nationale, à l'octroi d'une pension de dédommagement et au remboursement des soins médicaux à la suite d'actes de terrorisme(NOTE : Consultation des versions antérieures à partir du 04-08-2017 et mise à jour au 05-06-2024)",
+    "publication_date": "2017-08-04",
+    "source": "Sécurité sociale - Défense Nationale",
+    "page_number": 77667,
+    "dossier_number": "2017-07-18/07",
+    "effective_date": "2016-03-22",
+    "language": "fr",
+    "document_type": "loi",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 2,
+      "archived_versions_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arch=002&lg_txt=f&type=&sort=&numac_search=2017204094&cn_search=2017071807&caller=eli&&view_numac=2017071807fx2017071807fr",
+      "execution_orders_count": 11,
+      "execution_orders_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arrexec=1&lg_txt=f&type=&sort=&numac_search=2017204094&cn_search=2017071807&caller=eli&&view_numac=2017071807fx2017071807fr"
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/loi/2017/07/18/2017204094/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2017/08/04_1.pdf#Page7",
+    "consolidated_pdf_url": "https://www.ejustice.just.fgov.be/img_l/pdf/2017/07/18/2017204094_F.pdf"
+  },
+  "document_hierarchy": [
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 1er. Disposition introductive",
+      "metadata": {
+        "title_type": "CHAPITRE 1er.",
+        "title_content": "Disposition introductive",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 1er",
+          "metadata": {
+            "article_range": "1er",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1er",
+            "anchor_id": "art_1er",
+            "content": {
+              "main_text": ". La présente loi règle une matière visée à l'article 74 de la Constitution.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 2. Définitions",
+      "metadata": {
+        "title_type": "CHAPITRE 2.",
+        "title_content": "Définitions",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 2",
+          "metadata": {
+            "article_range": "2",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "2",
+            "anchor_id": "art_2",
+            "content": {
+              "main_text": "Au sens de la présente loi, il y a lieu d'entendre par :  \n  1° [1 acte de terrorisme: un acte de terrorisme visé à l'article 5 de la loi du [...] 2023 relative à l'indemnisation des victimes d'un acte de terrorisme et relative à l'assurance contre les dommages causés par le terrorisme;]1  \n  2° fait dommageable : l'atteinte à l'intégrité physique et/ou psychique d'une personne causée directement et nécessairement par les actes de terrorisme commis en Belgique ou à l'étranger;  \n  3° dommage humain : les infirmités physiques et/ou psychiques, l'aggravation d'infirmités étrangères au fait dommageable et le décès, causés directement et nécessairement par le fait dommageable;  \n  4° victime : la personne ayant subi un dommage humain constaté;  \n  a) victime directe : la victime qui se trouvait sur les lieux de l'acte de terrorisme au moment de cet acte;  \n  b) victime indirecte : la victime qui est soit un successible au sens de l'article 731 du Code civil jusqu'au deuxième degré inclus d'une victime directe, soit un allié de la victime directe jusqu'au même degré inclus, ainsi que la personne qui peut prouver un rapport affectif durable avec la victime directe au moment du fait dommageable;  \n  5° ayant droit :  \n  a) le conjoint survivant ou le cohabitant légal ou de fait survivant de la victime directe;  \n  b) les enfants à charge au moment de l'acte de terrorisme de la victime directe décédée à cause de l'acte de terrorisme;  \n  6° cohabitant de fait : la personne qui avant le fait dommageable cohabite de manière permanente et affective avec la victime directe, chez laquelle elle a sa résidence principale. La preuve de la cohabitation et de la résidence principale est fournie au moyen d'un extrait du registre de la population;  \n  7° loi générale : la loi du 15 mars 1954 relative aux pensions de dédommagement des victimes civiles de la guerre 1940-1945 et de leurs ayants droit;  \n  8° ministre : le ministre qui est compétent en matière des victimes de la guerre;  \n  9° Direction générale Victimes de la guerre : la Direction générale Victimes de la guerre du Service public fédéral Sécurité sociale;  \n  10° Office médico-légal : l'Office médico-légal de l'Administration de l'expertise médicale du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement;  \n  11° Commission : la Commission des soins de santé visée à l'article 4 de l'arrêté royal du 19 septembre 1985 fixant les modalités selon lesquelles l'Etat assure la gratuité des soins aux invalides de guerre et assimilés, aux orphelins de guerre, à l'intervention de l'Institut national des invalides de guerre, anciens combattants et victimes de guerre.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "[1 acte de terrorisme: un acte de terrorisme visé à l'article 5 de la loi du [...] 2023 relative à l'indemnisation des victimes d'un acte de terrorisme et relative à l'assurance contre les dommages causés par le terrorisme;]1",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "fait dommageable : l'atteinte à l'intégrité physique et/ou psychique d'une personne causée directement et nécessairement par les actes de terrorisme commis en Belgique ou à l'étranger;",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "dommage humain : les infirmités physiques et/ou psychiques, l'aggravation d'infirmités étrangères au fait dommageable et le décès, causés directement et nécessairement par le fait dommageable;",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "victime : la personne ayant subi un dommage humain constaté;",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "ayant droit :",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "cohabitant de fait : la personne qui avant le fait dommageable cohabite de manière permanente et affective avec la victime directe, chez laquelle elle a sa résidence principale. La preuve de la cohabitation et de la résidence principale est fournie au moyen d'un extrait du registre de la population;",
+                  "sub_items": []
+                },
+                {
+                  "number": "7°",
+                  "text": "loi générale : la loi du 15 mars 1954 relative aux pensions de dédommagement des victimes civiles de la guerre 1940-1945 et de leurs ayants droit;",
+                  "sub_items": []
+                },
+                {
+                  "number": "8°",
+                  "text": "ministre : le ministre qui est compétent en matière des victimes de la guerre;",
+                  "sub_items": []
+                },
+                {
+                  "number": "9°",
+                  "text": "Direction générale Victimes de la guerre : la Direction générale Victimes de la guerre du Service public fédéral Sécurité sociale;",
+                  "sub_items": []
+                },
+                {
+                  "number": "10°",
+                  "text": "Office médico-légal : l'Office médico-légal de l'Administration de l'expertise médicale du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement;",
+                  "sub_items": []
+                },
+                {
+                  "number": "11°",
+                  "text": "Commission : la Commission des soins de santé visée à l'article 4 de l'arrêté royal du 19 septembre 1985 fixant les modalités selon lesquelles l'Etat assure la gratuité des soins aux invalides de guerre et assimilés, aux orphelins de guerre, à l'intervention de l'Institut national des invalides de guerre, anciens combattants et victimes de guerre.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<L [2024-05-03/25](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024050325), art. 44, 003; En vigueur : 15-06-2024>",
+              "law_reference": {
+                "law_type": "L",
+                "date_reference": "2024-05-03/25",
+                "article_number": "art. 44",
+                "sequence_number": "003",
+                "full_reference": "L [2024-05-03/25]"
+              },
+              "effective_date": "15-06-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024050325",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024050325#Art.2"
+            }
+          ],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 3. Champ d'application",
+      "metadata": {
+        "title_type": "CHAPITRE 3.",
+        "title_content": "Champ d'application",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 3",
+          "metadata": {
+            "article_range": "3",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "3",
+            "anchor_id": "art_3",
+            "content": {
+              "main_text": "La présente loi est applicable aux victimes et à leurs ayants droit qui ont la nationalité belge au jour du fait dommageable ainsi qu'au moment de la décision d'octroi du statut de solidarité nationale ou de la pension de dédommagement.  \n La présente loi est d'application aux victimes et aux ayants droit qui, n'ayant pas la nationalité belge, résidaient au moment du fait dommageable de façon habituelle en Belgique, au sens de l'article 4 de la loi du 16 juillet 2004 portant le Code de droit international privé.  \n La présente loi est d'application aux victimes et aux ayants droit qui n'ont pas la nationalité belge et qui ne résidaient pas de façon habituelle en Belgique comme visé à l'alinéa 2. Le Roi détermine les modalités pratiques selon lesquelles les dispositions de la présente loi s'appliquent. Les frais générés par l'octroi des avantages financiers qui découlent de l'octroi du statut de solidarité nationale aux victimes visées par le présent alinéa sont imputés au Fonds visé aux articles 28 et 42bis, alinéa 5, de la loi du 1er août 1985 portant des mesures fiscales et autres.  \n  La victime visée à l'alinéa 3 peut de manière prioritaire demander le statut et les avantages y liés visés par la présente loi.  \n  Sans préjudice de l'alinéa 4, les avantages visés par la présente loi ne peuvent être cumulés avec un mécanisme de solidarité équivalent de l'Etat de nationalité ou du lieu de résidence habituelle si la victime préfère y recourir.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<L [2019-01-15/13](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019011513), art. 12, 002; En vigueur : 22-03-2016>",
+              "law_reference": {
+                "law_type": "L",
+                "date_reference": "2019-01-15/13",
+                "article_number": "art. 12",
+                "sequence_number": "002",
+                "full_reference": "L [2019-01-15/13]"
+              },
+              "effective_date": "22-03-2016",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019011513",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019011513#Art.3"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 240,
+              "referenced_text": "La",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 La]1"
+            },
+            {
+              "reference_number": "1",
+              "text_position": 526,
+              "referenced_text": "La présente loi est d'application aux victimes et aux ayants droit qui n'ont pas la nationalité belge et qui ne résidaient pas de façon habituelle en Belgique comme visé à l'alinéa 2. Le Roi détermine les modalités pratiques selon lesquelles les dispositions de la présente loi s'appliquent. Les frais générés par l'octroi des avantages financiers qui découlent de l'octroi du statut de solidarité nationale aux victimes visées par le présent alinéa sont imputés au Fonds visé aux articles 28 et 42bis, alinéa 5, de la loi du 1er août 1985 portant des mesures fiscales et autres.  \n  La victime visée à l'alinéa 3 peut de manière prioritaire demander le statut et les avantages y liés visés par la présente loi.  \n  Sans préjudice de l'alinéa 4, les avantages visés par la présente loi ne peuvent être cumulés avec un mécanisme de solidarité équivalent de l'Etat de nationalité ou du lieu de résidence habituelle si la victime préfère y recourir.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 La présente loi est d'application aux victimes et aux ayants droit qui n'ont pas la nationalité belge et qui ne résidaient pas de façon habituelle en Belgique comme visé à l'alinéa 2. Le Roi détermine les modalités pratiques selon lesquelles les dispositions de la présente loi s'appliquent. Les frais générés par l'octroi des avantages financiers qui découlent de l'octroi du statut de solidarité nationale aux victimes visées par le présent alinéa sont imputés au Fonds visé aux articles 28 et 42bis, alinéa 5, de la loi du 1er août 1985 portant des mesures fiscales et autres.  \n  La victime visée à l'alinéa 3 peut de manière prioritaire demander le statut et les avantages y liés visés par la présente loi.  \n  Sans préjudice de l'alinéa 4, les avantages visés par la présente loi ne peuvent être cumulés avec un mécanisme de solidarité équivalent de l'Etat de nationalité ou du lieu de résidence habituelle si la victime préfère y recourir.]1"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Art. 4",
+          "metadata": {
+            "article_range": "4",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "4",
+            "anchor_id": "art_4",
+            "content": {
+              "main_text": "La présente loi s'applique aux victimes des actes de terrorisme à l'exclusion des personnes qui :  \n  1° sont auteurs, co-auteurs ou complices des actes de terrorisme;  \n  2° en raison d'actes commis à l'occasion d'une infraction visée au Titre Ierter du Code pénal, ont provoqué un dommage à une autre personne.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "sont auteurs, co-auteurs ou complices des actes de terrorisme;",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "en raison d'actes commis à l'occasion d'une infraction visée au Titre Ierter du Code pénal, ont provoqué un dommage à une autre personne.",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 4. Octroi d'une pension de dédommagement aux victimes directes et à leurs ayants droit",
+      "metadata": {
+        "title_type": "CHAPITRE 4.",
+        "title_content": "Octroi d'une pension de dédommagement aux victimes directes et à leurs ayants droit",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 5",
+          "metadata": {
+            "article_range": "5",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "5",
+            "anchor_id": "art_5",
+            "content": {
+              "main_text": "Une pension de dédommagement est octroyée aux victimes directes d'actes de terrorisme qui remplissent les conditions énoncées dans la présente loi et auxquelles une invalidité de 10 % ou plus est reconnue en raison d'un dommage humain. Cette pension de dédommagement est octroyée aux conditions prévues par le chapitre II de la loi générale, à l'exclusion toutefois de la majoration de pension visée à l'article 6, § 3 et § 3bis, de la loi générale.  \n  Les décès des victimes directes donnent droit aux ayants droit, aux pensions et indemnités déterminées par les articles 12, § 1er, 13, § 1er, alinéa 1er, 14, 14bis, 17bis et 17ter du chapitre II de la loi générale. Le Roi détermine la manière dont les pensions et indemnités sont réparties entre les ayants droit s'il y a plusieurs ayants droit.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 6",
+          "metadata": {
+            "article_range": "6",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "6",
+            "anchor_id": "art_6",
+            "content": {
+              "main_text": "La pension de dédommagement visée à l'article 5 constitue une réparation résiduaire : toute indemnisation à laquelle donne droit le même fait dommageable en est déduite, à l'exception de l'indemnisation résultant d'une assurance individuelle.  \n  S'il s'agit d'indemnités payées sous forme de rente, sont seules déduites les sommes échues ultérieurement à la date d'entrée en jouissance de la pension de dédommagement.  \n  S'il s'agit d'une indemnité en capital, celle-ci est convertie fictivement en rente, prenant cours à la date du dommage humain suivant les barèmes en vigueur, et la règle visée à l'alinéa 2 est appliquée.  \n  A concurrence des sommes payées en exécution de la présente loi, l'Etat est subrogé aux droits et recours que les victimes ou leurs ayants droit peuvent exercer à la suite du dommage humain subi.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 7",
+          "metadata": {
+            "article_range": "7",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "7",
+            "anchor_id": "art_7",
+            "content": {
+              "main_text": "§ 1er. Quel que soit l'âge de la victime, le taux d'invalidité est révisé par l'Office médico-légal cinq ans après la décision initiale octroyant la pension de dédommagement. Ce délai prend cours le jour où cette décision est exécutoire.  \n  La révision quinquennale est également applicable aux victimes à qui l'Office médico-légal a reconnu un taux d'invalidité inférieur à 10 %.  \n  § 2. Lorsque la pension de dédommagement est accordée pour plusieurs infirmités physiques et/ou psychiques, à l'égard desquelles il a été statué par des décisions différentes, chacune de ces décisions donne lieu séparément à révision dans le délai prévu par le paragraphe 1er.  \n  § 3. Lors de la révision quinquennale, l'Office médico-légal décide si l'invalidité accordée à la victime l'est à titre permanent ou si une révision périodique est nécessaire. L'Office médico-légal fixe la date de la prochaine révision.  \n  § 4. L'examen médical auquel est soumise la victime lors de la révision de la pension de dédommagement temporaire est fait par d'autres médecins que ceux l'ayant examiné précédemment.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 8",
+          "metadata": {
+            "article_range": "8",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "8",
+            "anchor_id": "art_8",
+            "content": {
+              "main_text": "La pension de dédommagement prend cours au plus tôt le premier jour du mois durant lequel le fait dommageable se produit ou le premier jour du mois durant lequel la victime décède s'il s'agit d'un ayant droit, à la condition qu'il ne se soit pas écoulé plus de vingt-quatre mois entre la date du fait dommageable ou la date du décès de la victime, d'une part, et la date de la demande de pension de dédommagement d'autre part.  \n  Le délai de vingt-quatre mois ne commence à courir qu'à partir du moment où la victime est capable d'exercer ses droits.  \n  Si plus de vingt-quatre mois se sont écoulés entre la date du fait dommageable ou la date du décès de la victime, d'une part, et la date de la demande de pension de dédommagement, d'autre part, la pension de dédommagement prend cours au plus tôt le premier jour du mois durant lequel la pension de dédommagement est demandée.  \n  Le ministre peut, sur avis de l'Office médico-légal, fixer une date postérieure en cas d'échelle progressive d'invalidité ou déterminer une échelle dégressive d'invalidité.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 9",
+          "metadata": {
+            "article_range": "9",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "9",
+            "anchor_id": "art_9",
+            "content": {
+              "main_text": "Par dérogation à l'article 8, si la pension de dédommagement concerne un fait dommageable qui s'est produit avant la publication de la présente loi au Moniteur belge, la pension de dédommagement prend cours le premier jour du mois durant lequel le fait dommageable se produit ou le premier jour du mois durant lequel la victime décède s'il s'agit d'un ayant droit, mais au plus tôt à la date d'entrée en vigueur de la présente loi.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 5. Remboursement des soins médicaux aux victimes",
+      "metadata": {
+        "title_type": "CHAPITRE 5.",
+        "title_content": "Remboursement des soins médicaux aux victimes",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 10",
+          "metadata": {
+            "article_range": "10",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "10",
+            "anchor_id": "art_10",
+            "content": {
+              "main_text": "§ 1er. Les victimes directes ont droit au remboursement des frais de soins médicaux, paramédicaux, pharmaceutiques, d'hospitalisation, des appareils d'orthopédie et des prothèses, nécessités par le fait dommageable, dans les mêmes conditions que celles fixées en faveur des invalides de guerre et assimilés, en exécution de l'article 1er de la loi du 1er juillet 1969 fixant le droit des invalides et des orphelins de guerre au bénéfice des soins de santé aux frais de l'Etat.  \n  Le Roi peut déterminer les modalités de remboursement des frais de déplacement liés aux soins de santé exposés suite au fait dommageable lorsque l'avantage du transport public gratuit ne répond qu'insuffisamment aux besoins de la victime.  \n  § 2. Les victimes directes et les victimes indirectes ont droit au remboursement des frais de soins psychologiques, de soins médicaux, paramédicaux, pharmaceutiques et d'hospitalisation nécessités par un fait dommageable, dans les mêmes conditions que celles fixées en faveur des invalides de guerre et assimilés, en exécution de l'article 1er de la loi du 1er juillet 1969 fixant le droit des invalides et des orphelins de guerre au bénéfice des soins de santé aux frais de l'Etat, pour autant que ces soins soient liés à des troubles psychiques et/ou psychosomatiques causés par le fait dommageable.  \n  § 3. Le Roi peut déterminer quelles pièces justificatives doivent être présentées afin de recevoir ces remboursements.  \n  Pour le remboursement des soins psychologiques, le Roi peut, par arrêté délibéré en Conseil des ministres, fixer les montants maximum d'intervention, le nombre, la périodicité et les modalités des soins admissibles au remboursement.  \n  Si une victime doit recourir à un prestataire de soins non conventionné ou bénéficier d'une prestation de santé non prévue dans la nomenclature des prestations de santé établie en exécution de la législation relative à l'assurance obligatoire soins de santé et indemnités, le ministre qui a les Affaires sociales dans ses attributions peut, sur avis de la Commission, accorder un remboursement fixé en fonction de son caractère raisonnable en vue de la guérison de la victime. Sous sa responsabilité et sous son contrôle, le ministre peut déléguer les pouvoirs attribués par le présent alinéa à l'administrateur général de la Caisse auxiliaire d'assurance maladie-invalidité..  \n  § 4. L'identité des personnes visées aux paragraphes 1er et 2 est communiquée par la Direction générale Victimes de la guerre à l'Institut national d'assurance maladie-invalidité et à la Caisse auxiliaire d'assurance maladie-invalidité.  \n  Si la personne est affiliée auprès d'un organisme assureur, l'Institut national d'assurance maladie-invalidité transmet son identité à cet organisme assureur afin que celui-ci puisse octroyer les remboursements dus par l'assurance obligatoire soins de santé et indemnités.  \n  Si la personne n'est affiliée auprès d'aucun organisme assureur, l'Institut national d'assurance maladie-invalidité communique cette information à la Caisse auxiliaire d'assurance maladie-invalidité, afin qu'elle puisse octroyer elle-même directement l'ensemble des remboursements dus.  \n  § 5. L'organisme assureur octroie les interventions dues en vertu du titre III de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994. Il introduit auprès de la Caisse auxiliaire d'assurance maladie-invalidité, pour le compte de son assuré, les documents nécessaires pour que celui-ci puisse obtenir les remboursements complémentaires octroyés par cette Caisse conformément aux paragraphes 1er, 2 et 3.  \n  § 6. Les compétences de la Commission des soins de santé sont intégralement applicables aux remboursements prévus par le présent article.  \n  § 7. Les remboursements prévus par le présent chapitre sont octroyés à titre résiduaire : toute indemnisation à laquelle donne droit le même fait dommageable en est déduite, à l'exception de l'indemnisation résultant d'une assurance individuelle.  \n  Les remboursements prévus par le présent chapitre sont octroyés en attendant que l'indemnisation à laquelle donne lieu le même fait dommageable ait effectivement été octroyée. L'organisme assureur et la Caisse auxiliaire d'assurance maladie-invalidité sont subrogés de plein droit à la victime, à concurrence du montant des remboursements octroyés en vertu du présent chapitre.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<L [2019-01-15/13](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019011513), art. 13, 002; En vigueur : 22-03-2016>",
+              "law_reference": {
+                "law_type": "L",
+                "date_reference": "2019-01-15/13",
+                "article_number": "art. 13",
+                "sequence_number": "002",
+                "full_reference": "L [2019-01-15/13]"
+              },
+              "effective_date": "22-03-2016",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019011513",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019011513#Art.10"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 1963,
+              "referenced_text": "le ministre qui a les Affaires sociales dans ses attributions peut, sur avis de la Commission, accorder un remboursement fixé en fonction de son caractère raisonnable en vue de la guérison de la victime. Sous sa responsabilité et sous son contrôle, le ministre peut déléguer les pouvoirs attribués par le présent alinéa à l'administrateur général de la Caisse auxiliaire d'assurance maladie-invalidité.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 le ministre qui a les Affaires sociales dans ses attributions peut, sur avis de la Commission, accorder un remboursement fixé en fonction de son caractère raisonnable en vue de la guérison de la victime. Sous sa responsabilité et sous son contrôle, le ministre peut déléguer les pouvoirs attribués par le présent alinéa à l'administrateur général de la Caisse auxiliaire d'assurance maladie-invalidité.]1"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Art. 11",
+          "metadata": {
+            "article_range": "11",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "11",
+            "anchor_id": "art_11",
+            "content": {
+              "main_text": "Le droit au remboursement des soins médicaux prend cours à la date du fait dommageable, mais au plus tôt à la date d'entrée en vigueur de la présente loi.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 12",
+          "metadata": {
+            "article_range": "12",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "12",
+            "anchor_id": "art_12",
+            "content": {
+              "main_text": "Les compétences relatives au remboursement des soins médicaux sont exercées par la Caisse auxiliaire d'assurance maladie-invalidité.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 6. Octroi du statut de solidarité nationale aux victimes d'actes de terrorisme",
+      "metadata": {
+        "title_type": "CHAPITRE 6.",
+        "title_content": "Octroi du statut de solidarité nationale aux victimes d'actes de terrorisme",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 13",
+          "metadata": {
+            "article_range": "13",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "13",
+            "anchor_id": "art_13",
+            "content": {
+              "main_text": "Il est créé un statut de solidarité nationale pour les victimes d'actes de terrorisme.  \n  Ce statut est attribué aux victimes.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 14",
+          "metadata": {
+            "article_range": "14",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "14",
+            "anchor_id": "art_14",
+            "content": {
+              "main_text": "Le statut de solidarité nationale est accordé à titre personnel.  \n  Le statut de solidarité nationale peut également être octroyé à titre posthume à une victime directe décédée à la suite d'un acte de terrorisme.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 15",
+          "metadata": {
+            "article_range": "15",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "15",
+            "anchor_id": "art_15",
+            "content": {
+              "main_text": "Pour l'octroi du statut de solidarité nationale, le ministre statue sur pièces.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 16",
+          "metadata": {
+            "article_range": "16",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "16",
+            "anchor_id": "art_16",
+            "content": {
+              "main_text": "Toute décision d'attribution du statut de solidarité nationale donne lieu à la délivrance d'une carte de solidarité nationale dont le Roi détermine le modèle.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 17",
+          "metadata": {
+            "article_range": "17",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "17",
+            "anchor_id": "art_17",
+            "content": {
+              "main_text": "Les victimes qui bénéficient du statut de solidarité nationale sont associées aux hommages de la Nation à leur endroit.  \n  Le Roi détermine les modalités d'application du présent article.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 7. Procédure",
+      "metadata": {
+        "title_type": "CHAPITRE 7.",
+        "title_content": "Procédure",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "section",
+          "label": "Section 1re. De l'introduction des demandes",
+          "metadata": {
+            "title_type": "Section 1re.",
+            "title_content": "De l'introduction des demandes",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Art. 18",
+              "metadata": {
+                "article_range": "18",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "18",
+                "anchor_id": "art_18",
+                "content": {
+                  "main_text": "§ 1er. La demande d'octroi du statut de solidarité nationale et de la demande de pension de dédommagement en vertu de la présente loi sont introduites auprès de la Commission pour l'aide financière aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels.  \n  La Commission pour l'aide financière aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels peut, dans le cadre de l'application de la présente loi, communiquer à la Direction générale Victimes de la guerre toutes les données visées aux articles 34 à 34ter de la loi du 1er août 1985 portant des mesures fiscales et autres.  \n  Une demande de pension de dédommagement en vertu de la présente loi implique automatiquement une demande d'octroi du statut de solidarité nationale.  \n  § 2. La demande, signée par la victime ou son ayant droit, contient :  \n  1° l'indication précise du fait dommageable, de son lieu et de sa date;  \n  2° les circonstances dans lesquelles le dommage humain s'est produit;  \n  3° la description du dommage humain subi.  \n  Cette demande est accompagnée de toutes les pièces justificatives utiles.  \n  Le demandeur établit par toute voie de droit qu'il réunit les conditions prévues par la présente loi. Le Roi détermine les modalités d'application du présent alinéa.",
+                  "numbered_provisions": [
+                    {
+                      "number": "1°",
+                      "text": "l'indication précise du fait dommageable, de son lieu et de sa date;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "les circonstances dans lesquelles le dommage humain s'est produit;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "3°",
+                      "text": "la description du dommage humain subi.",
+                      "sub_items": []
+                    }
+                  ]
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "Section 2. De l'instruction des demandes",
+          "metadata": {
+            "title_type": "Section 2.",
+            "title_content": "De l'instruction des demandes",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Art. 19",
+              "metadata": {
+                "article_range": "19",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "19",
+                "anchor_id": "art_19",
+                "content": {
+                  "main_text": "§ 1er. Les demandes de pension de dédommagement pour les victimes directes sont instruites par la Direction générale Victimes de la guerre.  \n  Si la demande apparaît dès l'origine comme manifestement non recevable ou non fondée, le ministre la rejette sur proposition de la Direction générale Victimes de la guerre, sans qu'il soit recouru à l'Office médico-légal. Dans les autres cas, la Direction générale Victimes de la guerre soumet d'office le demandeur à une expertise médicale de l'Office médico-légal.  \n  Lorsque le dommage consiste en infirmités physiques et/ou psychiques ou en une aggravation de celles-ci, l'Office médico-légal en détermine :  \n  1° l'étiologie et la pathogénie;  \n  2° la relation médicale de causalité;  \n  3° le degré et la durée de l'invalidité résultant du dommage humain.  \n  Le ministre décide si une pension de dédommagement est octroyée sur proposition de la Direction générale Victimes de la guerre. Le cas échéant, cette proposition mentionne quel degré total d'invalidité doit être attribué sur la base du rapport de l'expertise médicale.  \n  § 2. Les demandes de pension de dédommagement pour les ayants droit sont instruites par la Direction générale Victimes de la guerre.  \n  Si la demande est manifestement non recevable ou non fondée, la Direction générale Victimes de la guerre soumet au ministre une proposition de rejet, sans que l'intervention de l'Office médico-légal ne soit demandée.  \n  Si la demande est recevable et fondée et s'il appert des éléments du dossier qu'il y a un fait dommageable et que le décès est la conséquence directe et nécessaire du fait dommageable, le ministre, sur proposition de la Direction générale Victimes de la guerre et sans qu'il soit recouru à l'Office médico-légal, accorde la pension de dédommagement.  \n  Si la demande est recevable et fondée et s'il appert des éléments du dossier qu'il y a un fait dommageable mais qu'il n'est pas certain que le décès est la conséquence directe et nécessaire du fait dommageable, la Direction générale Victimes de la guerre transmet le dossier du demandeur à l'Office médico-légal.  \n  En cas de décès, l'Office médico-légal en détermine :  \n  1° les causes médicales admissibles;  \n  2° la relation médicale de causalité entre l'acte de terrorisme et le décès.  \n  Toutefois, lorsque le décès résulte d'une infirmité physique et/ou psychique ayant donné lieu préalablement à une pension de dédommagement à charge de l'Etat en vertu de la présente loi, la mission de l'Office médico-légal se limite à déterminer la relation médicale de causalité entre l'infirmité physique et/ou psychique et le décès, ainsi que la mesure dans laquelle celui-ci est imputable à l'infirmité physique et/ou psychique.  \n  La Direction générale Victimes de la guerre soumet au ministre une proposition de décision concernant l'octroi de la pension de dédommagement.  \n  § 3. Lors des révisions quinquennales visées à l'article 7, le ministre maintient ou augmente la pension de dédommagement, sans autre procédure, conformément aux conclusions de l'Office médico-légal.  \n  Par contre, s'il ressort des conclusions de l'Office médico-légal que la pension de dédommagement paraît devoir être réduite ou supprimée, la Direction générale Victimes de la guerre soumet au ministre une proposition de décision.  \n  § 4. Le Roi peut fixer des modalités d'application particulières pour l'instruction des demandes visées au présent article.",
+                  "numbered_provisions": [
+                    {
+                      "number": "1°",
+                      "text": "l'étiologie et la pathogénie;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "la relation médicale de causalité;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "3°",
+                      "text": "le degré et la durée de l'invalidité résultant du dommage humain.",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "1°",
+                      "text": "les causes médicales admissibles;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "la relation médicale de causalité entre l'acte de terrorisme et le décès.",
+                      "sub_items": []
+                    }
+                  ]
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "Section 3. De la révision des pensions de dédommagement",
+          "metadata": {
+            "title_type": "Section 3.",
+            "title_content": "De la révision des pensions de dédommagement",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Art. 20",
+              "metadata": {
+                "article_range": "20",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "20",
+                "anchor_id": "art_20",
+                "content": {
+                  "main_text": "§ 1er. La victime directe peut en tout temps introduire une demande de révision en raison d'aggravation, de complications ou de séquelles d'infirmités physiques et/ou psychiques ayant donné lieu à une pension de dédommagement.  \n  § 2. Peuvent, dans les mêmes conditions, solliciter la révision de leur cas :  \n  1° ceux qui ont été déboutés parce que le degré d'invalidité était insuffisant pour ouvrir un droit à une pension de dédommagement ou parce que l'infirmité physique et/ou psychique constatée et reconnue imputable au fait dommageable n'entraînait pas d'invalidité;  \n  2° ceux qui ont perdu la jouissance d'une pension de dédommagement temporaire parce que le degré d'invalidité n'atteignait plus le minimum requis.  \n  § 3. Le demandeur en révision est soumis à un examen médical portant uniquement sur les blessures et infirmités physiques et/ou psychiques imputables au fait dommageable pour laquelle ou lesquelles il a explicitement sollicité la révision.  \n  § 4. Le taux d'invalidité n'est révisé que si l'examen médical révèle une augmentation d'au moins 5 % d'invalidité par rapport au taux total d'invalidité antérieurement reconnu, sauf s'il s'agit de porter le taux d'invalidité à 10 % ou plus.  \n  § 5. Pour l'application des paragraphes 3 et 4, le nouveau taux d'invalidité est calculé conformément aux dispositions de l'article 7 de la loi générale et est éventuellement arrondi au multiple de 5 immédiatement supérieur conformément à l'article 6, § 1er, ou l'article 7, § 2, de la loi générale.  \n  La procédure est celle qui est prévue à l'article 19, § 3.  \n  § 6. Le Roi peut fixer des modalités d'application particulières pour l'instruction des demandes visées à la présente section.",
+                  "numbered_provisions": [
+                    {
+                      "number": "1°",
+                      "text": "ceux qui ont été déboutés parce que le degré d'invalidité était insuffisant pour ouvrir un droit à une pension de dédommagement ou parce que l'infirmité physique et/ou psychique constatée et reconnue imputable au fait dommageable n'entraînait pas d'invalidité;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "ceux qui ont perdu la jouissance d'une pension de dédommagement temporaire parce que le degré d'invalidité n'atteignait plus le minimum requis.",
+                      "sub_items": []
+                    }
+                  ]
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Art. 21",
+              "metadata": {
+                "article_range": "21",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "21",
+                "anchor_id": "art_21",
+                "content": {
+                  "main_text": "Les demandes en révision sont introduites auprès de la Direction générale Victimes de la guerre. A la demande en révision est joint, à peine de nullité, un certificat médical circonstancié exposant la nature de l'aggravation, de la complication ou de la séquelle invoquée.  \n  La demande en révision sort ses effets le premier jour du mois au cours duquel elle a été introduite.",
+                  "numbered_provisions": []
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Art. 22",
+              "metadata": {
+                "article_range": "22",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "22",
+                "anchor_id": "art_22",
+                "content": {
+                  "main_text": "En cas de modification du barème des invalidités visé à l'article 7, § 1er, de la loi générale, les décisions exécutoires non conformes à ces modifications sont révisées, soit à l'initiative du ministre, soit à la demande de l'intéressé, introduite dans un délai de trois mois à dater de l'entrée en vigueur de la modification.  \n  La décision en révision est prise par le ministre. Elle a effet le premier jour du trimestre qui suit celui au cours duquel la modification a été publiée.  \n  Toutefois, il n'est pas procédé à la révision lorsque celle-ci aurait pour effet de réduire le taux d'invalidité reconnu antérieurement.",
+                  "numbered_provisions": []
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Art. 23",
+              "metadata": {
+                "article_range": "23",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "23",
+                "anchor_id": "art_23",
+                "content": {
+                  "main_text": "Les décisions exécutoires prises par le ministre en vertu des articles 19, 20 et 22 sont susceptibles de révision, soit pour erreur de fait ou de droit, soit à la suite de la production d'éléments nouveaux justifiant la révision.  \n  La révision s'opère soit à l'initiative du ministre, soit à la demande de l'intéressé, notifiée au ministre. Sauf lorsqu'elle est fondée sur la production d'éléments nouveaux, la révision est provoquée à peine de forclusion dans un délai de dix ans à dater du jour où la décision est devenue exécutoire.  \n  Si la révision s'opère à l'initiative du ministre, celui-ci peut ordonner la suspension en tout ou en partie du paiement des pensions de dédommagement, majorations et allocations accordées en vertu de la présente loi.  \n  La révision sort ses effets le premier jour du mois de l'introduction de la demande en révision. Toutefois les effets de la révision peuvent, sur décision motivée, rétroagir à une date antérieure :  \n  1° en cas d'erreur de l'autorité;  \n  2° en cas de manoeuvres frauduleuses ou de déclarations fausses ou sciemment incomplètes des bénéficiaires.  \n  Les sommes payées indûment aux demandeurs ne sont récupérables que dans les cas visés à l'alinéa 4, 2°.",
+                  "numbered_provisions": [
+                    {
+                      "number": "1°",
+                      "text": "en cas d'erreur de l'autorité;",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "en cas de manoeuvres frauduleuses ou de déclarations fausses ou sciemment incomplètes des bénéficiaires.",
+                      "sub_items": []
+                    }
+                  ]
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "Section 4. De la procédure de conciliation",
+          "metadata": {
+            "title_type": "Section 4.",
+            "title_content": "De la procédure de conciliation",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Art. 24",
+              "metadata": {
+                "article_range": "24",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "24",
+                "anchor_id": "art_24",
+                "content": {
+                  "main_text": "§ 1er. Le Roi organise, par arrêté délibéré en Conseil des ministres, une procédure amiable, facultative et gratuite de conciliation dans le cadre de l'application de la présente loi qui peut être introduite par toute victime ou tout ayant droit, indépendamment de toute action en responsabilité. Au moins un représentant de la Direction générale Victimes de la guerre, un représentant de l'Office médico-légal et le président de la Commission pour l'aide financière aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels, son suppléant, ou le secrétaire ou un secrétaire adjoint désigné par le président de cette Commission, tels que visés à l'article 30, § 2, alinéas 2, 4 et 6, de la loi du 1er août 1985 portant des mesures fiscales et autres, sont impliqués dans la procédure.  \n  Le Roi, par arrêté délibéré en Conseil des ministres, détermine les conditions et modalités d'application de la présente section.  \n  § 2. Cette conciliation s'exerce sans préjudice des compétences des médiateurs fédéraux visées dans la loi du 22 mars 1995 instaurant des médiateurs fédéraux.",
+                  "numbered_provisions": []
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Art. 25",
+              "metadata": {
+                "article_range": "25",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "25",
+                "anchor_id": "art_25",
+                "content": {
+                  "main_text": "Les procédures de recours auprès des chambres médicales d'appel prévues dans l'arrêté royal du 11 avril 1975 réorganisant l'Office médico-légal sont d'application dans le cadre de la présente loi. Dans le cadre des missions prévues par la présente loi, les médecins de l'Office médico-légal ont accès aux dossiers médicaux constitués dans le cadre d'autres expertises liées à la réparation du dommage subi dans le cadre d'actes de terrorisme.  \n  Les procédures de recours auprès de la commission supérieure d'appel de la Direction générale Victimes de la guerre prévues dans la loi générale sont d'application dans le cadre de la présente loi.",
+                  "numbered_provisions": []
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "Section 5. Du paiement des pensions de dédommagement",
+          "metadata": {
+            "title_type": "Section 5.",
+            "title_content": "Du paiement des pensions de dédommagement",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Art. 26",
+              "metadata": {
+                "article_range": "26",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "26",
+                "anchor_id": "art_26",
+                "content": {
+                  "main_text": "Le paiement des pensions de dédommagement prévues par la présente loi est assuré par le Service fédéral des Pensions suivant les modalités de déchéance, d'incessibilité et d'insaisissabilité qui régissent les pensions des victimes civiles accordées en vertu de la loi générale.  \n  Les pensions de dédommagement, majorations de pensions et indemnités accordées en vertu de la présente loi varient selon l'indice général des prix à la consommation aux mêmes conditions que celles prévues pour les pensions de dédommagement, majorations de pensions et indemnités accordées en vertu de la loi générale.",
+                  "numbered_provisions": []
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 8. Modification de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994",
+      "metadata": {
+        "title_type": "CHAPITRE 8.",
+        "title_content": "Modification de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 27",
+          "metadata": {
+            "article_range": "27",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "27",
+            "anchor_id": "art_27",
+            "content": {
+              "main_text": "L'article 136, § 2, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, modifié en dernier lieu par la loi du 15 mai 2007, est complété par un alinéa rédigé comme suit :  \n  \" Pour les prestations prévues au titre IV, le présent paragraphe n'est pas applicable aux indemnisations octroyées en application de la loi du 18 juillet 2017 relative à la création du statut de solidarité nationale, à l'octroi d'une pension de dédommagement et au remboursement des soins médicaux à la suite d'actes de terrorisme.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 9. Modification de la loi du 1er août 1985 portant des mesures fiscales et autres",
+      "metadata": {
+        "title_type": "CHAPITRE 9.",
+        "title_content": "Modification de la loi du 1er août 1985 portant des mesures fiscales et autres",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 28",
+          "metadata": {
+            "article_range": "28",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "28",
+            "anchor_id": "art_28",
+            "content": {
+              "main_text": "L'article 30, § 2, de la loi du 1er août 1985 portant des mesures fiscales et autres, remplacé par la loi du 31 mai 2016, est complété par l'alinéa suivant :  \n  \" Les chambres spécialisées dans le traitement des affaires des victimes de terrorisme, visées à l'article 42bis, forment une division séparée de la Commission, dénommé \"Division Terrorisme.\" \".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 10. Litiges et recours",
+      "metadata": {
+        "title_type": "CHAPITRE 10.",
+        "title_content": "Litiges et recours",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 29",
+          "metadata": {
+            "article_range": "29",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "29",
+            "anchor_id": "art_29",
+            "content": {
+              "main_text": "Les litiges portant sur les droits résultant de la présente loi sont de la compétence des juridictions du travail.  \n  Le recours contre une décision du ministre ou de son délégué est formé dans les trois mois de sa notification.  \n  L'action introduite devant les juridictions du travail n'est pas suspensive.  \n  Dans les affaires dans lesquelles un expert médical est désigné, les provisions, les honoraires et les frais de cet expert, contenus dans le relevé établi conformément aux dispositions du Code judiciaire, sont indiqués en appliquant le tarif fixé par le Roi.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 11. Dispositions finales",
+      "metadata": {
+        "title_type": "CHAPITRE 11.",
+        "title_content": "Dispositions finales",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 30",
+          "metadata": {
+            "article_range": "30",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "30",
+            "anchor_id": "art_30",
+            "content": {
+              "main_text": "Les bénéficiaires d'une pension de dédommagement visée au chapitre 4 sont assimilés aux victimes civiles de la guerre visées par la loi générale en ce qui concerne les divers avantages, une exonération fiscale de la pension et la gratuité des transports publics, octroyés aux victimes civiles de la guerre et à leurs ayants droit.  \n  Les missions et le fonctionnement de l'Action sociale telle que prévue par la loi du 8 août 1981 portant création de l'Institut des vétérans - l'Institut national des invalides de guerre, anciens combattants et victimes de guerre ainsi que du Conseil supérieur des invalides de guerre, anciens combattants et victimes de guerre sont étendus aux victimes d'actes de terrorisme reconnues en exécution de la présente loi.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 31",
+          "metadata": {
+            "article_range": "31",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "31",
+            "anchor_id": "art_31",
+            "content": {
+              "main_text": "Sous sa responsabilité et sous son contrôle, le ministre peut déléguer les pouvoirs attribués par la présente loi à des fonctionnaires de la Direction générale Victimes de la guerre.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 12. Harmonisation des pensions des victimes civiles et militaires de la guerre",
+      "metadata": {
+        "title_type": "CHAPITRE 12.",
+        "title_content": "Harmonisation des pensions des victimes civiles et militaires de la guerre",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 32",
+          "metadata": {
+            "article_range": "32",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "32",
+            "anchor_id": "art_32",
+            "content": {
+              "main_text": "A l'article 6bis de la loi générale, inséré par la loi du 23 décembre 1970 et modifié par les lois des 15 juillet 1976, 30 décembre 1977, 11 juillet 1979 et 7 juin 1989, les modifications suivantes sont apportées :  \n  1° dans le paragraphe 1er, alinéa 1er, les mots \"sont proportionnés aux\" sont remplacés par les mots \"sont identiques aux\";  \n  2° le tableau reprenant les périodes et proportions des taux uniques des pensions des invalides visés par l'article 6, est complété comme suit :  \n  a) quant aux invalides visés à l'article 6, § 1er :  \n  \" Taux d'invalidité : de 10 à 100  \n  Période et proportion : 100 à partir du 1er juillet 2017 \";  \n  b) quant aux invalides visés à l'article 6, § 2 :  \n  \" Taux d'invalidité : de 10 à 100  \n  Période et proportion : 100 à partir du 1er juillet 2017 \";  \n  c) quant aux invalides visés à l'article 6, § 3 :  \n  \" Taux d'invalidité : de 10 à 100  \n  Période et proportion : 100 à partir du 1er juillet 2017 \";  \n  d) quant aux invalides visés à l'article 6, § 3bis :  \n  \" Taux d'invalidité : de 10 à 100  \n  Période et proportion : 100 à partir du 1er juillet 2017 \".  \n  e) quant aux invalides visés à l'article 6, § 1er, qui ont été déportés pour le travail obligatoire :  \n  \" Taux d'invalidité : de 10 à 100  \n  Période et proportion : 100 à partir du 1er juillet 2017 \".  \n  f) Quant aux invalides visés à l'article 6, § 2, qui ont été déportés pour le travail obligatoire au sens visé à la rubrique e) du présent article :  \n  \" Taux d'invalidité : de 10 à 100  \n  Période et proportion : 100 à partir du 1er juillet 2017 \".  \n  L'article 6bis, § 2, est abrogé.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "dans le paragraphe 1er, alinéa 1er, les mots \"sont proportionnés aux\" sont remplacés par les mots \"sont identiques aux\";",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "le tableau reprenant les périodes et proportions des taux uniques des pensions des invalides visés par l'article 6, est complété comme suit :",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 33",
+          "metadata": {
+            "article_range": "33",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "33",
+            "anchor_id": "art_33",
+            "content": {
+              "main_text": "Dans l'article 6ter de la même loi, inséré par la loi du 4 juin 1982, le mot \"proportionné\" est remplacé par le mot \"identique\".",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 34",
+          "metadata": {
+            "article_range": "34",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "34",
+            "anchor_id": "art_34",
+            "content": {
+              "main_text": "L'article 15 de la même loi, modifié en dernier lieu par la loi du 28 mai 1975, est complété par le paragraphe 3 rédigé comme suit :  \n  \" § 3. Les montants des pensions d'ascendants visées aux paragraphes 1er à 2ter sont fixés à 100 % des taux uniques des pensions attribuées aux ascendants bénéficiaires des lois sur les pensions de réparation coordonnées le 5 octobre 1948.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 35",
+          "metadata": {
+            "article_range": "35",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "35",
+            "anchor_id": "art_35",
+            "content": {
+              "main_text": "A l'article 2bis, § 1er, des lois sur les réparations à accorder aux victimes civiles de la guerre, coordonnées le 19 août 1921, inséré par la loi du 23 décembre 1970, les modifications suivantes sont apportées :  \n  1° le mot \"proportionnés\" est remplacé par le mot \"identiques\";  \n  2° le tableau reprenant les périodes et proportions des taux uniques des allocations des invalides visés à l'article 2, § 1er, alinéas 3 et 4, est complété comme suit :  \n  a) quant aux invalides visés à l'article 2, § 1er, alinéa 3 :  \n  \" Taux d'invalidité en % : de 10 à 100  \n  Période et proportion : 100 à partir du 1er juillet 2017 \"\";  \n  b) quant aux invalides visés à l'article 2, § 1er, alinéa 4 :  \n  \" Taux d'invalidité en % : de 10 à 100  \n  Période et proportion : 100 à partir du 1er juillet 2017 \".\"",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "le mot \"proportionnés\" est remplacé par le mot \"identiques\";",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "le tableau reprenant les périodes et proportions des taux uniques des allocations des invalides visés à l'article 2, § 1er, alinéas 3 et 4, est complété comme suit :",
+                  "sub_items": []
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 36",
+          "metadata": {
+            "article_range": "36",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "36",
+            "anchor_id": "art_36",
+            "content": {
+              "main_text": "§ 1er. Les montants annuels des pensions octroyées aux conjoints survivants visés à l'article 12, § 4, 1°, 1°bis, 1°ter et 1°quater, de la loi générale sont fixés à 100 % des taux uniques des pensions attribuées aux mêmes catégories de conjoints survivants bénéficiaires des lois sur les pensions de réparation coordonnées le 5 octobre 1948.  \n  § 2. Les montants annuels des pensions octroyées aux enfants visés à l'article 12, § 4, 2°, de la loi générale sont identiques aux montants annuels des pensions octroyées aux conjoints survivants tels que fixés au paragraphe 1er.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 37",
+          "metadata": {
+            "article_range": "37",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "37",
+            "anchor_id": "art_37",
+            "content": {
+              "main_text": "Les articles 32 à 36 ne font pas obstacle à la continuité de l'octroi des pensions de dédommagement aux victimes civiles des guerres 1914-1918 et 1940-1945 qui sont payées actuellement et dont le montant est plus élevé que celui des pensions de réparation analogues pour les victimes militaires de la guerre 1940-1945.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE 13. Entrée en vigueur",
+      "metadata": {
+        "title_type": "CHAPITRE 13.",
+        "title_content": "Entrée en vigueur",
+        "rank": 2
+      },
+      "children": []
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": [
+      {
+        "modification_type": "Loi",
+        "modification_date": "2024-05-03",
+        "publication_date": "2024-06-05",
+        "modified_articles": [
+          "2"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2024/06/05_1.pdf#Page153",
+        "full_title": "Loi du 03-05-2024 publié le 05-06-2024"
+      },
+      {
+        "modification_type": "Loi",
+        "modification_date": "2019-01-15",
+        "publication_date": "2019-02-08",
+        "modified_articles": [
+          "3",
+          "10"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2019/02/08_2.pdf#Page2",
+        "full_title": "Loi du 15-01-2019 publié le 08-02-2019"
+      }
+    ]
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-07-12T13:12:32.543852",
+    "source_file": "2017204094.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false
+    }
+  }
+}

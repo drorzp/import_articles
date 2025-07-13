@@ -1,0 +1,158 @@
+{
+  "document_metadata": {
+    "document_number": "2017032104",
+    "title": "2017A02191 21 MARS 2017. - Convention collective de travail n° 119 du 21 mars 2017, conclue au sein du Conseil national du Travail, fixant la marge maximale pour l'évolution du coût salarial pour la période 2017-2018 (Convention enregistrée le 21 mars 2017, sous le nr 138662/CO/300)",
+    "publication_date": "2017-05-24",
+    "source": "Emploi, Travail et Concertation sociale",
+    "page_number": 59219,
+    "dossier_number": "2017-03-21/04",
+    "effective_date": "2017-01-01",
+    "language": "fr",
+    "document_type": "unknown",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2017/05/24_1.pdf#Page30",
+    "consolidated_pdf_url": ""
+  },
+  "document_hierarchy": [
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE Ier. Portée de la convention collective de travail",
+      "metadata": {
+        "title_type": "CHAPITRE Ier.",
+        "title_content": "Portée de la convention collective de travail",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 1",
+          "metadata": {
+            "article_range": "1",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1",
+            "anchor_id": "art_1",
+            "content": {
+              "main_text": ". La présente convention collective de travail a pour objet de fixer la marge maximale pour l'évolution du coût salarial pour la période 2017-2018.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE II. La marge maximale pour l'évolution du coût salarial pour la période 2017-2018",
+      "metadata": {
+        "title_type": "CHAPITRE II.",
+        "title_content": "La marge maximale pour l'évolution du coût salarial pour la période 2017-2018",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Art. 2",
+          "metadata": {
+            "article_range": "2",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "2",
+            "anchor_id": "art_2",
+            "content": {
+              "main_text": "Sur la base du rapport 2016 sur la promotion de l'Emploi et la sauvegarde préventive de la Compétitivité (partie 1) du 10 janvier 2017 du Conseil central de l'Economie, la marge maximale pour l'évolution du coût salarial pour la période 2017-2018 est fixée à 1,1 p.c.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 3",
+          "metadata": {
+            "article_range": "3",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "3",
+            "anchor_id": "art_3",
+            "content": {
+              "main_text": "Dans les négociations sur la concrétisation de la marge salariale au niveau sectoriel et/ou des entreprises, il sera tenu compte au maximum de la situation économique spécifique du secteur et/ou de l'entreprise, du maintien et de la création d'emploi et de la compétitivité.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Art. 4",
+          "metadata": {
+            "article_range": "4",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "4",
+            "anchor_id": "art_4",
+            "content": {
+              "main_text": "Lors de la concrétisation de la marge salariale, il conviendra de tenir compte du coût réel de toutes les mesures retenues.  \n  A cet égard, les partenaires sociaux se réfèrent à l'avis unanime n° 1.893 du Conseil national du Travail du 12 février 2014 sur la suppression progressive des différences de traitement qui sont fondées sur une distinction entre ouvriers et employés en matière de pensions complémentaires.",
+              "numbered_provisions": []
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE III. Entrée en vigueur et durée de la convention",
+      "metadata": {
+        "title_type": "CHAPITRE III.",
+        "title_content": "Entrée en vigueur et durée de la convention",
+        "rank": 2
+      },
+      "children": []
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": []
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-07-12T13:12:32.518485",
+    "source_file": "2017032104.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false
+    }
+  }
+}

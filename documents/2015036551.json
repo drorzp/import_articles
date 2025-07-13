@@ -1,0 +1,933 @@
+{
+  "document_metadata": {
+    "document_number": "2015036551",
+    "title": "2015036551 27 NOVEMBRE 2015. - Décret relatif aux zones de basses émissions(NOTE : Consultation des versions antérieures à partir du 18-12-2015 et mise à jour au 10-07-2024)",
+    "publication_date": "2015-12-18",
+    "source": "Autorité flamande",
+    "page_number": 76180,
+    "dossier_number": "2015-11-27/09",
+    "effective_date": "2016-03-01",
+    "language": "fr",
+    "document_type": "decret",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 4,
+      "archived_versions_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arch=004&lg_txt=f&type=&sort=&numac_search=2015036551&cn_search=2015112709&caller=eli&&view_numac=2015112709fx2015112709nl",
+      "execution_orders_count": 5,
+      "execution_orders_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arrexec=1&lg_txt=f&type=&sort=&numac_search=2015036551&cn_search=2015112709&caller=eli&&view_numac=2015112709fx2015112709nl"
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/decret/2015/11/27/2015036551/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2015/12/18_2.pdf#Page174",
+    "consolidated_pdf_url": "https://www.ejustice.just.fgov.be/img_l/pdf/2015/11/27/2015036551_F.pdf"
+  },
+  "document_hierarchy": [
+    {
+      "type": "article",
+      "label": "Art. 1er",
+      "metadata": {
+        "article_range": "1er",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "1er",
+        "anchor_id": "art_1er",
+        "content": {
+          "main_text": ". Le présent décret règle une matière régionale.",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Art. 2",
+      "metadata": {
+        "article_range": "2",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "2",
+        "anchor_id": "art_2",
+        "content": {
+          "main_text": "Dans le présent décret, on entend par :  \n  1° ZBE : une zone de basses émissions telle que visée l'article 3, § 1er ;  \n  2° contrôleur ZBE : la personne qui a été chargée, conformément à l'article 8, § 1er du présent décret, par une autorité compétente de veiller au respect de la réglementation ZBE ;  \n  3° envoi sécurisé : le mode de notification tel que visé à l'article 1.1.2, 3°, du Code flamand de l'Aménagement du Territoire.",
+          "numbered_provisions": [
+            {
+              "number": "1°",
+              "text": "ZBE : une zone de basses émissions telle que visée l'article 3, § 1er ;",
+              "sub_items": []
+            },
+            {
+              "number": "2°",
+              "text": "contrôleur ZBE : la personne qui a été chargée, conformément à l'article 8, § 1er du présent décret, par une autorité compétente de veiller au respect de la réglementation ZBE ;",
+              "sub_items": []
+            },
+            {
+              "number": "3°",
+              "text": "envoi sécurisé : le mode de notification tel que visé à l'article 1.1.2, 3°, du Code flamand de l'Aménagement du Territoire]1.",
+              "sub_items": []
+            }
+          ]
+        }
+      },
+      "footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_content": "(1)<DCFL [2019-05-03/27](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327), art. 2, 004; En vigueur : 27-06-2019>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2019-05-03/27",
+            "article_number": "art. 2",
+            "sequence_number": "004",
+            "full_reference": "DCFL [2019-05-03/27]"
+          },
+          "effective_date": "27-06-2019",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327#Art.2"
+        }
+      ],
+      "footnote_references": [
+        {
+          "reference_number": "1",
+          "text_position": 0,
+          "referenced_text": "Dans le présent décret, on entend par :  \n  1° ZBE : une zone de basses émissions telle que visée l'article 3, § 1er ;  \n  2° contrôleur ZBE : la personne qui a été chargée, conformément à l'article 8, § 1er du présent décret, par une autorité compétente de veiller au respect de la réglementation ZBE ;  \n  3° envoi sécurisé : le mode de notification tel que visé à l'article 1.1.2, 3°, du Code flamand de l'Aménagement du Territoire",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 Dans le présent décret, on entend par :  \n  1° ZBE : une zone de basses émissions telle que visée l'article 3, § 1er ;  \n  2° contrôleur ZBE : la personne qui a été chargée, conformément à l'article 8, § 1er du présent décret, par une autorité compétente de veiller au respect de la réglementation ZBE ;  \n  3° envoi sécurisé : le mode de notification tel que visé à l'article 1.1.2, 3°, du Code flamand de l'Aménagement du Territoire]1"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "Art. 3",
+      "metadata": {
+        "article_range": "3",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "3",
+        "anchor_id": "art_3",
+        "content": {
+          "main_text": "§ 1er. Une zone de basses émissions est une zone dont l'accès aux véhicules motorisés fait l'objet d'une politique d'accès sélective en fonction des nuisances environnementales causées par ces véhicules, justifiée par des motifs liés à la qualité de vie, en particulier en vue de réduire les nuisances sur l'environnement et la santé causées par la mauvaise qualité de l'air.  \n  § 2. Les communes peuvent par règlement communal introduire une ZBE sur les routes communales et régionales qui se trouvent sur leur territoire, sauf sur les autoroutes.  \n  § 3. Le placement des signaux indiquant les ZBE, à savoir les signaux F 117 et F118, visés à l'article 71.2 de l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique, s'effectue conformément aux dispositions du décret du 16 mai 2008 relatif aux règlements supplémentaires sur la circulation routière et sur la pose et le coût de la signalisation routière.  \n  Si les signaux indiquant la ZBE introduite par la commune, doivent, conformément au paragraphe 2 être placés sur une route régionale, l'article 4 du décret précité est toujours d'application.",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Art. 4",
+      "metadata": {
+        "article_range": "4",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "4",
+        "anchor_id": "art_4",
+        "content": {
+          "main_text": "§ 1er. Le Gouvernement flamand précise les véhicules motorisés pour lesquels l'accès à une ZBE est autorisé en toute circonstance, avec, le cas échéant, un enregistrement auprès d'une commune introduisant une ZBE sur son territoire.  \n  Le Gouvernement flamand détermine les cas dans lesquels l'enregistrement, visé à l'alinéa premier, est obligatoire.  \n  § 2. Pour les véhicules motorisés qui ne tombent pas sous l'application du paragraphe 1er, la commune introduisant une ZBE sur son territoire, assujettit l'accès à la ZBE à une interdiction ou à des conditions de nature à réduire l'utilisation de la ZBE par des véhicules provoquant des nuisances environnementales.  \n  Le Gouvernement flamand arrête les modalités relatives aux conditions et à l'interdiction, visées à l'alinéa premier.",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Art. 5",
+      "metadata": {
+        "article_range": "5",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "5",
+        "anchor_id": "art_5",
+        "content": {
+          "main_text": "Dans un souci de contrôle sur la réglementation ZBE par la commune, les données pertinentes sont recueillies dans une base de données. Le service mandaté par le Gouvernement flamand gère cette base de données conformément au titre III, chapitre 3, section 3 du Décret de gouvernance du 7 décembre 2018.  \n  A cette fin, ce service mandaté demande les données nécessaires sous forme numérique portant sur les véhicules auprès des instances compétentes, telle l'instance chargée de l'inscription des véhicules et les administrations locales introduisant une ZBE sur leur territoire.  \n  La demande de ces données, la gestion de la base de données et la mise à disposition à la commune de données de la base de données s'effectuent conformément au règlement relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel applicable à la communication des données à caractère personnel, telle qu'elle est ou sera précisée au niveau fédéral ou flamand, selon le cas.  \n  Le Gouvernement flamand peut préciser des conditions relatives au contenu et au fonctionnement de la base de données.",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_content": "(1)<DCFL [2018-06-08/04](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018060804), art. 185, 002; En vigueur : 25-05-2018>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2018-06-08/04",
+            "article_number": "art. 185",
+            "sequence_number": "002",
+            "full_reference": "DCFL [2018-06-08/04]"
+          },
+          "effective_date": "25-05-2018",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018060804",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018060804#Art.5"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_content": "(2)<DCFL [2018-12-07/05](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018120705), art. IV.252, 003; En vigueur : 01-01-2019>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2018-12-07/05",
+            "article_number": "art. IV.252",
+            "sequence_number": "003",
+            "full_reference": "DCFL [2018-12-07/05]"
+          },
+          "effective_date": "01-01-2019",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018120705",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018120705#Art.5"
+        }
+      ],
+      "footnote_references": [
+        {
+          "reference_number": "2",
+          "text_position": 225,
+          "referenced_text": "titre III, chapitre 3, section 3 du Décret de gouvernance du 7 décembre 2018",
+          "embedded_law_references": [],
+          "bracket_pattern": "[2 titre III, chapitre 3, section 3 du Décret de gouvernance du 7 décembre 2018]2"
+        },
+        {
+          "reference_number": "1",
+          "text_position": 750,
+          "referenced_text": "règlement relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel applicable à la communication des données à caractère personnel, telle qu'elle est ou sera précisée au niveau fédéral ou flamand, selon le cas",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 règlement relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel applicable à la communication des données à caractère personnel, telle qu'elle est ou sera précisée au niveau fédéral ou flamand, selon le cas]1"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "Art. 6",
+      "metadata": {
+        "article_range": "6",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "6",
+        "anchor_id": "art_6",
+        "content": {
+          "main_text": "Pour les véhicules motorisés, visés à l'article 4, § 2, la commune peut assujettir l'accès à une ZBE au paiement d'une somme d'argent, se servant dans ce cadre des techniques de financement dont elle dispose. Cette somme d'argent est à charge du titulaire de la plaque d'immatriculation, du conducteur du véhicule concerné ou, le cas échéant, du demandeur de l'accès à la ZBE. Ceux-ci sont solidairement tenus au paiement de la somme d'argent.  \n  Les possibilités de recouvrement et de contrôle précisées dans le présent décret, n\"empêchent pas que la commune se sert, dans les cas, visés à l'alinéa premier, des possibilités de recouvrement et de contrôle pertinentes, telles que visées entre autres à l'article 94 du Décret communal du 15 juillet 2005 et aux articles 5 et 6 du Décret du 30 mai 2008 relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales.",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Art. 7",
+      "metadata": {
+        "article_range": "7",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "7",
+        "anchor_id": "art_7",
+        "content": {
+          "main_text": "§ 1er. Sans préjudice d'application de l'article 8, § 4, l'application et le contrôle de la réglementation ZBE ainsi que la constatation d'infractions à cette réglementation, s'effectuent au moyen de la reconnaissance des plaques d'immatriculation au moyen d'appareils automatiques ou non.  \n  § 2. Les appareils aux fins de reconnaissance automatique des plaques d'immatriculation peuvent être :  \n  1° installés de façon fixe en un endroit ;  \n  2° installés de façon fixe en un endroit pour une durée limitée ;  \n  3° déplacés pendant l'observation.  \n  Les différents types nécessaires à la mise en oeuvre effective de la réglementation ZBE, l'endroit des appareils fixes et le périmètre dans lequel les autres appareils peuvent être déplacés ou se déplacer, sont approuvés par le conseil municipal.  \n  § 3. L'application de la reconnaissance automatique des plaques d'immatriculation est annoncée de la manière suivante :  \n  1° par le signal F117, visé à l'article 71.2 de l'arrêté royal du 1 décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique, complété d'un panneau additionnel portant l'inscription \" caméra \" ou un pictogramme afin d'annoncer une vidéosurveillance à reconnaissance automatique des plaques d'immatriculation ;  \n  2° le cas échéant, par une indication concernant l'exécution de contrôles par des appareils qui sont déplacés pendant l'observation, sous la forme d'un pictogramme ou de l'inscription \" vidéosurveillance ZBE \", apposés sur le véhicule sur lequel l'appareil a été monté ;  \n  3° le cas échéant, par un autre médium d'information mis en place par le responsable du traitement pour clairement informer les citoyens du traitement de leurs données personnelles visé au paragraphe 4.  \n  Le modèle du pictogramme visé à l'alinéa 1er, 1° et 2°, est déterminé par le Gouvernement flamand.  \n  § 4. L'utilisation d'appareils automatiques intelligents reliés à des registres ou à des fichiers de données personnelles, est autorisée pour des fins de reconnaissance automatique des plaques d'immatriculation, à condition que le responsable du traitement traite ces registres ou fichiers dans le respect de la règlementation relatives à la protection de la vie privée et à la protection des personnes physiques à l'égard du traitement des données personnelle.",
+          "numbered_provisions": [
+            {
+              "number": "1°",
+              "text": "installés de façon fixe en un endroit ;",
+              "sub_items": []
+            },
+            {
+              "number": "2°",
+              "text": "installés de façon fixe en un endroit pour une durée limitée ;",
+              "sub_items": []
+            },
+            {
+              "number": "3°",
+              "text": "déplacés pendant l'observation.",
+              "sub_items": []
+            },
+            {
+              "number": "1°",
+              "text": "par le signal F117, visé à l'article 71.2 de l'arrêté royal du 1 décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique, complété d'un panneau additionnel portant l'inscription \" caméra \" ou un pictogramme afin d'annoncer une vidéosurveillance à reconnaissance automatique des plaques d'immatriculation ;",
+              "sub_items": []
+            },
+            {
+              "number": "2°",
+              "text": "le cas échéant, par une indication concernant l'exécution de contrôles par des appareils qui sont déplacés pendant l'observation, sous la forme d'un pictogramme ou de l'inscription \" vidéosurveillance ZBE \", apposés sur le véhicule sur lequel l'appareil a été monté ;",
+              "sub_items": []
+            },
+            {
+              "number": "3°",
+              "text": "le cas échéant, par un autre médium d'information mis en place par le responsable du traitement pour clairement informer les citoyens du traitement de leurs données personnelles visé au paragraphe 4.",
+              "sub_items": []
+            }
+          ]
+        }
+      },
+      "footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_content": "(1)<DCFL [2019-05-03/27](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327), art. 3, 004; En vigueur : 27-06-2019>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2019-05-03/27",
+            "article_number": "art. 3",
+            "sequence_number": "004",
+            "full_reference": "DCFL [2019-05-03/27]"
+          },
+          "effective_date": "27-06-2019",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327#Art.7"
+        }
+      ],
+      "footnote_references": [
+        {
+          "reference_number": "1",
+          "text_position": 0,
+          "referenced_text": "§ 1er. Sans préjudice d'application de l'article 8, § 4, l'application et le contrôle de la réglementation ZBE ainsi que la constatation d'infractions à cette réglementation, s'effectuent au moyen de la reconnaissance des plaques d'immatriculation au moyen d'appareils automatiques ou non.  \n  § 2. Les appareils aux fins de reconnaissance automatique des plaques d'immatriculation peuvent être :  \n  1° installés de façon fixe en un endroit ;  \n  2° installés de façon fixe en un endroit pour une durée limitée ;  \n  3° déplacés pendant l'observation.  \n  Les différents types nécessaires à la mise en oeuvre effective de la réglementation ZBE, l'endroit des appareils fixes et le périmètre dans lequel les autres appareils peuvent être déplacés ou se déplacer, sont approuvés par le conseil municipal.  \n  § 3. L'application de la reconnaissance automatique des plaques d'immatriculation est annoncée de la manière suivante :  \n  1° par le signal F117, visé à l'article 71.2 de l'arrêté royal du 1 décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique, complété d'un panneau additionnel portant l'inscription \" caméra \" ou un pictogramme afin d'annoncer une vidéosurveillance à reconnaissance automatique des plaques d'immatriculation ;  \n  2° le cas échéant, par une indication concernant l'exécution de contrôles par des appareils qui sont déplacés pendant l'observation, sous la forme d'un pictogramme ou de l'inscription \" vidéosurveillance ZBE \", apposés sur le véhicule sur lequel l'appareil a été monté ;  \n  3° le cas échéant, par un autre médium d'information mis en place par le responsable du traitement pour clairement informer les citoyens du traitement de leurs données personnelles visé au paragraphe 4.  \n  Le modèle du pictogramme visé à l'alinéa 1er, 1° et 2°, est déterminé par le Gouvernement flamand.  \n  § 4. L'utilisation d'appareils automatiques intelligents reliés à des registres ou à des fichiers de données personnelles, est autorisée pour des fins de reconnaissance automatique des plaques d'immatriculation, à condition que le responsable du traitement traite ces registres ou fichiers dans le respect de la règlementation relatives à la protection de la vie privée et à la protection des personnes physiques à l'égard du traitement des données personnelle",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 § 1er. Sans préjudice d'application de l'article 8, § 4, l'application et le contrôle de la réglementation ZBE ainsi que la constatation d'infractions à cette réglementation, s'effectuent au moyen de la reconnaissance des plaques d'immatriculation au moyen d'appareils automatiques ou non.  \n  § 2. Les appareils aux fins de reconnaissance automatique des plaques d'immatriculation peuvent être :  \n  1° installés de façon fixe en un endroit ;  \n  2° installés de façon fixe en un endroit pour une durée limitée ;  \n  3° déplacés pendant l'observation.  \n  Les différents types nécessaires à la mise en oeuvre effective de la réglementation ZBE, l'endroit des appareils fixes et le périmètre dans lequel les autres appareils peuvent être déplacés ou se déplacer, sont approuvés par le conseil municipal.  \n  § 3. L'application de la reconnaissance automatique des plaques d'immatriculation est annoncée de la manière suivante :  \n  1° par le signal F117, visé à l'article 71.2 de l'arrêté royal du 1 décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique, complété d'un panneau additionnel portant l'inscription \" caméra \" ou un pictogramme afin d'annoncer une vidéosurveillance à reconnaissance automatique des plaques d'immatriculation ;  \n  2° le cas échéant, par une indication concernant l'exécution de contrôles par des appareils qui sont déplacés pendant l'observation, sous la forme d'un pictogramme ou de l'inscription \" vidéosurveillance ZBE \", apposés sur le véhicule sur lequel l'appareil a été monté ;  \n  3° le cas échéant, par un autre médium d'information mis en place par le responsable du traitement pour clairement informer les citoyens du traitement de leurs données personnelles visé au paragraphe 4.  \n  Le modèle du pictogramme visé à l'alinéa 1er, 1° et 2°, est déterminé par le Gouvernement flamand.  \n  § 4. L'utilisation d'appareils automatiques intelligents reliés à des registres ou à des fichiers de données personnelles, est autorisée pour des fins de reconnaissance automatique des plaques d'immatriculation, à condition que le responsable du traitement traite ces registres ou fichiers dans le respect de la règlementation relatives à la protection de la vie privée et à la protection des personnes physiques à l'égard du traitement des données personnelle]1"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "Art. 7/1",
+      "metadata": {
+        "article_range": "7/1",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "7/1",
+        "anchor_id": "art_7/1",
+        "content": {
+          "main_text": "1er. Les données que les personnes visées à l'article 9, alinéa 1er, 1° à 7°, ou les membres du personnel visés à l'article 11/1, recueillent ou qui leur sont transmises par les appareils automatiques, sont traitées par les personnes visées à l'article 9, alinéa 1er, 1° à 7°.  \n  Le traitement, visé à l'alinéa 1er, a pour objet l'application de la réglementation ZBE, y compris les objectifs suivants :  \n  1° le contrôle de la réglementation ZBE ;  \n  2° le cas échéant, la perception de la somme d'argent, visée à l'article 6, alinéa 1er ;  \n  3° le cas échéant, la perception de l'amende administrative, visée à l'article 10, § 1er ;  \n  4° l'application et le contrôle de l'accès pour certains véhicules, le cas échéant, moyennant l'enregistrement tel que visé à l'article 4, § 1er ;  \n  5° l'application et le contrôle des conditions ou de l'interdiction, visées à l'article 4, § 2 ;  \n  6° le cas échéant, le suivi de l'impact d'une ZBE, au cours duquel il est examiné dans quelle mesure les caractéristiques des véhicules circulant dans une ZBE changent à la suite de l'introduction d'une ZBE ou d'un renforcement des critères d'accès.  \n  Dans le cas visé à l'alinéa 2, 1°, 4° et 5°, le traitement porte sur les données d'identification, les données sociales à caractère personnel, le numéro de registre national, la plaque d'immatriculation, le numéro de châssis et les données techniques du véhicule motorisé de la personne concernée.  \n  Dans le cas visé à l'alinéa 2, 2° et 3°, le traitement porte sur les données d'identification, la plaque d'immatriculation et les données techniques du véhicule motorisé de la personne concernée.  \n  Dans le cas visé à l'alinéa 2, 6°, seules des données anonymisées sont traitées, en particulier les données techniques et les plaques d'immatriculation des véhicules motorisés concernés.  \n  § 2. La commune agit en tant que responsable du traitement pour le traitement des données.  \n  Les données personnelles visées au paragraphe 1er ne sont pas conservées plus d'un mois.  \n  Par dérogation à l'alinéa 2, les données nécessaires dans le cadre d'une enquête de suivi ne sont conservées que pendant la durée de l'enquête et les délais de prescription de l'action en recouvrement de l'amende administrative, visés à l'article 10, § 8, sont considérés comme délai maximal de conservation si les données peuvent contribuer à la preuve d'une infraction. Les données traitées dans le cadre de l'objectif visé au paragraphe 1er, alinéa 2, 4°, ne sont conservées que pendant la période que la réglementation ZBE s'applique et les données traitées dans le cadre de l'objectif visé au paragraphe 1er, alinéa 2, 5°, sont conservées pour une durée maximale d'un an.  \n  La commune est autorisée à utiliser des données anonymisées ou à les mettre à la disposition de tiers à des fins d'analyse et de rapportage de flux de trafic et de mobilité.",
+          "numbered_provisions": [
+            {
+              "number": "1°",
+              "text": "le contrôle de la réglementation ZBE ;",
+              "sub_items": []
+            },
+            {
+              "number": "2°",
+              "text": "le cas échéant, la perception de la somme d'argent, visée à l'article 6, alinéa 1er ;",
+              "sub_items": []
+            },
+            {
+              "number": "3°",
+              "text": "le cas échéant, la perception de l'amende administrative, visée à l'article 10, § 1er ;",
+              "sub_items": []
+            },
+            {
+              "number": "4°",
+              "text": "l'application et le contrôle de l'accès pour certains véhicules, le cas échéant, moyennant l'enregistrement tel que visé à l'article 4, § 1er ;",
+              "sub_items": []
+            },
+            {
+              "number": "5°",
+              "text": "l'application et le contrôle des conditions ou de l'interdiction, visées à l'article 4, § 2 ;",
+              "sub_items": []
+            },
+            {
+              "number": "6°",
+              "text": "le cas échéant, le suivi de l'impact d'une ZBE, au cours duquel il est examiné dans quelle mesure les caractéristiques des véhicules circulant dans une ZBE changent à la suite de l'introduction d'une ZBE ou d'un renforcement des critères d'accès.",
+              "sub_items": []
+            }
+          ]
+        }
+      },
+      "footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_content": "(1)<Inséré par DCFL [2019-05-03/27](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327), art. 4, 004; En vigueur : 27-06-2019>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2019-05-03/27",
+            "article_number": "art. 4",
+            "sequence_number": "004",
+            "full_reference": "DCFL [2019-05-03/27]"
+          },
+          "effective_date": "27-06-2019",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327#Art.7/1"
+        }
+      ],
+      "footnote_references": [
+        {
+          "reference_number": "1",
+          "text_position": 0,
+          "referenced_text": "1er. Les données que les personnes visées à l'article 9, alinéa 1er, 1° à 7°, ou les membres du personnel visés à l'article 11/1, recueillent ou qui leur sont transmises par les appareils automatiques, sont traitées par les personnes visées à l'article 9, alinéa 1er, 1° à 7°.  \n  Le traitement, visé à l'alinéa 1er, a pour objet l'application de la réglementation ZBE, y compris les objectifs suivants :  \n  1° le contrôle de la réglementation ZBE ;  \n  2° le cas échéant, la perception de la somme d'argent, visée à l'article 6, alinéa 1er ;  \n  3° le cas échéant, la perception de l'amende administrative, visée à l'article 10, § 1er ;  \n  4° l'application et le contrôle de l'accès pour certains véhicules, le cas échéant, moyennant l'enregistrement tel que visé à l'article 4, § 1er ;  \n  5° l'application et le contrôle des conditions ou de l'interdiction, visées à l'article 4, § 2 ;  \n  6° le cas échéant, le suivi de l'impact d'une ZBE, au cours duquel il est examiné dans quelle mesure les caractéristiques des véhicules circulant dans une ZBE changent à la suite de l'introduction d'une ZBE ou d'un renforcement des critères d'accès.  \n  Dans le cas visé à l'alinéa 2, 1°, 4° et 5°, le traitement porte sur les données d'identification, les données sociales à caractère personnel, le numéro de registre national, la plaque d'immatriculation, le numéro de châssis et les données techniques du véhicule motorisé de la personne concernée.  \n  Dans le cas visé à l'alinéa 2, 2° et 3°, le traitement porte sur les données d'identification, la plaque d'immatriculation et les données techniques du véhicule motorisé de la personne concernée.  \n  Dans le cas visé à l'alinéa 2, 6°, seules des données anonymisées sont traitées, en particulier les données techniques et les plaques d'immatriculation des véhicules motorisés concernés.  \n  § 2. La commune agit en tant que responsable du traitement pour le traitement des données.  \n  Les données personnelles visées au paragraphe 1er ne sont pas conservées plus d'un mois.  \n  Par dérogation à l'alinéa 2, les données nécessaires dans le cadre d'une enquête de suivi ne sont conservées que pendant la durée de l'enquête et les délais de prescription de l'action en recouvrement de l'amende administrative, visés à l'article 10, § 8, sont considérés comme délai maximal de conservation si les données peuvent contribuer à la preuve d'une infraction. Les données traitées dans le cadre de l'objectif visé au paragraphe 1er, alinéa 2, 4°, ne sont conservées que pendant la période que la réglementation ZBE s'applique et les données traitées dans le cadre de l'objectif visé au paragraphe 1er, alinéa 2, 5°, sont conservées pour une durée maximale d'un an.  \n  La commune est autorisée à utiliser des données anonymisées ou à les mettre à la disposition de tiers à des fins d'analyse et de rapportage de flux de trafic et de mobilité.",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 1er. Les données que les personnes visées à l'article 9, alinéa 1er, 1° à 7°, ou les membres du personnel visés à l'article 11/1, recueillent ou qui leur sont transmises par les appareils automatiques, sont traitées par les personnes visées à l'article 9, alinéa 1er, 1° à 7°.  \n  Le traitement, visé à l'alinéa 1er, a pour objet l'application de la réglementation ZBE, y compris les objectifs suivants :  \n  1° le contrôle de la réglementation ZBE ;  \n  2° le cas échéant, la perception de la somme d'argent, visée à l'article 6, alinéa 1er ;  \n  3° le cas échéant, la perception de l'amende administrative, visée à l'article 10, § 1er ;  \n  4° l'application et le contrôle de l'accès pour certains véhicules, le cas échéant, moyennant l'enregistrement tel que visé à l'article 4, § 1er ;  \n  5° l'application et le contrôle des conditions ou de l'interdiction, visées à l'article 4, § 2 ;  \n  6° le cas échéant, le suivi de l'impact d'une ZBE, au cours duquel il est examiné dans quelle mesure les caractéristiques des véhicules circulant dans une ZBE changent à la suite de l'introduction d'une ZBE ou d'un renforcement des critères d'accès.  \n  Dans le cas visé à l'alinéa 2, 1°, 4° et 5°, le traitement porte sur les données d'identification, les données sociales à caractère personnel, le numéro de registre national, la plaque d'immatriculation, le numéro de châssis et les données techniques du véhicule motorisé de la personne concernée.  \n  Dans le cas visé à l'alinéa 2, 2° et 3°, le traitement porte sur les données d'identification, la plaque d'immatriculation et les données techniques du véhicule motorisé de la personne concernée.  \n  Dans le cas visé à l'alinéa 2, 6°, seules des données anonymisées sont traitées, en particulier les données techniques et les plaques d'immatriculation des véhicules motorisés concernés.  \n  § 2. La commune agit en tant que responsable du traitement pour le traitement des données.  \n  Les données personnelles visées au paragraphe 1er ne sont pas conservées plus d'un mois.  \n  Par dérogation à l'alinéa 2, les données nécessaires dans le cadre d'une enquête de suivi ne sont conservées que pendant la durée de l'enquête et les délais de prescription de l'action en recouvrement de l'amende administrative, visés à l'article 10, § 8, sont considérés comme délai maximal de conservation si les données peuvent contribuer à la preuve d'une infraction. Les données traitées dans le cadre de l'objectif visé au paragraphe 1er, alinéa 2, 4°, ne sont conservées que pendant la période que la réglementation ZBE s'applique et les données traitées dans le cadre de l'objectif visé au paragraphe 1er, alinéa 2, 5°, sont conservées pour une durée maximale d'un an.  \n  La commune est autorisée à utiliser des données anonymisées ou à les mettre à la disposition de tiers à des fins d'analyse et de rapportage de flux de trafic et de mobilité.]1"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "Art. 8",
+      "metadata": {
+        "article_range": "8",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "8",
+        "anchor_id": "art_8",
+        "content": {
+          "main_text": "§ 1er. Les personnes suivantes peuvent être contrôleur ZBE :  \n  1° les membres du personnel communal désignés par le collège des bourgmestre et échevins ;  \n  2° les membres du personnel des instances visées à l'article 11, qui sont désignés par l'organe compétent à cet effet ;  \n  3° les membres du personnel d'une zone de police désignés par l'organe compétent à cet effet.  \n  Afin de pouvoir faire usage des possibilités visées à l'alinéa 1er, 2° et 3°, la commune dans laquelle la ZBE en question est introduite doit donner son accord au préalable.  \n  Les contrôleurs ZBE sont compétents pour contrôler le respect de la réglementation ZBE et pour noter les infractions à cette réglementation dans un rapport de constatation. Le Gouvernement flamand peut arrêter des modalités concernant la forme et le contenu du rapport de constatation.  \n  § 2. Les contrôleurs ZBE ont été assermentés. Le Gouvernement flamand peut arrêter les conditions de la prestation de serment. A défaut de disposition contraire, ils prêtent serment devant l'instance qui les a désignés.  \n  § 3. Le Gouvernement flamand peut arrêter les modalités concernant les qualifications et caractéristiques requises auxquelles les contrôleurs ZBE doivent répondre.  \n  § 4. Pendant l'exécution de leurs missions, les contrôleurs ZBE sont compétents pour :  \n  1° sommer le conducteur d'arrêter le véhicule ;  \n  2° consulter et prendre une copie des documents légalement prescrits dont doit être muni le conducteur d'un véhicule ;  \n  3° faire des constations à l'aide de moyens audiovisuels en respectant la réglementation en matière de la protection de la vie privée visée à l'article 8 de la Convention européenne des Droits de l'Homme et la réglementation relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel ;  \n  4° invoquer l'assistance de la police ;  \n  5° contrôler l'identité du contrevenant présumé lors de la constatation d'une infraction de la règlementation ZBE.",
+          "numbered_provisions": [
+            {
+              "number": "1°",
+              "text": "les membres du personnel communal désignés par le collège des bourgmestre et échevins ;",
+              "sub_items": []
+            },
+            {
+              "number": "2°",
+              "text": "les membres du personnel des instances visées à l'article 11, qui sont désignés par l'organe compétent à cet effet ;",
+              "sub_items": []
+            },
+            {
+              "number": "3°",
+              "text": "les membres du personnel d'une zone de police désignés par l'organe compétent à cet effet.",
+              "sub_items": []
+            },
+            {
+              "number": "1°",
+              "text": "sommer le conducteur d'arrêter le véhicule ;",
+              "sub_items": []
+            },
+            {
+              "number": "2°",
+              "text": "consulter et prendre une copie des documents légalement prescrits dont doit être muni le conducteur d'un véhicule ;",
+              "sub_items": []
+            },
+            {
+              "number": "3°",
+              "text": "faire des constations à l'aide de moyens audiovisuels en respectant la réglementation en matière de la protection de la vie privée visée à l'article 8 de la Convention européenne des Droits de l'Homme et la réglementation relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel ;",
+              "sub_items": []
+            },
+            {
+              "number": "4°",
+              "text": "invoquer l'assistance de la police ;",
+              "sub_items": []
+            },
+            {
+              "number": "5°",
+              "text": "contrôler l'identité du contrevenant présumé lors de la constatation d'une infraction de la règlementation ZBE]1.",
+              "sub_items": []
+            }
+          ]
+        }
+      },
+      "footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_content": "(1)<DCFL [2019-05-03/27](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327), art. 5, 004; En vigueur : 27-06-2019>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2019-05-03/27",
+            "article_number": "art. 5",
+            "sequence_number": "004",
+            "full_reference": "DCFL [2019-05-03/27]"
+          },
+          "effective_date": "27-06-2019",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327#Art.8"
+        }
+      ],
+      "footnote_references": [
+        {
+          "reference_number": "1",
+          "text_position": 0,
+          "referenced_text": "§ 1er. Les personnes suivantes peuvent être contrôleur ZBE :  \n  1° les membres du personnel communal désignés par le collège des bourgmestre et échevins ;  \n  2° les membres du personnel des instances visées à l'article 11, qui sont désignés par l'organe compétent à cet effet ;  \n  3° les membres du personnel d'une zone de police désignés par l'organe compétent à cet effet.  \n  Afin de pouvoir faire usage des possibilités visées à l'alinéa 1er, 2° et 3°, la commune dans laquelle la ZBE en question est introduite doit donner son accord au préalable.  \n  Les contrôleurs ZBE sont compétents pour contrôler le respect de la réglementation ZBE et pour noter les infractions à cette réglementation dans un rapport de constatation. Le Gouvernement flamand peut arrêter des modalités concernant la forme et le contenu du rapport de constatation.  \n  § 2. Les contrôleurs ZBE ont été assermentés. Le Gouvernement flamand peut arrêter les conditions de la prestation de serment. A défaut de disposition contraire, ils prêtent serment devant l'instance qui les a désignés.  \n  § 3. Le Gouvernement flamand peut arrêter les modalités concernant les qualifications et caractéristiques requises auxquelles les contrôleurs ZBE doivent répondre.  \n  § 4. Pendant l'exécution de leurs missions, les contrôleurs ZBE sont compétents pour :  \n  1° sommer le conducteur d'arrêter le véhicule ;  \n  2° consulter et prendre une copie des documents légalement prescrits dont doit être muni le conducteur d'un véhicule ;  \n  3° faire des constations à l'aide de moyens audiovisuels en respectant la réglementation en matière de la protection de la vie privée visée à l'article 8 de la Convention européenne des Droits de l'Homme et la réglementation relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel ;  \n  4° invoquer l'assistance de la police ;  \n  5° contrôler l'identité du contrevenant présumé lors de la constatation d'une infraction de la règlementation ZBE",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 § 1er. Les personnes suivantes peuvent être contrôleur ZBE :  \n  1° les membres du personnel communal désignés par le collège des bourgmestre et échevins ;  \n  2° les membres du personnel des instances visées à l'article 11, qui sont désignés par l'organe compétent à cet effet ;  \n  3° les membres du personnel d'une zone de police désignés par l'organe compétent à cet effet.  \n  Afin de pouvoir faire usage des possibilités visées à l'alinéa 1er, 2° et 3°, la commune dans laquelle la ZBE en question est introduite doit donner son accord au préalable.  \n  Les contrôleurs ZBE sont compétents pour contrôler le respect de la réglementation ZBE et pour noter les infractions à cette réglementation dans un rapport de constatation. Le Gouvernement flamand peut arrêter des modalités concernant la forme et le contenu du rapport de constatation.  \n  § 2. Les contrôleurs ZBE ont été assermentés. Le Gouvernement flamand peut arrêter les conditions de la prestation de serment. A défaut de disposition contraire, ils prêtent serment devant l'instance qui les a désignés.  \n  § 3. Le Gouvernement flamand peut arrêter les modalités concernant les qualifications et caractéristiques requises auxquelles les contrôleurs ZBE doivent répondre.  \n  § 4. Pendant l'exécution de leurs missions, les contrôleurs ZBE sont compétents pour :  \n  1° sommer le conducteur d'arrêter le véhicule ;  \n  2° consulter et prendre une copie des documents légalement prescrits dont doit être muni le conducteur d'un véhicule ;  \n  3° faire des constations à l'aide de moyens audiovisuels en respectant la réglementation en matière de la protection de la vie privée visée à l'article 8 de la Convention européenne des Droits de l'Homme et la réglementation relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel ;  \n  4° invoquer l'assistance de la police ;  \n  5° contrôler l'identité du contrevenant présumé lors de la constatation d'une infraction de la règlementation ZBE]1"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "Art. 8/1",
+      "metadata": {
+        "article_range": "8/1",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "8/1",
+        "anchor_id": "art_8/1",
+        "content": {
+          "main_text": "§ 1er. Si une infraction à la réglementation ZBE a été commise et que le conducteur n'est pas identifié au moment de la constatation de l'infraction, le titulaire de la plaque d'immatriculation est présumé avoir commis l'infraction. Cette présomption vaut jusqu'à preuve du contraire, qui peut être fournie par tous les modes légaux de preuve.  \n  § 2. Si une personne physique conteste la présomption, visée au § 1er, cette personne est tenue de communiquer l'identité du conducteur au moment des faits en question sauf si elle peut prouver un vol, une fraude ou un cas de force majeure.  \n  Si une personne morale conteste la présomption, visée au § 1er, soit la personne morale, soit les personnes physiques représentant la personne morale en droit sont obligées de communiquer l'identité du conducteur au moment des faits en question ou, si elles ne la connaissent pas, l'identité de la personne responsable de la voiture, sauf en cas de vol, de fraude ou de force majeure. Si la personne responsable de la voiture n'est pas le conducteur au moment des faits, il communique l'identité du conducteur au moment des faits en question, sauf si elle peut prouver un vol, une fraude ou une force majeure.  \n  § 3. Une copie du rapport de constatation est envoyée au contrevenant présumé à titre d'information dans les quinze jours suivant son établissement, sauf si la commune fixe des amendes administratives en application de l'article 10.  \n  Si la commune fixe des amendes administratives en application de l'article 10, une copie de ce rapport est remise au fonctionnaire verbalisant dans les quinze jours suivant l'établissement du rapport de constatation.",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_content": "(1)<Inséré par DCFL [2019-05-03/27](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327), art. 6, 004; En vigueur : 27-06-2019>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2019-05-03/27",
+            "article_number": "art. 6",
+            "sequence_number": "004",
+            "full_reference": "DCFL [2019-05-03/27]"
+          },
+          "effective_date": "27-06-2019",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327#Art.8/1"
+        }
+      ],
+      "footnote_references": [
+        {
+          "reference_number": "1",
+          "text_position": 0,
+          "referenced_text": "§ 1er. Si une infraction à la réglementation ZBE a été commise et que le conducteur n'est pas identifié au moment de la constatation de l'infraction, le titulaire de la plaque d'immatriculation est présumé avoir commis l'infraction. Cette présomption vaut jusqu'à preuve du contraire, qui peut être fournie par tous les modes légaux de preuve.  \n  § 2. Si une personne physique conteste la présomption, visée au § 1er, cette personne est tenue de communiquer l'identité du conducteur au moment des faits en question sauf si elle peut prouver un vol, une fraude ou un cas de force majeure.  \n  Si une personne morale conteste la présomption, visée au § 1er, soit la personne morale, soit les personnes physiques représentant la personne morale en droit sont obligées de communiquer l'identité du conducteur au moment des faits en question ou, si elles ne la connaissent pas, l'identité de la personne responsable de la voiture, sauf en cas de vol, de fraude ou de force majeure. Si la personne responsable de la voiture n'est pas le conducteur au moment des faits, il communique l'identité du conducteur au moment des faits en question, sauf si elle peut prouver un vol, une fraude ou une force majeure.  \n  § 3. Une copie du rapport de constatation est envoyée au contrevenant présumé à titre d'information dans les quinze jours suivant son établissement, sauf si la commune fixe des amendes administratives en application de l'article 10.  \n  Si la commune fixe des amendes administratives en application de l'article 10, une copie de ce rapport est remise au fonctionnaire verbalisant dans les quinze jours suivant l'établissement du rapport de constatation.",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 § 1er. Si une infraction à la réglementation ZBE a été commise et que le conducteur n'est pas identifié au moment de la constatation de l'infraction, le titulaire de la plaque d'immatriculation est présumé avoir commis l'infraction. Cette présomption vaut jusqu'à preuve du contraire, qui peut être fournie par tous les modes légaux de preuve.  \n  § 2. Si une personne physique conteste la présomption, visée au § 1er, cette personne est tenue de communiquer l'identité du conducteur au moment des faits en question sauf si elle peut prouver un vol, une fraude ou un cas de force majeure.  \n  Si une personne morale conteste la présomption, visée au § 1er, soit la personne morale, soit les personnes physiques représentant la personne morale en droit sont obligées de communiquer l'identité du conducteur au moment des faits en question ou, si elles ne la connaissent pas, l'identité de la personne responsable de la voiture, sauf en cas de vol, de fraude ou de force majeure. Si la personne responsable de la voiture n'est pas le conducteur au moment des faits, il communique l'identité du conducteur au moment des faits en question, sauf si elle peut prouver un vol, une fraude ou une force majeure.  \n  § 3. Une copie du rapport de constatation est envoyée au contrevenant présumé à titre d'information dans les quinze jours suivant son établissement, sauf si la commune fixe des amendes administratives en application de l'article 10.  \n  Si la commune fixe des amendes administratives en application de l'article 10, une copie de ce rapport est remise au fonctionnaire verbalisant dans les quinze jours suivant l'établissement du rapport de constatation.]1"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "Art. 9",
+      "metadata": {
+        "article_range": "9",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "9",
+        "anchor_id": "art_9",
+        "content": {
+          "main_text": "Les personnes suivantes peuvent demander les données visées à l'article 7/1, § 1er, alinéa 1er, auprès de l'autorité compétente pour l'immatriculation des véhicules, auprès du registre national, auprès de la Banque-carrefour de la sécurité sociale, auprès de la Banque-Carrefour des Entreprises ou auprès du service autorisé visé à l'article 5, avec ou sans l'intervention d'un responsable du traitement et conformément à la réglementation en matière de la protection des personnes physiques à l'égard du traitement des données personnelles s'appliquant à la communication des données personnelles, telle qu'elle a été ou est spécifiée, le cas échéant, au niveau fédéral ou flamand :  \n  1° les contrôleurs ZBE, visés à l'article 8, § 1er ;  \n  2° les membres du personnel de la commune et des instances visés à l'article 11, chargés de la perception de la somme visée à l'article 6, alinéa 1er ;  \n  3° le cas échéant, le gestionnaire financier, visé à l'article 94 du Décret communal du 15 juillet 2005 et les membres du personnel, visés à l'article 5 du décret du 30 mai 2008 relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales ;  \n  4° les fonctionnaires verbalisants, visés à l'article 10, § 2.  \n  5° les membres du personnel de la commune et des instances visés à l'article 11, chargés de l'enregistrement visé à l'article 4, § 1er ;  \n  6° les membres du personnel de la commune, d'une zone de police et des instances visés à l'article 11, chargés de contrôler les conditions ou l'interdiction visées à l'article 4, § 2 ;  \n  7° les membres du personnel communal chargés du suivi de l'impact d'une ZBE, visé à l'article 7/1, § 1er, alinéa 2, 6°.  \n  Les personnes visées à l'alinéa 1er, 1° à 7°, ne traitent que les données strictement nécessaires pour l'exercice de leurs tâches respectives. Ces données sont adéquates, pertinentes et non excessives à l'égard des objectifs pour lesquels elles seront utilisées, tels que visés à l'article 7/1, § 1er, alinéa 2.",
+          "numbered_provisions": [
+            {
+              "number": "1°",
+              "text": "les contrôleurs ZBE, visés à l'article 8, § 1er ;",
+              "sub_items": []
+            },
+            {
+              "number": "2°",
+              "text": "les membres du personnel de la commune et des instances visés à l'article 11, chargés de la perception de la somme visée à l'article 6, alinéa 1er ;",
+              "sub_items": []
+            },
+            {
+              "number": "3°",
+              "text": "le cas échéant, le gestionnaire financier, visé à l'article 94 du Décret communal du 15 juillet 2005 et les membres du personnel, visés à l'article 5 du décret du 30 mai 2008 relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales ;",
+              "sub_items": []
+            },
+            {
+              "number": "4°",
+              "text": "les fonctionnaires verbalisants, visés à l'article 10, § 2.",
+              "sub_items": []
+            },
+            {
+              "number": "5°",
+              "text": "les membres du personnel de la commune et des instances visés à l'article 11, chargés de l'enregistrement visé à l'article 4, § 1er ;",
+              "sub_items": []
+            },
+            {
+              "number": "6°",
+              "text": "les membres du personnel de la commune, d'une zone de police et des instances visés à l'article 11, chargés de contrôler les conditions ou l'interdiction visées à l'article 4, § 2 ;",
+              "sub_items": []
+            },
+            {
+              "number": "7°",
+              "text": "les membres du personnel communal chargés du suivi de l'impact d'une ZBE, visé à l'article 7/1, § 1er, alinéa 2, 6°.",
+              "sub_items": []
+            }
+          ]
+        }
+      },
+      "footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_content": "(1)<DCFL [2019-05-03/27](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327), art. 7, 004; En vigueur : 27-06-2019>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2019-05-03/27",
+            "article_number": "art. 7",
+            "sequence_number": "004",
+            "full_reference": "DCFL [2019-05-03/27]"
+          },
+          "effective_date": "27-06-2019",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327#Art.9"
+        }
+      ],
+      "footnote_references": [
+        {
+          "reference_number": "1",
+          "text_position": 0,
+          "referenced_text": "Les personnes suivantes peuvent demander les données visées à l'article 7/1, § 1er, alinéa 1er, auprès de l'autorité compétente pour l'immatriculation des véhicules, auprès du registre national, auprès de la Banque-carrefour de la sécurité sociale, auprès de la Banque-Carrefour des Entreprises ou auprès du service autorisé visé à l'article 5, avec ou sans l'intervention d'un responsable du traitement et conformément à la réglementation en matière de la protection des personnes physiques à l'égard du traitement des données personnelles s'appliquant à la communication des données personnelles, telle qu'elle a été ou est spécifiée, le cas échéant, au niveau fédéral ou flamand :  \n  1° les contrôleurs ZBE, visés à l'article 8, § 1er ;  \n  2° les membres du personnel de la commune et des instances visés à l'article 11, chargés de la perception de la somme visée à l'article 6, alinéa 1er ;  \n  3° le cas échéant, le gestionnaire financier, visé à l'article 94 du Décret communal du 15 juillet 2005 et les membres du personnel, visés à l'article 5 du décret du 30 mai 2008 relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales ;  \n  4° les fonctionnaires verbalisants, visés à l'article 10, § 2.  \n  5° les membres du personnel de la commune et des instances visés à l'article 11, chargés de l'enregistrement visé à l'article 4, § 1er ;  \n  6° les membres du personnel de la commune, d'une zone de police et des instances visés à l'article 11, chargés de contrôler les conditions ou l'interdiction visées à l'article 4, § 2 ;  \n  7° les membres du personnel communal chargés du suivi de l'impact d'une ZBE, visé à l'article 7/1, § 1er, alinéa 2, 6°.  \n  Les personnes visées à l'alinéa 1er, 1° à 7°, ne traitent que les données strictement nécessaires pour l'exercice de leurs tâches respectives. Ces données sont adéquates, pertinentes et non excessives à l'égard des objectifs pour lesquels elles seront utilisées, tels que visés à l'article 7/1, § 1er, alinéa 2",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 Les personnes suivantes peuvent demander les données visées à l'article 7/1, § 1er, alinéa 1er, auprès de l'autorité compétente pour l'immatriculation des véhicules, auprès du registre national, auprès de la Banque-carrefour de la sécurité sociale, auprès de la Banque-Carrefour des Entreprises ou auprès du service autorisé visé à l'article 5, avec ou sans l'intervention d'un responsable du traitement et conformément à la réglementation en matière de la protection des personnes physiques à l'égard du traitement des données personnelles s'appliquant à la communication des données personnelles, telle qu'elle a été ou est spécifiée, le cas échéant, au niveau fédéral ou flamand :  \n  1° les contrôleurs ZBE, visés à l'article 8, § 1er ;  \n  2° les membres du personnel de la commune et des instances visés à l'article 11, chargés de la perception de la somme visée à l'article 6, alinéa 1er ;  \n  3° le cas échéant, le gestionnaire financier, visé à l'article 94 du Décret communal du 15 juillet 2005 et les membres du personnel, visés à l'article 5 du décret du 30 mai 2008 relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales ;  \n  4° les fonctionnaires verbalisants, visés à l'article 10, § 2.  \n  5° les membres du personnel de la commune et des instances visés à l'article 11, chargés de l'enregistrement visé à l'article 4, § 1er ;  \n  6° les membres du personnel de la commune, d'une zone de police et des instances visés à l'article 11, chargés de contrôler les conditions ou l'interdiction visées à l'article 4, § 2 ;  \n  7° les membres du personnel communal chargés du suivi de l'impact d'une ZBE, visé à l'article 7/1, § 1er, alinéa 2, 6°.  \n  Les personnes visées à l'alinéa 1er, 1° à 7°, ne traitent que les données strictement nécessaires pour l'exercice de leurs tâches respectives. Ces données sont adéquates, pertinentes et non excessives à l'égard des objectifs pour lesquels elles seront utilisées, tels que visés à l'article 7/1, § 1er, alinéa 2]1"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "Art. 10",
+      "metadata": {
+        "article_range": "10",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "10",
+        "anchor_id": "art_10",
+        "content": {
+          "main_text": "§ 1er. Le conseil communal peut arrêter des amendes administratives pour les infractions à ses règlements constatées en application du présent décret. Cette amende administrative est à charge du contrevenant.  \n  Le montant de l'amende administrative, visée à l'alinéa premier, s'élève à 15 euros au minimum et à 60 euros au maximum. Le montant précité est majoré des décimes additionnels d'application aux amendes pénales.  \n  § 2. L'amende administrative, visée au paragraphe 1er, est imposée par le fonctionnaire verbalisant.  \n  Le fonctionnaire verbalisant, visé à l'alinéa premier, est désigné par le conseil communal et ne peut coïncider avec la personne qui, en application de l'article 8, constate les infractions.  \n  § 3. Dans un délai de quinze jours après la réception du rapport de constats visé à l'article article 8/1, § 3, alinéa 2, le fonctionnaire verbalisant informe le contrevenant par envoi sécurisé ou par lettre ordinaire des données relatives aux faits constatés et à l'infraction commise, de même que du montant de l'amende administrative.  \n  L'amende administrative doit être payée dans un délai de trente jours après la notification de celle-ci, à moins que le contrevenant n'ait introduit ses moyens de défense par écrit, y compris, le cas échéant, les documents probants, au fonctionnaire verbalisant par envoi sécurisé endéans ce délai.  \n  § 4. Si le titulaire de la plaque d'immatriculation a réfuté dans ses moyens de défense la présomption visée à l'article 8/1, § 1er, et si le fonctionnaire verbalisant déclare les moyens de défense recevables et fondés, il informe le titulaire de la plaque d'immatriculation de sa décision.  \n  Si le titulaire de la plaque d'immatriculation a communiqué l'identité du conducteur conformément à l'article 8/1, § 2, le fonctionnaire verbalisant informe, par envoi sécurisé ou par lettre ordinaire, le contrevenant désigné des données relatives aux faits constatés et à l'infraction commise, de même que le montant de l'amende administrative dans les quinze jours suivant la déclaration de légitimité des moyens de défense visée à l'alinéa 1er. L'amende administrative est payée dans les trente jours suivant sa notification, à moins que le contrevenant désigné n'ait dans ce délai transmis au fonctionnaire verbalisant ses moyens de défense par envoi sécurisé, y compris, le cas échéant, les documents probants.  \n  Si le fonctionnaire verbalisant déclare les moyens de défense non-recevables ou non-fondés, il met le contrevenant au courant de sa décision par envoi sécurisé ou par lettre ordinaire, tout en mentionnant l'amende administrative payable dans un délai de trente jours suivant la notification de cette décision. Si le fonctionnaire verbalisant n'envoie pas la déclaration d'irrecevabilité ou d'illégitimité des moyens de défense dans les nonante jours suivant la réception du contredit, la décision contestée relative à l'amende devient caduque. Si le fonctionnaire verbalisant déclare les moyens de défense recevables et fondés, il met le contrevenant au courant de sa décision..  \n  § 5. Le contrevenant peut procéder au recours contre l'imposition d'une amende administrative, visée au paragraphe 4, devant le tribunal de police, au moyen d'une requête écrite, selon la procédure civile, dans les trente jours après la notification de la décision, visée au paragraphe 4.  \n  § 6. La décision relative à l'imposition d'une amende administrative est exécutoire, lorsqu'elle est devenue définitive ; tel est le cas soit après échéance de trente jours après la notification de l'amende administrative, visée aux § 3 et § 4, alinéa 2, sans que des moyens de défense n'aient été déposés, soit après échéance de trente jours après la notification de la décision, visée au paragraphe 5, sans qu'il ait été procédé au recours.  \n  § 7. L'amende administrative est perçue en faveur de la commune à moins que la commune ne décide que l'amende administrative est perçue en faveur des instances visées à l'article 11.  \n  § 8. L'action en recouvrement de l'amende administrative se prescrit après cinq ans, à compter du jour où elle a été établie. La prescription est interrompue selon le mode et aux conditions fixés aux articles 2244 à 2250 inclus du Code civil.  \n  § 9. Lorsque l'infraction a été perpétrée par une personne sans domicile ou résidence fixes en Belgique, les contrôleurs ZBE, visés à l'article 8, § 1er, peuvent procéder à la perception immédiate.  \n  L'amende administrative ne peut être perçue immédiatement que moyennant l'accord du contrevenant.  \n  En cas de perception immédiate, l'amende administrative s'élève à 15 euros, majorés des décimes additionnels applicables aux amendes pénales.  \n La perception immédiate éteint la possibilité d'infliger au contrevenant une amende administrative conformément à la procédure visée aux paragraphes 2 à 6 inclus.  \n  Le Gouvernement flamand peut préciser les règles relatives à l'application de la perception immédiate et peut autoriser la commune à préciser la mise en oeuvre concrète de la perception immédiate.  \n i le contrevenant n'accepte pas la perception immédiate visée au paragraphe 9, le contrôleur ZBE peut exiger qu'un montant égal à l'amende administrative fixée par le conseil communal soit obligatoirement donné en consignation en application du paragraphe 1er.  \n  Si, pour une raison quelconque, la consignation n'est pas non plus possible, le véhicule peut être confisqué par le contrôleur ZBE aux frais et aux risques du contrevenant, avec ou sans l'assistance de la police, jusqu'à ce que le montant de l'amende administrative ait été donné en consignation. Une ou plusieurs des mesures suivantes peuvent être prises dans le cadre de cette confiscation :  \n  1° le retrait des documents de bord ;  \n  2° le retrait de la lettre de voiture ;  \n  3° l'installation d'un sabot de Denver ;  \n  4° l'enlèvement du véhicule en infraction vers un dépôt ;  \n  5° le stationnement du véhicule.  \n  En cas de confiscation du véhicule telle que visée à l'alinéa précédent, le conducteur doit avoir la possibilité de transférer la charge éventuelle dans un autre véhicule. Si le conducteur du véhicule ne fait pas usage de cette possibilité, la charge sera également confisquée aux frais et aux risques du contrevenant. Si la charge comprend des marchandises périssables, la charge peut être vendue ou détruite sur ordre du contrôleur ZBE.  \n  Le contrôleur ZBE ou, le cas échéant, la police établissent un rapport de constatation ou un procès-verbal de la confiscation du véhicule et, le cas échéant, de la charge, par qui fait foi jusqu'à preuve du contraire.  \n  En cas d'une consignation, le contrôleur ZBE établit un rapport de constatation conformément à l'article 8, § 1er, qui est remis au contrevenant en personne.  \n  Une copie de ce rapport est remise au fonctionnaire verbalisant dans les quinze jours suivant l'établissement du rapport de constatation, la procédure visée aux paragraphes 3 à 6, à l'exception de la procédure visée au § 4, alinéa 2, entrant par la suite en vigueur.  \n  Suite à la décision définitive du fonctionnaire verbalisant visée au § 4, le montant consigné ou les objets confisqués sont restitués à condition que la preuve soit fournie qu'il a été satisfait à toutes les obligations financières, y compris les frais de confiscation éventuels. La restitution est aussi effectuée si le fonctionnaire verbalisant n'impose pas d'amende administrative dans le délai visé au § 3, alinéa 1er, si le fonctionnaire verbalisant déclare les moyens de défense bien fondés en application du § 4 ou si le fonctionnaire verbalisant n'a pas envoyé, dans le délai visé au paragraphe 4, alinéa 3, de déclaration d'irrecevabilité ou d'illégitimité des moyens de défense.  \n  Par dérogation à l'alinéa 6, le fonctionnaire verbalisant déduit dans sa décision définitive le montant consigné du montant imposé et il ordonne la restitution d'un éventuel solde excédentaire.  \n  Si les montants imposés dans la décision définitive, y compris les éventuels frais de confiscation, ne sont pas payés dans le délai de paiement déterminé à cet effet et que l'amende administrative est devenue exécutoire conformément au § 6, les objets confisqués peuvent être vendus en vue d'amortir la dette en souffrance. Les objets invendables, y compris les objets dont la valeur n'excède pas les frais de vente escomptés, peuvent être détruits aux frais du contrevenant.  \n  Le Gouvernement flamand peut arrêter les modalités relatives aux cas dans lesquels il peut être procédé à une consignation et relatives au mode d'exécution de la consignation. Le Gouvernement flamand peut autoriser la commune à préciser la mise en oeuvre concrète de la consignation.",
+          "numbered_provisions": [
+            {
+              "number": "1°",
+              "text": "le retrait des documents de bord ;",
+              "sub_items": []
+            },
+            {
+              "number": "2°",
+              "text": "le retrait de la lettre de voiture ;",
+              "sub_items": []
+            },
+            {
+              "number": "3°",
+              "text": "l'installation d'un sabot de Denver ;",
+              "sub_items": []
+            },
+            {
+              "number": "4°",
+              "text": "l'enlèvement du véhicule en infraction vers un dépôt ;",
+              "sub_items": []
+            },
+            {
+              "number": "5°",
+              "text": "le stationnement du véhicule.",
+              "sub_items": []
+            }
+          ]
+        }
+      },
+      "footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_content": "(1)<DCFL [2019-05-03/27](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327), art. 8, 004; En vigueur : 27-06-2019>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2019-05-03/27",
+            "article_number": "art. 8",
+            "sequence_number": "004",
+            "full_reference": "DCFL [2019-05-03/27]"
+          },
+          "effective_date": "27-06-2019",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327#Art.10"
+        },
+        {
+          "footnote_number": "2",
+          "footnote_content": "(2)<DCFL [2024-05-17/29](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024051729), art. 124, 005; En vigueur : 20-07-2024>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2024-05-17/29",
+            "article_number": "art. 124",
+            "sequence_number": "005",
+            "full_reference": "DCFL [2024-05-17/29]"
+          },
+          "effective_date": "20-07-2024",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024051729",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024051729#Art.10"
+        }
+      ],
+      "footnote_references": [
+        {
+          "reference_number": "2",
+          "text_position": 733,
+          "referenced_text": "Dans un délai de quinze jours après la réception du rapport de constats visé à l'article article 8/1, § 3, alinéa 2, le fonctionnaire verbalisant informe le contrevenant par envoi sécurisé ou par lettre ordinaire des données relatives aux faits constatés et à l'infraction commise, de même que du montant de l'amende administrative.  \n  L'amende administrative doit être payée dans un délai de trente jours après la notification de celle-ci, à moins que le contrevenant n'ait introduit ses moyens de défense par écrit, y compris, le cas échéant, les documents probants, au fonctionnaire verbalisant par envoi sécurisé endéans ce délai",
+          "embedded_law_references": [],
+          "bracket_pattern": "[2 Dans un délai de quinze jours après la réception du rapport de constats visé à l'article article 8/1, § 3, alinéa 2, le fonctionnaire verbalisant informe le contrevenant par envoi sécurisé ou par lettre ordinaire des données relatives aux faits constatés et à l'infraction commise, de même que du montant de l'amende administrative.  \n  L'amende administrative doit être payée dans un délai de trente jours après la notification de celle-ci, à moins que le contrevenant n'ait introduit ses moyens de défense par écrit, y compris, le cas échéant, les documents probants, au fonctionnaire verbalisant par envoi sécurisé endéans ce délai]2"
+        },
+        {
+          "reference_number": "2",
+          "text_position": 1383,
+          "referenced_text": "Si le titulaire de la plaque d'immatriculation a réfuté dans ses moyens de défense la présomption visée à l'article 8/1, § 1er, et si le fonctionnaire verbalisant déclare les moyens de défense recevables et fondés, il informe le titulaire de la plaque d'immatriculation de sa décision.  \n  Si le titulaire de la plaque d'immatriculation a communiqué l'identité du conducteur conformément à l'article 8/1, § 2, le fonctionnaire verbalisant informe, par envoi sécurisé ou par lettre ordinaire, le contrevenant désigné des données relatives aux faits constatés et à l'infraction commise, de même que le montant de l'amende administrative dans les quinze jours suivant la déclaration de légitimité des moyens de défense visée à l'alinéa 1er. L'amende administrative est payée dans les trente jours suivant sa notification, à moins que le contrevenant désigné n'ait dans ce délai transmis au fonctionnaire verbalisant ses moyens de défense par envoi sécurisé, y compris, le cas échéant, les documents probants.  \n  Si le fonctionnaire verbalisant déclare les moyens de défense non-recevables ou non-fondés, il met le contrevenant au courant de sa décision par envoi sécurisé ou par lettre ordinaire, tout en mentionnant l'amende administrative payable dans un délai de trente jours suivant la notification de cette décision. Si le fonctionnaire verbalisant n'envoie pas la déclaration d'irrecevabilité ou d'illégitimité des moyens de défense dans les nonante jours suivant la réception du contredit, la décision contestée relative à l'amende devient caduque. Si le fonctionnaire verbalisant déclare les moyens de défense recevables et fondés, il met le contrevenant au courant de sa décision.",
+          "embedded_law_references": [],
+          "bracket_pattern": "[2 Si le titulaire de la plaque d'immatriculation a réfuté dans ses moyens de défense la présomption visée à l'article 8/1, § 1er, et si le fonctionnaire verbalisant déclare les moyens de défense recevables et fondés, il informe le titulaire de la plaque d'immatriculation de sa décision.  \n  Si le titulaire de la plaque d'immatriculation a communiqué l'identité du conducteur conformément à l'article 8/1, § 2, le fonctionnaire verbalisant informe, par envoi sécurisé ou par lettre ordinaire, le contrevenant désigné des données relatives aux faits constatés et à l'infraction commise, de même que le montant de l'amende administrative dans les quinze jours suivant la déclaration de légitimité des moyens de défense visée à l'alinéa 1er. L'amende administrative est payée dans les trente jours suivant sa notification, à moins que le contrevenant désigné n'ait dans ce délai transmis au fonctionnaire verbalisant ses moyens de défense par envoi sécurisé, y compris, le cas échéant, les documents probants.  \n  Si le fonctionnaire verbalisant déclare les moyens de défense non-recevables ou non-fondés, il met le contrevenant au courant de sa décision par envoi sécurisé ou par lettre ordinaire, tout en mentionnant l'amende administrative payable dans un délai de trente jours suivant la notification de cette décision. Si le fonctionnaire verbalisant n'envoie pas la déclaration d'irrecevabilité ou d'illégitimité des moyens de défense dans les nonante jours suivant la réception du contredit, la décision contestée relative à l'amende devient caduque. Si le fonctionnaire verbalisant déclare les moyens de défense recevables et fondés, il met le contrevenant au courant de sa décision.]2"
+        },
+        {
+          "reference_number": "1",
+          "text_position": 3597,
+          "referenced_text": "visée aux § 3 et § 4, alinéa 2, sans que des moyens de défense n'aient été déposés",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 visée aux § 3 et § 4, alinéa 2, sans que des moyens de défense n'aient été déposés]1"
+        },
+        {
+          "reference_number": "1",
+          "text_position": 3780,
+          "referenced_text": "5",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 5]1"
+        },
+        {
+          "reference_number": "1",
+          "text_position": 3895,
+          "referenced_text": "à moins que la commune ne décide que l'amende administrative est perçue en faveur des instances visées à l'article 11",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 à moins que la commune ne décide que l'amende administrative est perçue en faveur des instances visées à l'article 11]1"
+        },
+        {
+          "reference_number": "1",
+          "text_position": 4379,
+          "referenced_text": "contrôleurs ZBE",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 contrôleurs ZBE]1"
+        },
+        {
+          "reference_number": "1",
+          "text_position": 4724,
+          "referenced_text": "La perception immédiate",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 La perception immédiate]1"
+        },
+        {
+          "reference_number": "1",
+          "text_position": 5096,
+          "referenced_text": "i le contrevenant n'accepte pas la perception immédiate visée au paragraphe 9, le contrôleur ZBE peut exiger qu'un montant égal à l'amende administrative fixée par le conseil communal soit obligatoirement donné en consignation en application du paragraphe 1er.  \n  Si, pour une raison quelconque, la consignation n'est pas non plus possible, le véhicule peut être confisqué par le contrôleur ZBE aux frais et aux risques du contrevenant, avec ou sans l'assistance de la police, jusqu'à ce que le montant de l'amende administrative ait été donné en consignation. Une ou plusieurs des mesures suivantes peuvent être prises dans le cadre de cette confiscation :  \n  1° le retrait des documents de bord ;  \n  2° le retrait de la lettre de voiture ;  \n  3° l'installation d'un sabot de Denver ;  \n  4° l'enlèvement du véhicule en infraction vers un dépôt ;  \n  5° le stationnement du véhicule.  \n  En cas de confiscation du véhicule telle que visée à l'alinéa précédent, le conducteur doit avoir la possibilité de transférer la charge éventuelle dans un autre véhicule. Si le conducteur du véhicule ne fait pas usage de cette possibilité, la charge sera également confisquée aux frais et aux risques du contrevenant. Si la charge comprend des marchandises périssables, la charge peut être vendue ou détruite sur ordre du contrôleur ZBE.  \n  Le contrôleur ZBE ou, le cas échéant, la police établissent un rapport de constatation ou un procès-verbal de la confiscation du véhicule et, le cas échéant, de la charge, par qui fait foi jusqu'à preuve du contraire.  \n  En cas d'une consignation, le contrôleur ZBE établit un rapport de constatation conformément à l'article 8, § 1er, qui est remis au contrevenant en personne.  \n  Une copie de ce rapport est remise au fonctionnaire verbalisant dans les quinze jours suivant l'établissement du rapport de constatation, la procédure visée aux paragraphes 3 à 6, à l'exception de la procédure visée au § 4, alinéa 2, entrant par la suite en vigueur.  \n  Suite à la décision définitive du fonctionnaire verbalisant visée au § 4, le montant consigné ou les objets confisqués sont restitués à condition que la preuve soit fournie qu'il a été satisfait à toutes les obligations financières, y compris les frais de confiscation éventuels. La restitution est aussi effectuée si le fonctionnaire verbalisant n'impose pas d'amende administrative dans le délai visé au § 3, alinéa 1er, si le fonctionnaire verbalisant déclare les moyens de défense bien fondés en application du § 4 ou si le fonctionnaire verbalisant n'a pas envoyé, dans le délai visé au paragraphe 4, alinéa 3, de déclaration d'irrecevabilité ou d'illégitimité des moyens de défense.  \n  Par dérogation à l'alinéa 6, le fonctionnaire verbalisant déduit dans sa décision définitive le montant consigné du montant imposé et il ordonne la restitution d'un éventuel solde excédentaire.  \n  Si les montants imposés dans la décision définitive, y compris les éventuels frais de confiscation, ne sont pas payés dans le délai de paiement déterminé à cet effet et que l'amende administrative est devenue exécutoire conformément au § 6, les objets confisqués peuvent être vendus en vue d'amortir la dette en souffrance. Les objets invendables, y compris les objets dont la valeur n'excède pas les frais de vente escomptés, peuvent être détruits aux frais du contrevenant.  \n  Le Gouvernement flamand peut arrêter les modalités relatives aux cas dans lesquels il peut être procédé à une consignation et relatives au mode d'exécution de la consignation. Le Gouvernement flamand peut autoriser la commune à préciser la mise en oeuvre concrète de la consignation.",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 i le contrevenant n'accepte pas la perception immédiate visée au paragraphe 9, le contrôleur ZBE peut exiger qu'un montant égal à l'amende administrative fixée par le conseil communal soit obligatoirement donné en consignation en application du paragraphe 1er.  \n  Si, pour une raison quelconque, la consignation n'est pas non plus possible, le véhicule peut être confisqué par le contrôleur ZBE aux frais et aux risques du contrevenant, avec ou sans l'assistance de la police, jusqu'à ce que le montant de l'amende administrative ait été donné en consignation. Une ou plusieurs des mesures suivantes peuvent être prises dans le cadre de cette confiscation :  \n  1° le retrait des documents de bord ;  \n  2° le retrait de la lettre de voiture ;  \n  3° l'installation d'un sabot de Denver ;  \n  4° l'enlèvement du véhicule en infraction vers un dépôt ;  \n  5° le stationnement du véhicule.  \n  En cas de confiscation du véhicule telle que visée à l'alinéa précédent, le conducteur doit avoir la possibilité de transférer la charge éventuelle dans un autre véhicule. Si le conducteur du véhicule ne fait pas usage de cette possibilité, la charge sera également confisquée aux frais et aux risques du contrevenant. Si la charge comprend des marchandises périssables, la charge peut être vendue ou détruite sur ordre du contrôleur ZBE.  \n  Le contrôleur ZBE ou, le cas échéant, la police établissent un rapport de constatation ou un procès-verbal de la confiscation du véhicule et, le cas échéant, de la charge, par qui fait foi jusqu'à preuve du contraire.  \n  En cas d'une consignation, le contrôleur ZBE établit un rapport de constatation conformément à l'article 8, § 1er, qui est remis au contrevenant en personne.  \n  Une copie de ce rapport est remise au fonctionnaire verbalisant dans les quinze jours suivant l'établissement du rapport de constatation, la procédure visée aux paragraphes 3 à 6, à l'exception de la procédure visée au § 4, alinéa 2, entrant par la suite en vigueur.  \n  Suite à la décision définitive du fonctionnaire verbalisant visée au § 4, le montant consigné ou les objets confisqués sont restitués à condition que la preuve soit fournie qu'il a été satisfait à toutes les obligations financières, y compris les frais de confiscation éventuels. La restitution est aussi effectuée si le fonctionnaire verbalisant n'impose pas d'amende administrative dans le délai visé au § 3, alinéa 1er, si le fonctionnaire verbalisant déclare les moyens de défense bien fondés en application du § 4 ou si le fonctionnaire verbalisant n'a pas envoyé, dans le délai visé au paragraphe 4, alinéa 3, de déclaration d'irrecevabilité ou d'illégitimité des moyens de défense.  \n  Par dérogation à l'alinéa 6, le fonctionnaire verbalisant déduit dans sa décision définitive le montant consigné du montant imposé et il ordonne la restitution d'un éventuel solde excédentaire.  \n  Si les montants imposés dans la décision définitive, y compris les éventuels frais de confiscation, ne sont pas payés dans le délai de paiement déterminé à cet effet et que l'amende administrative est devenue exécutoire conformément au § 6, les objets confisqués peuvent être vendus en vue d'amortir la dette en souffrance. Les objets invendables, y compris les objets dont la valeur n'excède pas les frais de vente escomptés, peuvent être détruits aux frais du contrevenant.  \n  Le Gouvernement flamand peut arrêter les modalités relatives aux cas dans lesquels il peut être procédé à une consignation et relatives au mode d'exécution de la consignation. Le Gouvernement flamand peut autoriser la commune à préciser la mise en oeuvre concrète de la consignation.]1"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "Art. 11",
+      "metadata": {
+        "article_range": "11",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "11",
+        "anchor_id": "art_11",
+        "content": {
+          "main_text": "La commune peut confier aux partenariats intercommunaux, aux agences communales autonomisées internes, aux régies communales autonomes et aux régies portuaires autonomes les tâches suivantes, en partie ou entièrement :  \n  1° la mise en oeuvre, y compris l'imposition et la perception du paiement d'une somme d'argent, telle que visée à l'article 6, alinéa premier ;  \n  2° l'exercice du contrôle du respect de la réglementation ZBE et la constatation d'infractions à cette réglementation, visé à l'article 8 :  \n  3° la désignation d'un membre du personnel comme fonctionnaire verbalisant, visé à l'article 10, § 2, pour autant que cette désignation est confirmée par le conseil communal ;  \n  4° l'enregistrement, visé à l'article 4, § 1er, du présent décret ;  \n  5° le contrôle des conditionsou de l'interdiction , visées à l'article 4, § 2 du présent décret.  \n  Les membres du personnel de ces institutions qui sont désignés par les organes compétents pour la mise en oeuvre des tâches, visées à l'alinéa premier, doivent répondre aux mêmes conditions que les membres du personnel de la commune, ont les mêmes compétences et ont accès aux données pertinentes pour la mise en oeuvre de leur mission, visées à l'article 9.",
+          "numbered_provisions": [
+            {
+              "number": "1°",
+              "text": "la mise en oeuvre, y compris l'imposition et la perception du paiement d'une somme d'argent, telle que visée à l'article 6, alinéa premier ;",
+              "sub_items": []
+            },
+            {
+              "number": "2°",
+              "text": "l'exercice du contrôle du respect de la réglementation ZBE [1 et la constatation d'infractions à cette réglementation]1, visé à l'article 8 :",
+              "sub_items": []
+            },
+            {
+              "number": "3°",
+              "text": "la désignation d'un membre du personnel comme fonctionnaire verbalisant, visé à l'article 10, § 2, pour autant que cette désignation est confirmée par le conseil communal ;",
+              "sub_items": []
+            },
+            {
+              "number": "4°",
+              "text": "l'enregistrement, visé à l'article 4, § 1er, du présent décret ;",
+              "sub_items": []
+            },
+            {
+              "number": "5°",
+              "text": "le contrôle des conditions[1 ou de l'interdiction]1 , visées à l'article 4, § 2 du présent décret.",
+              "sub_items": []
+            }
+          ]
+        }
+      },
+      "footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_content": "(1)<DCFL [2019-05-03/27](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327), art. 9, 004; En vigueur : 27-06-2019>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2019-05-03/27",
+            "article_number": "art. 9",
+            "sequence_number": "004",
+            "full_reference": "DCFL [2019-05-03/27]"
+          },
+          "effective_date": "27-06-2019",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327#Art.11"
+        }
+      ],
+      "footnote_references": [
+        {
+          "reference_number": "1",
+          "text_position": 433,
+          "referenced_text": "et la constatation d'infractions à cette réglementation",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 et la constatation d'infractions à cette réglementation]1"
+        },
+        {
+          "reference_number": "1",
+          "text_position": 801,
+          "referenced_text": "ou de l'interdiction",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 ou de l'interdiction]1"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "Art. 11/1",
+      "metadata": {
+        "article_range": "11/1",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "11/1",
+        "anchor_id": "art_11/1",
+        "content": {
+          "main_text": "En vue de la perception de la somme d'argent visée à l'article 6, et en vue de l'exercice de contrôle en matière du respect de la réglementation ZBE et de la constatation d'infractions à cette réglementation, la commune peut faire appel à un concessionnaire privé pour recueillir, par des moyens audiovisuels, des données pertinentes concernant les véhicules sur le domaine public. Ce recueil est effectué dans le respect de la réglementation concernant la protection de la vie privée, visée à l'article 8 de la Convention européenne des droits de l'Homme, et de réglementation sur la protection des personnes physiques à l'égard du traitement des données à caractère personnel.  \n  Si les membres du personnel du concessionnaire privé recueillent des données, il leur est interdit de rechercher des personnes, témoins ou responsables concernés, de vérifier leur identité, d'obtenir des informations supplémentaires ou d'interroger des personnes. Pendant l'exercice de leur mission, ils disposent d'une carte d'identité démontrant leur compétence.  \n  La commune veille à ce que le concessionnaire visé à l'alinéa 1er fournisse des garanties suffisantes pour un service de qualité qui respecte les droits et libertés du citoyen.",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [
+        {
+          "footnote_number": "1",
+          "footnote_content": "(1)<Inséré par DCFL [2019-05-03/27](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327), art. 10, 004; En vigueur : 27-06-2019>",
+          "law_reference": {
+            "law_type": "DCFL",
+            "date_reference": "2019-05-03/27",
+            "article_number": "art. 10",
+            "sequence_number": "004",
+            "full_reference": "DCFL [2019-05-03/27]"
+          },
+          "effective_date": "27-06-2019",
+          "modification_type": "modification",
+          "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327",
+          "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2019050327#Art.11/1"
+        }
+      ],
+      "footnote_references": [
+        {
+          "reference_number": "1",
+          "text_position": 0,
+          "referenced_text": "En vue de la perception de la somme d'argent visée à l'article 6, et en vue de l'exercice de contrôle en matière du respect de la réglementation ZBE et de la constatation d'infractions à cette réglementation, la commune peut faire appel à un concessionnaire privé pour recueillir, par des moyens audiovisuels, des données pertinentes concernant les véhicules sur le domaine public. Ce recueil est effectué dans le respect de la réglementation concernant la protection de la vie privée, visée à l'article 8 de la Convention européenne des droits de l'Homme, et de réglementation sur la protection des personnes physiques à l'égard du traitement des données à caractère personnel.  \n  Si les membres du personnel du concessionnaire privé recueillent des données, il leur est interdit de rechercher des personnes, témoins ou responsables concernés, de vérifier leur identité, d'obtenir des informations supplémentaires ou d'interroger des personnes. Pendant l'exercice de leur mission, ils disposent d'une carte d'identité démontrant leur compétence.  \n  La commune veille à ce que le concessionnaire visé à l'alinéa 1er fournisse des garanties suffisantes pour un service de qualité qui respecte les droits et libertés du citoyen.",
+          "embedded_law_references": [],
+          "bracket_pattern": "[1 En vue de la perception de la somme d'argent visée à l'article 6, et en vue de l'exercice de contrôle en matière du respect de la réglementation ZBE et de la constatation d'infractions à cette réglementation, la commune peut faire appel à un concessionnaire privé pour recueillir, par des moyens audiovisuels, des données pertinentes concernant les véhicules sur le domaine public. Ce recueil est effectué dans le respect de la réglementation concernant la protection de la vie privée, visée à l'article 8 de la Convention européenne des droits de l'Homme, et de réglementation sur la protection des personnes physiques à l'égard du traitement des données à caractère personnel.  \n  Si les membres du personnel du concessionnaire privé recueillent des données, il leur est interdit de rechercher des personnes, témoins ou responsables concernés, de vérifier leur identité, d'obtenir des informations supplémentaires ou d'interroger des personnes. Pendant l'exercice de leur mission, ils disposent d'une carte d'identité démontrant leur compétence.  \n  La commune veille à ce que le concessionnaire visé à l'alinéa 1er fournisse des garanties suffisantes pour un service de qualité qui respecte les droits et libertés du citoyen.]1"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "Art. 12",
+      "metadata": {
+        "article_range": "12",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "12",
+        "anchor_id": "art_12",
+        "content": {
+          "main_text": "A l'article 601ter du Code judiciaire, inséré par la loi du 13 mai 1999 et modifié par les lois des 24 juin 2013 et 15 juillet 2013, il est ajouté un point 6°, rédigé comme suit :  \n  \"6° le recours contre la décision d'infliger une amende administrative en vertu de l'article 10, § 4 du décret du 27 novembre 2015 relatif aux zones de basses émissions.",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Art. 13",
+      "metadata": {
+        "article_range": "13",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "13",
+        "anchor_id": "art_13",
+        "content": {
+          "main_text": "A l'article 29, § 2 de la loi du 16 mars 1968 relative à la police de la circulation routière modifiée par la loi du 1 avril 2006 et la loi du 20 mars 2007, il est ajouté un alinéa quatre, rédigé comme suit :  \n  \"L'infraction aux règlements visés à l'alinéa premier afférente à une zone de basses émissions, telle que visée à l'article 2.63 de l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique, n'est pas pénalement sanctionnée.\".  \n  \n**ARTICLE**[Art.] 14.Le présent décret entre en vigueur à une date à fixer par le Gouvernement flamand.  \n  \n  (NOTE : entrée en vigueur fixée au 01-03-2016 par AGF[2016-02-26/02](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2016022602), art. 9, 1°)  \n  \n\n[12A] ## Travaux parlementaires [12B]\n\n   Session 2014-2015. Documents. - Projet de décret, 454 - N° 1. Session 2015-2016. Documents. - Amendements, 454 - N° 2. - Rapport, 454 - N° 3. - Texte adopté en séance plénière, 454 - N° 4. Annales. - Discussion et adoption. Séance du 18 novembre 2015. \n\n[11A] ## Signatures [11B]\n\n   Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.  \nBruxelles, le 27 novembre 2015.  \nLe Ministre-Président du Gouvernement flamand,  \nG. BOURGEOIS  \nLa Ministre flamande de l'Environnement, de la Nature et de l'Agriculture,  \nJ. SCHAUVLIEGE \n\n[9A] ## Préambule [9B]\n\n   Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit : \n\n[4A] ## Fiche des modifications [4B]\n\n  * [Décret conseil flamand du 17-05-2024 publié le 10-07-2024](https://www.ejustice.just.fgov.be/mopdf/2024/07/10_1.pdf#Page116)\nArticle modifié : 10\n  * [Décret conseil flamand du 03-05-2019 publié le 17-06-2019](https://www.ejustice.just.fgov.be/mopdf/2019/06/17_1.pdf#Page87)\nArticles modifiés :  \n2; 7; 7/1; 8; 8/1; 9; 10; 11; 11/1\n  * [Décret conseil flamand du 07-12-2018 publié le 19-12-2018](https://www.ejustice.just.fgov.be/mopdf/2018/12/19_1.pdf#Page268)\nArticle modifié : 5\n  * [Décret conseil flamand du 08-06-2018 publié le 26-06-2018](https://www.ejustice.just.fgov.be/mopdf/2018/06/26_1.pdf#Page69)\nArticles modifiés :  \n5; 9; 8 \n\n\n[5A] [6A] ## Lien [6B]s [5B]\n\n<https://www.ejustice.just.fgov.be/eli/decret/2015/11/27/2015036551/justel> Copier le lien [Image de la publication officielle](https://www.ejustice.just.fgov.be/mopdf/2015/12/18_2.pdf#Page174) [PDF version consolidée](https://www.ejustice.just.fgov.be/img_l/pdf/2015/11/27/2015036551_F.pdf)\n\n[6A] ## Lien [6B] externe\n\n[Conseil d'Etat](http://reflex.raadvst-consetat.be/reflex/?page=chrono&c=detail_get&d=detail&docid=132155&tab=chrono&lang=fr) Informations générales\n\n  * [Conditions d'utilisation](https://www.ejustice.just.fgov.be/img_2024/pdf/GebruiksvoorwaardenFR.pdf)\n\nLiens utiles\n\n  * [SPF Justice](https://justitie.belgium.be/fr)\n  * [Ministère Public](https://www.om-mp.be/fr)\n  * [Cours & tribunaux](https://www.rechtbanken-tribunaux.be/fr)\n  * [Cours de cassation](https://justice.belgium.be/fr/ordre_judiciaire/cours_et_tribunaux/cour_de_cassation)\n\nCopyright © 2024 Service Public Fédéral Belge",
+          "numbered_provisions": []
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": [
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2024-07-10",
+        "modified_articles": [
+          "10"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2024/07/10_1.pdf#Page116",
+        "full_title": "Décret conseil flamand du 17-05-2024 publié le 10-07-2024"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2019-06-17",
+        "modified_articles": [
+          "2",
+          "7",
+          "7/1",
+          "8",
+          "8/1",
+          "9",
+          "10",
+          "11",
+          "11/1"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2019/06/17_1.pdf#Page87",
+        "full_title": "Décret conseil flamand du 03-05-2019 publié le 17-06-2019"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2018-12-19",
+        "modified_articles": [
+          "5"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2018/12/19_1.pdf#Page268",
+        "full_title": "Décret conseil flamand du 07-12-2018 publié le 19-12-2018"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2018-06-26",
+        "modified_articles": [
+          "5",
+          "9",
+          "8"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2018/06/26_1.pdf#Page69",
+        "full_title": "Décret conseil flamand du 08-06-2018 publié le 26-06-2018"
+      }
+    ]
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-07-12T13:12:32.524241",
+    "source_file": "2015036551.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false
+    }
+  }
+}
