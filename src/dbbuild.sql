@@ -11,7 +11,7 @@
         source TEXT,
         page_number INTEGER,
         dossier_number VARCHAR(50),
-        effective_date VARCHAR(50),
+        effective_date VARCHAR(200),
         language VARCHAR(10) NOT NULL,
         document_type VARCHAR(50) NOT NULL,
         status VARCHAR(20) DEFAULT 'active' NOT NULL,

@@ -271,6 +271,29 @@ class DatabaseOperations {
       return null;
     }
     
+    // Handle Belgian legal conditional dates (Moniteur belge references)
+    if (dateString.toLowerCase().includes('moniteur belge') || 
+        dateString.toLowerCase().includes('condition que') ||
+        dateString.toLowerCase().includes('à la date de la dernière')) {
+      // These are conditional effective dates that depend on future publications
+      // Return null as the actual date is indeterminate
+      return null;
+    }
+    
+    // Handle other complex legal date expressions
+    if (dateString.toLowerCase().includes('entre en vigueur') && 
+        !dateString.match(/\d{2}-\d{2}-\d{4}/)) {
+      // Complex effective date clauses without specific dates
+      return null;
+    }
+    
+    // Handle "à déterminer" or similar indeterminate expressions
+    if (dateString.toLowerCase().includes('déterminer') ||
+        dateString.toLowerCase().includes('à fixer') ||
+        dateString.toLowerCase().includes('ultérieurement')) {
+      return null;
+    }
+    
     // Return null if format is unrecognized
     Logger.warning(`Unrecognized date format: ${dateString}`);
     return null;
