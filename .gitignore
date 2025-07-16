@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Local development directories
+documents/
+zipped/
+
+# Processing state
+processing-state.json
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
