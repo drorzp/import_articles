@@ -14,6 +14,12 @@ interface ProcessingState {
     error: string;
     timestamp: string;
   }>;
+  failedDocuments: Array<{
+    zipFile: string;
+    documentPath: string;
+    error: string;
+    timestamp: string;
+  }>;
 }
 
 class StateManager {
@@ -64,14 +70,27 @@ class StateManager {
     }
     
     console.log(`⚠️  Errors encountered: ${state.errors.length}`);
-    
+    console.log(`📄 Failed documents: ${state.failedDocuments?.length || 0}`);
+
     if (state.errors.length > 0) {
-      console.log('\n❌ Error Details:');
+      console.log('\n❌ Zip File Error Details:');
       console.log('-'.repeat(50));
       state.errors.forEach((error, index) => {
         console.log(`${index + 1}. File: ${error.zipFile}`);
         console.log(`   Error: ${error.error}`);
         console.log(`   Time: ${new Date(error.timestamp).toLocaleString()}`);
+        console.log('');
+      });
+    }
+
+    if (state.failedDocuments && state.failedDocuments.length > 0) {
+      console.log('\n📄 Failed Document Details:');
+      console.log('-'.repeat(50));
+      state.failedDocuments.forEach((failedDoc, index) => {
+        console.log(`${index + 1}. Document: ${failedDoc.documentPath}`);
+        console.log(`   Zip File: ${failedDoc.zipFile}`);
+        console.log(`   Error: ${failedDoc.error}`);
+        console.log(`   Time: ${new Date(failedDoc.timestamp).toLocaleString()}`);
         console.log('');
       });
     }
@@ -101,7 +120,8 @@ class StateManager {
       totalDocumentsFailed: 0,
       startTime: new Date().toISOString(),
       lastUpdateTime: new Date().toISOString(),
-      errors: []
+      errors: [],
+      failedDocuments: []
     };
     
     await fs.writeFile(this.stateFilePath, JSON.stringify(newState, null, 2));
@@ -124,6 +144,29 @@ class StateManager {
     
     await fs.writeFile(backupPath, JSON.stringify(state, null, 2));
     console.log(`✅ State backed up to: ${backupPath}`);
+  }
+
+  async addDocumentFailure(zipFile: string, documentPath: string, error: string): Promise<void> {
+    const state = await this.loadState();
+    
+    if (!state) {
+      console.log('❌ No existing state found. Cannot add document failure.');
+      return;
+    }
+
+    if (!state.failedDocuments) {
+      state.failedDocuments = [];
+    }
+
+    state.failedDocuments.push({
+      zipFile,
+      documentPath,
+      error,
+      timestamp: new Date().toISOString()
+    });
+    
+    state.lastUpdateTime = new Date().toISOString();
+    await fs.writeFile(this.stateFilePath, JSON.stringify(state, null, 2));
   }
 
   async exportReport(): Promise<void> {
@@ -149,9 +192,11 @@ class StateManager {
           : '0%',
         startTime: state.startTime,
         lastUpdateTime: state.lastUpdateTime,
-        totalErrors: state.errors.length
+        totalErrors: state.errors.length,
+        totalFailedDocuments: state.failedDocuments?.length || 0
       },
       errors: state.errors,
+      failedDocuments: state.failedDocuments || [],
       generatedAt: new Date().toISOString()
     };
     

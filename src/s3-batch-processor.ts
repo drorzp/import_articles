@@ -31,6 +31,12 @@ interface ProcessingState {
     error: string;
     timestamp: string;
   }>;
+  failedDocuments: Array<{
+    zipFile: string;
+    documentPath: string;
+    error: string;
+    timestamp: string;
+  }>;
 }
 
 interface ZipFileInfo {
@@ -45,6 +51,7 @@ class S3BatchProcessor {
   private stateFilePath: string;
   private documentsDir: string;
   private zippedDir: string;
+  private errorsDir: string;
   private state: ProcessingState;
 
   constructor(config: S3Config) {
@@ -60,6 +67,7 @@ class S3BatchProcessor {
     this.stateFilePath = path.join(process.cwd(), 'processing-state.json');
     this.documentsDir = path.join(process.cwd(), 'documents');
     this.zippedDir = path.join(process.cwd(), 'zipped');
+    this.errorsDir = path.join(process.cwd(), 'errors');
     
     this.state = {
       lastProcessedFile: null,
@@ -69,7 +77,8 @@ class S3BatchProcessor {
       totalDocumentsFailed: 0,
       startTime: new Date().toISOString(),
       lastUpdateTime: new Date().toISOString(),
-      errors: []
+      errors: [],
+      failedDocuments: []
     };
   }
 
@@ -91,6 +100,7 @@ class S3BatchProcessor {
   private async ensureDirectories(): Promise<void> {
     await fs.mkdir(this.documentsDir, { recursive: true });
     await fs.mkdir(this.zippedDir, { recursive: true });
+    await fs.mkdir(this.errorsDir, { recursive: true });
   }
 
   private async listS3ZipFiles(): Promise<ZipFileInfo[]> {
@@ -222,6 +232,53 @@ class S3BatchProcessor {
     });
   }
 
+  private async moveFailedDocuments(zipFileName: string, failures: Array<{filename: string, reason: string}>): Promise<void> {
+    if (!failures || failures.length === 0) {
+      return;
+    }
+
+    console.log(`📁 Moving ${failures.length} failed documents to errors directory...`);
+    
+    // Create errors directory structure: errors/zipFileName/
+    const zipBaseName = path.basename(zipFileName, '.zip');
+    const errorSubDir = path.join(this.errorsDir, zipBaseName);
+    
+    try {
+      await fs.mkdir(errorSubDir, { recursive: true });
+      
+      for (const failure of failures) {
+        const sourcePath = path.join(this.documentsDir, failure.filename);
+        const targetPath = path.join(errorSubDir, failure.filename);
+        
+        try {
+          // Check if source file exists before moving
+          await fs.access(sourcePath);
+          await fs.rename(sourcePath, targetPath);
+          console.log(`📄 Moved failed document: ${failure.filename} → errors/${zipBaseName}/`);
+        } catch (moveError) {
+          console.warn(`⚠️  Could not move ${failure.filename}:`, moveError);
+        }
+      }
+      
+      // Create a summary file with error details
+      const errorSummary = {
+        zipFile: zipFileName,
+        processedAt: new Date().toISOString(),
+        failedDocuments: failures.map(f => ({
+          filename: f.filename,
+          error: f.reason
+        }))
+      };
+      
+      const summaryPath = path.join(errorSubDir, '_error_summary.json');
+      await fs.writeFile(summaryPath, JSON.stringify(errorSummary, null, 2));
+      console.log(`📋 Created error summary: errors/${zipBaseName}/_error_summary.json`);
+      
+    } catch (error) {
+      console.error('❌ Error moving failed documents:', error);
+    }
+  }
+
   private async cleanupDirectories(): Promise<void> {
     console.log('🧹 Cleaning up directories...');
     
@@ -268,6 +325,21 @@ class S3BatchProcessor {
       
       // Process documents
       const summary = await this.processDocuments();
+      
+      // Move failed documents to errors directory before cleanup
+      if (summary.failures && summary.failures.length > 0) {
+        await this.moveFailedDocuments(zipFileInfo.key, summary.failures);
+        
+        // Record individual document failures in state
+        for (const failure of summary.failures) {
+          this.state.failedDocuments.push({
+            zipFile: zipFileInfo.key,
+            documentPath: failure.filename,
+            error: failure.reason,
+            timestamp: new Date().toISOString()
+          });
+        }
+      }
       
       // Update state
       this.state.lastProcessedFile = zipFileInfo.key;
@@ -371,7 +443,8 @@ class S3BatchProcessor {
       totalDocumentsFailed: 0,
       startTime: new Date().toISOString(),
       lastUpdateTime: new Date().toISOString(),
-      errors: []
+      errors: [],
+      failedDocuments: []
     };
     
     await this.saveState();

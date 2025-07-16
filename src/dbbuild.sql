@@ -41,9 +41,9 @@
         document_id VARCHAR(20) NOT NULL,
         parent_id INTEGER,
         element_type VARCHAR(50),
-        label VARCHAR(255),
+        label TEXT,
         title_type VARCHAR(50),
-        title_content VARCHAR(255),
+        title_content TEXT,
         article_range VARCHAR(100),
         rank INTEGER,
         level INTEGER,
@@ -78,7 +78,7 @@
         id SERIAL PRIMARY KEY,
         hierarchy_element_id INTEGER NOT NULL,
         footnote_number VARCHAR(10),
-        footnote_content VARCHAR(400),
+        footnote_content TEXT,
         law_type VARCHAR(10),
         date_reference VARCHAR(20),
         article_number VARCHAR(50),
@@ -97,18 +97,18 @@
         id SERIAL PRIMARY KEY,
         hierarchy_element_id INTEGER NOT NULL,
         footnote_id INTEGER NOT NULL,
-        reference_number VARCHAR(10),
+        reference_number TEXT,
         text_position INTEGER,
-        referenced_text VARCHAR(400),
-        bracket_pattern VARCHAR(10),
+        referenced_text TEXT,
+        bracket_pattern TEXT,
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
 
     -- 8. Embedded law references table
     CREATE TABLE embedded_law_references (
         id SERIAL PRIMARY KEY,
-        footnote_reference_id INTEGER NOT NULL,
-        law_reference VARCHAR(255) NOT NULL,
+        footnote_reference_id INTEGER,
+        law_reference TEXT,
         reference_type VARCHAR(50),
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
@@ -132,7 +132,7 @@
         modification_date DATE,
         publication_date DATE,
         source_url VARCHAR(255),
-        full_title VARCHAR(255) NOT NULL,
+        full_title TEXT,
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
 
