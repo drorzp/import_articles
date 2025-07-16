@@ -3,6 +3,10 @@ import * as path from 'path';
 import { Pool, PoolClient, PoolConfig } from 'pg';
 import Ajv, { ValidateFunction } from 'ajv';
 import addFormats from 'ajv-formats';
+import * as dotenv from 'dotenv';
+
+// Load environment variables
+dotenv.config();
 
 interface DocumentMetadata {
   document_number: string;
@@ -144,11 +148,11 @@ interface ProcessingSummary {
 }
 
 const dbConfig: PoolConfig = {
-  host: 'localhost',
-  port: 5433,
-  database: 'lawyers',
-  user:'postgres',
-  password:'strongpassword'
+  host: process.env.DB_HOST || 'localhost',
+  port: parseInt(process.env.DB_PORT || '5433'),
+  database: process.env.DB_NAME || 'lawyers',
+  user: process.env.DB_USER || 'postgres',
+  password: process.env.DB_PASSWORD || 'strongpassword'
 };
 const pool = new Pool(dbConfig);
 const documentSchema = {
@@ -969,4 +973,4 @@ if (require.main === module) {
   });
 }
 
-export { DocumentProcessor, DatabaseOperations, LegalDocument };
+export { DocumentProcessor, DatabaseOperations, LegalDocument, ProcessingSummary };

@@ -6,18 +6,20 @@
     CREATE TABLE documents (
         id SERIAL PRIMARY KEY,
         document_number VARCHAR(20) UNIQUE NOT NULL,
-        title TEXT NOT NULL,
+        title TEXT,
         publication_date DATE,
-        source TEXT,
+        source VARCHAR(50),
         page_number INTEGER,
         dossier_number VARCHAR(50),
         effective_date VARCHAR(200),
-        language VARCHAR(10) NOT NULL,
-        document_type VARCHAR(50) NOT NULL,
-        status VARCHAR(20) DEFAULT 'active' NOT NULL,
+        language VARCHAR(10),
+        document_type VARCHAR(50),
+        status VARCHAR(20),
         official_justel_url TEXT,
         official_publication_pdf_url TEXT,
-        consolidated_pdf_url TEXT,
+        consolidated_pdf_url VARCHAR(255),
+        end_validity_date VARCHAR(200),
+        preamble VARCHAR(255),
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL,
         updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
@@ -25,27 +27,27 @@
     -- 2. Document versions table
     CREATE TABLE document_versions (
         id SERIAL PRIMARY KEY,
-        document_id INTEGER NOT NULL,
+        document_id VARCHAR(20) NOT NULL,
         archived_versions_count INTEGER DEFAULT 0,
-        archived_versions_url TEXT,
+        archived_versions_url VARCHAR(300),
         execution_orders_count INTEGER DEFAULT 0,
-        execution_orders_url TEXT,
+        execution_orders_url VARCHAR(300),
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
 
     -- 3. Hierarchy elements table
     CREATE TABLE hierarchy_elements (
         id SERIAL PRIMARY KEY,
-        document_id INTEGER NOT NULL,
+        document_id VARCHAR(20) NOT NULL,
         parent_id INTEGER,
-        element_type VARCHAR(50) NOT NULL,
-        label TEXT NOT NULL,
+        element_type VARCHAR(50),
+        label VARCHAR(255),
         title_type VARCHAR(50),
-        title_content TEXT,
+        title_content VARCHAR(255),
         article_range VARCHAR(100),
-        rank INTEGER NOT NULL,
-        level INTEGER NOT NULL,
-        path TEXT,
+        rank INTEGER,
+        level INTEGER,
+        path VARCHAR(60),
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL,
         UNIQUE(document_id, parent_id, rank)
     );
@@ -65,9 +67,9 @@
     CREATE TABLE numbered_provisions (
         id SERIAL PRIMARY KEY,
         article_content_id INTEGER NOT NULL,
-        provision_number VARCHAR(50) NOT NULL,
-        provision_text TEXT NOT NULL,
-        order_index INTEGER NOT NULL,
+        provision_number VARCHAR(50),
+        provision_text TEXT,
+        order_index INTEGER,
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
 
@@ -75,8 +77,8 @@
     CREATE TABLE footnotes (
         id SERIAL PRIMARY KEY,
         hierarchy_element_id INTEGER NOT NULL,
-        footnote_number VARCHAR(10) NOT NULL,
-        footnote_content TEXT NOT NULL,
+        footnote_number VARCHAR(10),
+        footnote_content VARCHAR(400),
         law_type VARCHAR(10),
         date_reference VARCHAR(20),
         article_number VARCHAR(50),
@@ -84,8 +86,8 @@
         full_reference VARCHAR(100),
         effective_date DATE,
         modification_type VARCHAR(20),
-        direct_url TEXT,
-        direct_article_url TEXT,
+        direct_url  VARCHAR(255),
+        direct_article_url VARCHAR(255),
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL,
         UNIQUE(hierarchy_element_id, footnote_number)
     );
@@ -95,10 +97,10 @@
         id SERIAL PRIMARY KEY,
         hierarchy_element_id INTEGER NOT NULL,
         footnote_id INTEGER NOT NULL,
-        reference_number VARCHAR(10) NOT NULL,
-        text_position INTEGER NOT NULL,
-        referenced_text TEXT NOT NULL,
-        bracket_pattern TEXT,
+        reference_number VARCHAR(10),
+        text_position INTEGER,
+        referenced_text VARCHAR(400),
+        bracket_pattern VARCHAR(10),
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
 
@@ -106,7 +108,7 @@
     CREATE TABLE embedded_law_references (
         id SERIAL PRIMARY KEY,
         footnote_reference_id INTEGER NOT NULL,
-        law_reference TEXT NOT NULL,
+        law_reference VARCHAR(255) NOT NULL,
         reference_type VARCHAR(50),
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
@@ -114,7 +116,7 @@
     -- 9. Document modifies table
     CREATE TABLE document_modifies (
         id SERIAL PRIMARY KEY,
-        document_id INTEGER NOT NULL,
+        document_id VARCHAR(20) NOT NULL,
         modified_document_number VARCHAR(20),
         modified_document_title TEXT,
         modification_type VARCHAR(50),
@@ -125,12 +127,12 @@
     -- 10. Document modified by table
     CREATE TABLE document_modified_by (
         id SERIAL PRIMARY KEY,
-        document_id INTEGER NOT NULL,
-        modification_type VARCHAR(50) NOT NULL,
+        document_id VARCHAR(20) NOT NULL,
+        modification_type VARCHAR(50),
         modification_date DATE,
         publication_date DATE,
-        source_url TEXT,
-        full_title TEXT NOT NULL,
+        source_url VARCHAR(255),
+        full_title VARCHAR(255) NOT NULL,
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
 
@@ -138,27 +140,27 @@
     CREATE TABLE modified_articles (
         id SERIAL PRIMARY KEY,
         modification_id INTEGER NOT NULL,
-        article_number VARCHAR(50) NOT NULL,
-        modification_note TEXT,
+        article_number VARCHAR(50),
+        modification_note VARCHAR(400),
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
 
     -- 12. External links table
     CREATE TABLE external_links (
         id SERIAL PRIMARY KEY,
-        document_id INTEGER NOT NULL,
-        link_type VARCHAR(50) NOT NULL,
-        link_url TEXT NOT NULL,
-        link_title TEXT,
-        link_description TEXT,
-        order_index INTEGER DEFAULT 0,
+        document_id VARCHAR(20) NOT NULL,
+        link_type VARCHAR(50),
+        link_url VARCHAR(255),
+        link_title VARCHAR(255),
+        link_description VARCHAR(255),
+        order_index INTEGER,
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
 
     -- 13. Extraction metadata table
     CREATE TABLE extraction_metadata (
         id SERIAL PRIMARY KEY,
-        document_id INTEGER UNIQUE NOT NULL,
+        document_id VARCHAR(20) UNIQUE NOT NULL,
         extraction_date TIMESTAMP WITH TIME ZONE NOT NULL,
         source_file VARCHAR(255),
         sections_included TEXT[],

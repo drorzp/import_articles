@@ -42,12 +42,15 @@ const path = __importStar(require("path"));
 const pg_1 = require("pg");
 const ajv_1 = __importDefault(require("ajv"));
 const ajv_formats_1 = __importDefault(require("ajv-formats"));
+const dotenv = __importStar(require("dotenv"));
+// Load environment variables
+dotenv.config();
 const dbConfig = {
-    host: 'localhost',
-    port: 5433,
-    database: 'lawyers',
-    user: 'postgres',
-    password: 'strongpassword'
+    host: process.env.DB_HOST || 'localhost',
+    port: parseInt(process.env.DB_PORT || '5433'),
+    database: process.env.DB_NAME || 'lawyers',
+    user: process.env.DB_USER || 'postgres',
+    password: process.env.DB_PASSWORD || 'strongpassword'
 };
 const pool = new pg_1.Pool(dbConfig);
 const documentSchema = {
@@ -60,7 +63,12 @@ const documentSchema = {
             properties: {
                 document_number: { type: 'string' },
                 title: { type: 'string' },
-                publication_date: { type: 'string', format: 'date' },
+                publication_date: {
+                    anyOf: [
+                        { type: 'string', format: 'date' },
+                        { type: 'string', enum: [''] }
+                    ]
+                },
                 language: { type: 'string' },
                 document_type: { type: 'string' },
                 status: { type: 'string' }
@@ -127,10 +135,10 @@ class DatabaseOperations {
         if (/^\d{4}-\d{2}-\d{2}$/.test(dateString)) {
             return dateString;
         }
-        // Convert DD-MM-YYYY to YYYY-MM-DD
-        const match = dateString.match(/^(\d{2})-(\d{2})-(\d{4})$/);
-        if (match) {
-            return `${match[3]}-${match[2]}-${match[1]}`;
+        // Handle basic DD-MM-YYYY format at start of string (most common case)
+        const basicMatch = dateString.match(/^(\d{2})-(\d{2})-(\d{4})/);
+        if (basicMatch) {
+            return `${basicMatch[3]}-${basicMatch[2]}-${basicMatch[1]}`;
         }
         // Handle French date format: "indeterminee et au plus tard le DD-MM-YYYY"
         const frenchDateMatch = dateString.match(/au plus tard le (\d{2})-(\d{2})-(\d{4})/);
@@ -142,10 +150,35 @@ class DatabaseOperations {
         if (enVigueurMatch) {
             return `${enVigueurMatch[3]}-${enVigueurMatch[2]}-${enVigueurMatch[1]}`;
         }
+        // Handle "**En vigueur :**DD-MM-YYYY" format (with markdown formatting)
+        const enVigueurMarkdownMatch = dateString.match(/\*\*En vigueur :\*\*(\d{2})-(\d{2})-(\d{4})/);
+        if (enVigueurMarkdownMatch) {
+            return `${enVigueurMarkdownMatch[3]}-${enVigueurMarkdownMatch[2]}-${enVigueurMarkdownMatch[1]}`;
+        }
         // Handle "indeterminee" as a special case
         if (dateString.toLowerCase().includes('indeterminee')) {
             // For indeterminate dates, we'll use a conventional placeholder or null
             // Using null is better than an arbitrary date that might be misleading
+            return null;
+        }
+        // Handle Belgian legal conditional dates (Moniteur belge references)
+        if (dateString.toLowerCase().includes('moniteur belge') ||
+            dateString.toLowerCase().includes('condition que') ||
+            dateString.toLowerCase().includes('à la date de la dernière')) {
+            // These are conditional effective dates that depend on future publications
+            // Return null as the actual date is indeterminate
+            return null;
+        }
+        // Handle other complex legal date expressions
+        if (dateString.toLowerCase().includes('entre en vigueur') &&
+            !dateString.match(/\d{2}-\d{2}-\d{4}/)) {
+            // Complex effective date clauses without specific dates
+            return null;
+        }
+        // Handle "à déterminer" or similar indeterminate expressions
+        if (dateString.toLowerCase().includes('déterminer') ||
+            dateString.toLowerCase().includes('à fixer') ||
+            dateString.toLowerCase().includes('ultérieurement')) {
             return null;
         }
         // Return null if format is unrecognized
@@ -165,7 +198,7 @@ class DatabaseOperations {
         const values = [
             metadata.document_number,
             metadata.title,
-            metadata.publication_date,
+            metadata.publication_date || null,
             metadata.source || null,
             metadata.page_number || 0,
             metadata.dossier_number || null,
@@ -325,6 +358,33 @@ class DatabaseOperations {
       ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)
       RETURNING id
     `;
+        // Sanitize sequence_number to extract only the numeric part and truncate to 10 chars
+        let sanitizedSequenceNumber = footnote.law_reference?.sequence_number || null;
+        if (sanitizedSequenceNumber) {
+            // Extract the numeric part at the beginning (e.g., "003" from "003> (2)<DCFL...")
+            const match = sanitizedSequenceNumber.match(/^(\d+)/);
+            if (match) {
+                sanitizedSequenceNumber = match[1];
+            }
+            // Truncate to 10 characters if still too long
+            if (sanitizedSequenceNumber.length > 10) {
+                Logger.warning(`Truncating sequence_number from ${sanitizedSequenceNumber.length} to 10 chars: "${sanitizedSequenceNumber}" -> "${sanitizedSequenceNumber.substring(0, 10)}"`);
+                sanitizedSequenceNumber = sanitizedSequenceNumber.substring(0, 10);
+            }
+        }
+        // Debug: Check field lengths for VARCHAR(10) constraints
+        const footnoteNumber = footnote.footnote_number;
+        const lawType = footnote.law_reference?.law_type || null;
+        const sequenceNumber = sanitizedSequenceNumber;
+        if (footnoteNumber && footnoteNumber.length > 10) {
+            Logger.error(`footnote_number too long (${footnoteNumber.length}): "${footnoteNumber}"`);
+        }
+        if (lawType && lawType.length > 10) {
+            Logger.error(`law_type too long (${lawType.length}): "${lawType}"`);
+        }
+        if (sequenceNumber && sequenceNumber.length > 10) {
+            Logger.error(`sequence_number too long (${sequenceNumber.length}): "${sequenceNumber}"`);
+        }
         const values = [
             hierarchyElementId,
             footnote.footnote_number,
@@ -332,7 +392,7 @@ class DatabaseOperations {
             footnote.law_reference?.law_type || null,
             footnote.law_reference?.date_reference || null,
             footnote.law_reference?.article_number || null,
-            footnote.law_reference?.sequence_number || null,
+            sanitizedSequenceNumber,
             footnote.law_reference?.full_reference || null,
             this.convertDateFormat(footnote.effective_date) || null,
             footnote.modification_type || null,
