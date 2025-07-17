@@ -8,12 +8,12 @@
         document_number VARCHAR(20) UNIQUE NOT NULL,
         title TEXT,
         publication_date DATE,
-        source VARCHAR(50),
+        source VARCHAR(255),
         page_number INTEGER,
-        dossier_number VARCHAR(50),
+        dossier_number VARCHAR(255),
         effective_date VARCHAR(200),
         language VARCHAR(10),
-        document_type VARCHAR(50),
+        document_type VARCHAR(57),
         status VARCHAR(20),
         official_justel_url TEXT,
         official_publication_pdf_url TEXT,
@@ -40,9 +40,9 @@
         id SERIAL PRIMARY KEY,
         document_id VARCHAR(20) NOT NULL,
         parent_id INTEGER,
-        element_type VARCHAR(50),
+        element_type VARCHAR(51),
         label TEXT,
-        title_type VARCHAR(50),
+        title_type VARCHAR(52),
         title_content TEXT,
         article_range VARCHAR(100),
         rank INTEGER,
@@ -58,7 +58,7 @@
         hierarchy_element_id INTEGER UNIQUE NOT NULL,
         article_number VARCHAR(50) NOT NULL,
         document_number VARCHAR(20) NOT NULL,
-        anchor_id VARCHAR(50),
+        anchor_id VARCHAR(53),
         main_text TEXT NOT NULL,
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
@@ -67,7 +67,7 @@
     CREATE TABLE numbered_provisions (
         id SERIAL PRIMARY KEY,
         article_content_id INTEGER NOT NULL,
-        provision_number VARCHAR(50),
+        provision_number VARCHAR(54),
         provision_text TEXT,
         order_index INTEGER,
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
@@ -81,10 +81,10 @@
         footnote_content TEXT,
         law_type VARCHAR(10),
         date_reference VARCHAR(20),
-        article_number VARCHAR(50),
+        article_number VARCHAR(255),
         sequence_number VARCHAR(10),
         full_reference VARCHAR(100),
-        effective_date DATE,
+        effective_date VARCHAR(100),
         modification_type VARCHAR(20),
         direct_url  VARCHAR(255),
         direct_article_url VARCHAR(255),
@@ -109,7 +109,7 @@
         id SERIAL PRIMARY KEY,
         footnote_reference_id INTEGER,
         law_reference TEXT,
-        reference_type VARCHAR(50),
+        reference_type VARCHAR(55),
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
 
@@ -119,7 +119,7 @@
         document_id VARCHAR(20) NOT NULL,
         modified_document_number VARCHAR(20),
         modified_document_title TEXT,
-        modification_type VARCHAR(50),
+        modification_type VARCHAR(255),
         modification_date DATE,
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
     );
@@ -128,7 +128,7 @@
     CREATE TABLE document_modified_by (
         id SERIAL PRIMARY KEY,
         document_id VARCHAR(20) NOT NULL,
-        modification_type VARCHAR(50),
+        modification_type VARCHAR(255),
         modification_date DATE,
         publication_date DATE,
         source_url VARCHAR(255),
@@ -149,7 +149,7 @@
     CREATE TABLE external_links (
         id SERIAL PRIMARY KEY,
         document_id VARCHAR(20) NOT NULL,
-        link_type VARCHAR(50),
+        link_type VARCHAR(52),
         link_url VARCHAR(255),
         link_title VARCHAR(255),
         link_description VARCHAR(255),
