@@ -876,7 +876,7 @@ class DocumentProcessor {
     try {
       const files = await fs.readdir(directoryPath);
       const jsonFiles = files.filter(file => 
-        file.endsWith('.json') || file.endsWith('.txt')
+        (file.endsWith('.json') || file.endsWith('.txt')) && !file.endsWith('_tables.json')
       );
 
       Logger.info(`Found ${jsonFiles.length} files to process`);
