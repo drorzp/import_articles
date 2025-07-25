@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prebuild": "npm run clean",
+    "clean": "rimraf dist",
     "build": "tsc",
     "import": "ts-node src/import-documents.ts",
     "import:prod": "node dist/import-documents.js",

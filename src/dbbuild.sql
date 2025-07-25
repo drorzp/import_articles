@@ -42,7 +42,7 @@
         parent_id INTEGER,
         element_type VARCHAR(51),
         label TEXT,
-        title_type VARCHAR(52),
+        title_type TEXT,
         title_content TEXT,
         article_range VARCHAR(100),
         rank INTEGER,
