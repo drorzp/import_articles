@@ -875,6 +875,20 @@ class DocumentProcessor {
   async processDirectory(directoryPath: string): Promise<ProcessingSummary> {
     try {
       const files = await fs.readdir(directoryPath);
+
+      // Remove any files ending with _tables.json before processing
+      for (const file of files) {
+        if (file.endsWith('_tables.json')) {
+          const fileToDelete = path.join(directoryPath, file);
+          try {
+            await fs.unlink(fileToDelete);
+            Logger.info(`Deleted ignored file: ${file}`);
+          } catch (deleteErr: any) {
+            Logger.warning(`Failed to delete ignored file ${file}`, { error: deleteErr });
+          }
+        }
+      }
+      
       const jsonFiles = files.filter(file => 
         (file.endsWith('.json') || file.endsWith('.txt')) && !file.endsWith('_tables.json')
       );
