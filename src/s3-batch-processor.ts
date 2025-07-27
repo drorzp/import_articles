@@ -37,6 +37,20 @@ interface ProcessingState {
     error: string;
     timestamp: string;
   }>;
+  processedZipFiles: Array<{
+    fileName: string;
+    processedAt: string;
+    documentsProcessed: number;
+    documentsSuccessful: number;
+    documentsFailed: number;
+    successRate: string;
+    processingTimeMs: number;
+    errors: Array<{
+      documentPath: string;
+      error: string;
+      timestamp: string;
+    }>;
+  }>;
 }
 
 interface ZipFileInfo {
@@ -78,7 +92,8 @@ class S3BatchProcessor {
       startTime: new Date().toISOString(),
       lastUpdateTime: new Date().toISOString(),
       errors: [],
-      failedDocuments: []
+      failedDocuments: [],
+      processedZipFiles: []
     };
   }
 
@@ -86,9 +101,30 @@ class S3BatchProcessor {
     try {
       const stateData = await fs.readFile(this.stateFilePath, 'utf-8');
       this.state = JSON.parse(stateData);
-      console.log(`📋 Loaded processing state. Last processed: ${this.state.lastProcessedFile || 'none'}`);
+      
+      // Ensure backward compatibility - initialize new fields if they don't exist
+      if (!this.state.failedDocuments) {
+        this.state.failedDocuments = [];
+      }
+      if (!this.state.processedZipFiles) {
+        this.state.processedZipFiles = [];
+      }
+      
+      console.log(`📂 Loaded existing state: ${this.state.totalFilesProcessed} files processed`);
     } catch (error) {
-      console.log('📋 No existing state found, starting fresh');
+      console.log('📝 No existing state found, starting fresh');
+      this.state = {
+        lastProcessedFile: null,
+        totalFilesProcessed: 0,
+        totalDocumentsProcessed: 0,
+        totalDocumentsSuccessful: 0,
+        totalDocumentsFailed: 0,
+        startTime: new Date().toISOString(),
+        lastUpdateTime: new Date().toISOString(),
+        errors: [],
+        failedDocuments: [],
+        processedZipFiles: []
+      };
     }
   }
 
@@ -324,7 +360,9 @@ class S3BatchProcessor {
       await this.extractZipFile(localZipPath);
       
       // Process documents
+      const startTime = Date.now();
       const summary = await this.processDocuments();
+      const endTime = Date.now();
       
       // Move failed documents to errors directory before cleanup
       if (summary.failures && summary.failures.length > 0) {
@@ -347,6 +385,26 @@ class S3BatchProcessor {
       this.state.totalDocumentsProcessed += summary.total;
       this.state.totalDocumentsSuccessful += summary.successful;
       this.state.totalDocumentsFailed += summary.failed;
+      
+      // Record zip file processing result
+      if (!this.state.processedZipFiles) {
+        this.state.processedZipFiles = [];
+      }
+      
+      this.state.processedZipFiles.push({
+        fileName: zipFileInfo.key,
+        processedAt: new Date().toISOString(),
+        documentsProcessed: summary.total,
+        documentsSuccessful: summary.successful,
+        documentsFailed: summary.failed,
+        successRate: summary.total > 0 ? `${(summary.successful / summary.total * 100).toFixed(2)}%` : '0%',
+        processingTimeMs: endTime - startTime,
+        errors: summary.failures ? summary.failures.map(f => ({
+          documentPath: f.filename,
+          error: f.reason,
+          timestamp: new Date().toISOString()
+        })) : []
+      });
       
       // Save state after each successful zip file
       await this.saveState();
@@ -444,7 +502,8 @@ class S3BatchProcessor {
       startTime: new Date().toISOString(),
       lastUpdateTime: new Date().toISOString(),
       errors: [],
-      failedDocuments: []
+      failedDocuments: [],
+      processedZipFiles: []
     };
     
     await this.saveState();

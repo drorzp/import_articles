@@ -1,6 +1,21 @@
 import * as fs from 'fs/promises';
 import * as path from 'path';
 
+interface ZipFileResult {
+  fileName: string;
+  processedAt: string;
+  documentsProcessed: number;
+  documentsSuccessful: number;
+  documentsFailed: number;
+  successRate: string;
+  processingTimeMs: number;
+  errors: Array<{
+    documentPath: string;
+    error: string;
+    timestamp: string;
+  }>;
+}
+
 interface ProcessingState {
   lastProcessedFile: string | null;
   totalFilesProcessed: number;
@@ -20,6 +35,7 @@ interface ProcessingState {
     error: string;
     timestamp: string;
   }>;
+  processedZipFiles: ZipFileResult[];
 }
 
 class StateManager {
@@ -94,6 +110,21 @@ class StateManager {
         console.log('');
       });
     }
+
+    if (state.processedZipFiles && state.processedZipFiles.length > 0) {
+      console.log('\n📦 Processed Zip File Details:');
+      console.log('-'.repeat(50));
+      state.processedZipFiles.forEach((zipFile, index) => {
+        console.log(`${index + 1}. File: ${zipFile.fileName}`);
+        console.log(`   Processed at: ${new Date(zipFile.processedAt).toLocaleString()}`);
+        console.log(`   Documents processed: ${zipFile.documentsProcessed}`);
+        console.log(`   Documents successful: ${zipFile.documentsSuccessful}`);
+        console.log(`   Documents failed: ${zipFile.documentsFailed}`);
+        console.log(`   Success rate: ${zipFile.successRate}`);
+        console.log(`   Processing time: ${zipFile.processingTimeMs}ms`);
+        console.log('');
+      });
+    }
   }
 
   async setLastProcessedFile(fileName: string): Promise<void> {
@@ -121,7 +152,8 @@ class StateManager {
       startTime: new Date().toISOString(),
       lastUpdateTime: new Date().toISOString(),
       errors: [],
-      failedDocuments: []
+      failedDocuments: [],
+      processedZipFiles: []
     };
     
     await fs.writeFile(this.stateFilePath, JSON.stringify(newState, null, 2));
@@ -169,6 +201,44 @@ class StateManager {
     await fs.writeFile(this.stateFilePath, JSON.stringify(state, null, 2));
   }
 
+  async addZipFileResult(
+    fileName: string,
+    documentsProcessed: number,
+    documentsSuccessful: number,
+    documentsFailed: number,
+    processingTimeMs: number,
+    documentErrors: Array<{ documentPath: string; error: string; timestamp: string }> = []
+  ): Promise<void> {
+    const state = await this.loadState();
+    
+    if (!state) {
+      console.log('❌ No existing state found. Cannot add zip file result.');
+      return;
+    }
+
+    if (!state.processedZipFiles) {
+      state.processedZipFiles = [];
+    }
+
+    const successRate = documentsProcessed > 0 
+      ? ((documentsSuccessful / documentsProcessed) * 100).toFixed(2) + '%'
+      : '0%';
+
+    state.processedZipFiles.push({
+      fileName,
+      processedAt: new Date().toISOString(),
+      documentsProcessed,
+      documentsSuccessful,
+      documentsFailed,
+      successRate,
+      processingTimeMs,
+      errors: documentErrors
+    });
+    
+    state.lastUpdateTime = new Date().toISOString();
+    await fs.writeFile(this.stateFilePath, JSON.stringify(state, null, 2));
+  }
+
   async exportReport(): Promise<void> {
     const state = await this.loadState();
     
@@ -197,42 +267,119 @@ class StateManager {
       },
       errors: state.errors,
       failedDocuments: state.failedDocuments || [],
+      processedZipFiles: state.processedZipFiles || [],
       generatedAt: new Date().toISOString()
     };
     
     await fs.writeFile(reportPath, JSON.stringify(report, null, 2));
     console.log(`✅ Report exported to: ${reportPath}`);
   }
+
+  async showAllZipFilesReport(): Promise<void> {
+    const state = await this.loadState();
+    
+    if (!state) {
+      console.log('📭 No processing state found');
+      return;
+    }
+
+    console.log('\n📦 COMPREHENSIVE ZIP FILES REPORT');
+    console.log('='.repeat(60));
+    
+    // Overall summary
+    console.log('\n📊 OVERALL SUMMARY:');
+    console.log(`📁 Total zip files processed: ${state.totalFilesProcessed}`);
+    console.log(`📄 Total documents processed: ${state.totalDocumentsProcessed}`);
+    console.log(`✅ Total documents successful: ${state.totalDocumentsSuccessful}`);
+    console.log(`❌ Total documents failed: ${state.totalDocumentsFailed}`);
+    
+    if (state.totalDocumentsProcessed > 0) {
+      const overallSuccessRate = ((state.totalDocumentsSuccessful / state.totalDocumentsProcessed) * 100).toFixed(2);
+      console.log(`📈 Overall success rate: ${overallSuccessRate}%`);
+    }
+    
+    console.log(`🕐 Processing started: ${new Date(state.startTime).toLocaleString()}`);
+    console.log(`🕐 Last updated: ${new Date(state.lastUpdateTime).toLocaleString()}`);
+
+    // Individual zip file details
+    if (state.processedZipFiles && state.processedZipFiles.length > 0) {
+      console.log('\n📦 INDIVIDUAL ZIP FILE RESULTS:');
+      console.log('='.repeat(60));
+      
+      state.processedZipFiles.forEach((zipFile, index) => {
+        console.log(`\n${index + 1}. ${zipFile.fileName}`);
+        console.log(`   📅 Processed: ${new Date(zipFile.processedAt).toLocaleString()}`);
+        console.log(`   📄 Documents: ${zipFile.documentsProcessed} total`);
+        console.log(`   ✅ Successful: ${zipFile.documentsSuccessful}`);
+        console.log(`   ❌ Failed: ${zipFile.documentsFailed}`);
+        console.log(`   📈 Success Rate: ${zipFile.successRate}`);
+        console.log(`   ⏱️  Processing Time: ${(zipFile.processingTimeMs / 1000).toFixed(2)}s`);
+        
+        if (zipFile.errors && zipFile.errors.length > 0) {
+          console.log(`   ⚠️  Document Errors: ${zipFile.errors.length}`);
+          zipFile.errors.slice(0, 3).forEach((error, errorIndex) => {
+            console.log(`      ${errorIndex + 1}. ${error.documentPath}: ${error.error}`);
+          });
+          if (zipFile.errors.length > 3) {
+            console.log(`      ... and ${zipFile.errors.length - 3} more errors`);
+          }
+        }
+      });
+    } else {
+      console.log('\n📭 No individual zip file results found');
+      console.log('   (This might be an older processing state before per-zip tracking was added)');
+    }
+
+    // Failed zip files (those that couldn't be processed at all)
+    if (state.errors && state.errors.length > 0) {
+      console.log('\n❌ FAILED ZIP FILES:');
+      console.log('='.repeat(60));
+      state.errors.forEach((error, index) => {
+        console.log(`${index + 1}. ${error.zipFile}`);
+        console.log(`   Error: ${error.error}`);
+        console.log(`   Time: ${new Date(error.timestamp).toLocaleString()}`);
+        console.log('');
+      });
+    }
+
+    console.log('\n' + '='.repeat(60));
+    console.log('📋 Report completed');
+  }
 }
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2);
-  
+  const stateManager = new StateManager();
+
   if (args.length === 0) {
-    console.log('Usage: ts-node state-manager.ts <command> [options]');
+    console.log('State Manager - Processing State Management Tool');
+    console.log('');
+    console.log('Usage: npm run state <command> [options]');
     console.log('');
     console.log('Commands:');
     console.log('  status                     - Show detailed processing status');
     console.log('  reset                      - Reset processing state');
     console.log('  backup                     - Backup current state');
     console.log('  export                     - Export processing report');
+    console.log('  all-zip-files              - Show comprehensive report of all zip files');
     console.log('  set-last <filename>        - Set last processed file');
     console.log('');
     console.log('Examples:');
-    console.log('  ts-node state-manager.ts status');
-    console.log('  ts-node state-manager.ts set-last documents-batch-001.zip');
-    console.log('  ts-node state-manager.ts backup');
-    process.exit(1);
+    console.log('  npm run state status');
+    console.log('  npm run state reset');
+    console.log('  npm run state backup');
+    console.log('  npm run state export');
+    console.log('  npm run state all-zip-files');
+    console.log('  npm run state set-last "some-file.zip"');
+    return;
   }
 
   const command = args[0];
-  const stateManager = new StateManager();
 
   try {
     switch (command) {
       case 'status':
         await stateManager.showDetailedStatus();
-        break;
         
       case 'reset':
         await stateManager.resetState();
@@ -246,6 +393,10 @@ async function main(): Promise<void> {
         await stateManager.exportReport();
         break;
         
+      case 'all-zip-files':
+        await stateManager.showAllZipFilesReport();
+        break;
+        
       case 'set-last':
         if (!args[1]) {
           console.error('❌ Filename is required for set-last command');
@@ -256,10 +407,11 @@ async function main(): Promise<void> {
         
       default:
         console.error(`❌ Unknown command: ${command}`);
+        console.log('Run without arguments to see available commands');
         process.exit(1);
     }
-  } catch (error) {
-    console.error('💥 Command failed:', error);
+  } catch (error: any) {
+    console.error('💥 Error:', error.message);
     process.exit(1);
   }
 }
