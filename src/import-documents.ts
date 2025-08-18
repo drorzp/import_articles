@@ -53,14 +53,9 @@ interface ArticleContent {
   content: {
     main_text: string;
     main_text_raw: string;
-    numbered_provisions?: NumberedProvision[];
   };
 }
 
-interface NumberedProvision {
-  number?: string;
-  text: string;
-}
 
 interface Footnote {
   footnote_number: string;
@@ -464,34 +459,10 @@ class DatabaseOperations {
     const contentId = result.rows[0].id;
 
     // Insert numbered provisions if any
-    if (content.content.numbered_provisions && content.content.numbered_provisions.length > 0) {
-      let orderIndex = 1;
-      for (const provision of content.content.numbered_provisions) {
-        await this.insertNumberedProvision(client, contentId, provision, orderIndex++);
-      }
-    }
+   
   }
 
-  // Insert numbered provision
-  static async insertNumberedProvision(
-    client: PoolClient, 
-    articleContentId: number, 
-    provision: NumberedProvision, 
-    orderIndex: number
-  ): Promise<void> {
-    const query = `
-      INSERT INTO numbered_provisions (
-        article_content_id, provision_number, provision_text, order_index
-      ) VALUES ($1, $2, $3, $4)
-    `;
 
-    await client.query(query, [
-      articleContentId,
-      provision.number || orderIndex.toString(),
-      provision.text,
-      orderIndex
-    ]);
-  }
 
   // Insert footnote - returns SERIAL id
   static async insertFootnote(client: PoolClient, hierarchyElementId: number, footnote: Footnote): Promise<number> {
