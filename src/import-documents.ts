@@ -53,6 +53,7 @@ interface ArticleContent {
   content: {
     main_text: string;
     main_text_raw: string;
+    raw_markdown: string;
   };
 }
 
@@ -441,7 +442,7 @@ class DatabaseOperations {
   static async insertArticleContent(client: PoolClient, hierarchyElementId: number, content: ArticleContent, document_number: string): Promise<void> {
     const query = `
       INSERT INTO article_contents (
-        hierarchy_element_id, article_number, anchor_id, main_text, main_text_raw, document_number
+        hierarchy_element_id, article_number, anchor_id, main_text, main_text_raw, document_number,raw_markdown
       ) VALUES ($1, $2, $3, $4, $5, $6)
       RETURNING id
     `;
@@ -452,7 +453,8 @@ class DatabaseOperations {
       content.anchor_id || null,
       content.content.main_text,
       content.content.main_text_raw,
-      document_number
+      document_number,
+      content.content.raw_markdown
     ];
 
     const result = await client.query(query, values);
