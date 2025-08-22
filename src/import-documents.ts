@@ -410,22 +410,22 @@ class DatabaseOperations {
     const footnoteIdMap = new Map<string, number>();
 
     // Insert footnotes
-    if (element.footnotes && element.footnotes.length > 0) {
-      for (const footnote of element.footnotes) {
-        const footnoteId = await this.insertFootnote(client, elementId, footnote);
-        footnoteIdMap.set(footnote.footnote_number, footnoteId);
-      }
-    }
+    // if (element.footnotes && element.footnotes.length > 0) {
+    //   for (const footnote of element.footnotes) {
+    //     const footnoteId = await this.insertFootnote(client, elementId, footnote);
+    //     footnoteIdMap.set(footnote.footnote_number, footnoteId);
+    //   }
+    // }
 
     // Insert footnote references
-    if (element.footnote_references && element.footnote_references.length > 0) {
-      for (const ref of element.footnote_references) {
-        const footnoteId = footnoteIdMap.get(ref.reference_number);
-        if (footnoteId) {
-          await this.insertFootnoteReference(client, elementId, footnoteId, ref);
-        }
-      }
-    }
+    // if (element.footnote_references && element.footnote_references.length > 0) {
+    //   for (const ref of element.footnote_references) {
+    //     const footnoteId = footnoteIdMap.get(ref.reference_number);
+    //     if (footnoteId) {
+    //       await this.insertFootnoteReference(client, elementId, footnoteId, ref);
+    //     }
+    //   }
+    // }
 
     // Recursively insert children
     if (element.children && element.children.length > 0) {
